@@ -1,0 +1,46 @@
+Brain Games
+From Wikipedia, the free encyclopedia
+For other uses, see Brain Games (disambiguation).
+Brain Games
+Brain Games box art
+Distributor(s)	Atari, Inc.
+Programmer(s)	Larry Kaplan
+Platform(s)	Atari 2600
+Release	1978
+Genre(s)	Puzzle
+Mode(s)	1–2 players
+Brain Games is a compilation of memory video games released by Atari, Inc. for the Atari 2600 in 1978. It was programmed by Larry Kaplan, and it featured a series of memory-related games, most of which required players to repeat from memory certain sequences or patterns.
+
+Contents  [hide] 
+1	Background
+1.1	Gameplay
+2	Reception
+3	References
+4	Sources
+Background[edit]
+Programmed by Larry Kaplan,[1] Brain Games was manufactured by Atari, Inc. and released in 1978.[2] It is a group of memory games,[3] in which the player is faced with outwitting the computer in sound and picture puzzles.[4] It can be played as either a one or two player game.[5] In place of using the standard joystick, Brain Games utilizes the 12-button keypad controller.[citation needed] In 1978, the game sold for $19.95,[4] and remained roughly the same price in the next few years.[6]
+
+Brain Games has been suggested in the 1984 book Clinical Management of Memory Problems as an effective clinical device for memory retraining exercises. Noted for having a variety of useful games, patients would be faced with auditory and visual cues that may improve spatial reasoning.[7]
+
+Gameplay[edit]
+
+Screenshot of player engaged in "Picture Me".
+Featuring a total of 19 games, the catalog of Brain Games included a variety of memory games where the player must focus on a series of ciphers, symbols, and musical notes.[5] Each game has several options for altering the "difficulty switches", which add different aspects of challenge[8] and have the following progression:[9]
+
+Game	Variants
+Touch Me	1–4
+Count Me	5–8
+Picture Me	9–10
+Find Me	11–14
+Add Me	15–18
+Play Me	19
+"Touch Me", which was the video version of the 1974 arcade game of the same name,[3] was the precursor for the handlheld game Simon, in which the player must match a sequence of tones, and the computer would add a new note upon each successive turn.[8] This continues up until the player completes a 32 consecutive note execution.[10] In "Find Me", the player must detect subtle differences in the figures as they are flashed on the screen;[11] in "Picture Me", the player must memorize the placement of the picture sets, which the computer then rearranges. "Count Me" requires the player to match a sequence of digits played by the computer; upon correctly ordering the digits, the computer adds a new digit to the sequence. "Add Me" also utilizes numeric digits as part of the challenge, although the player must determine the sum the digits presented by the computer. Finally, "Play Me", which turns the 12-button keypad controller into a musical instrument, allows players to play the songs "Happy Birthday to You", "Twinkle Twinkle Little Star", and "Three Blind Mice". If two keypad controllers are plugged in, the players can play a duet with "Row Your Boat" as well.[8] Adding to the timed challenges are "diabolical distractions",[5] such as loud noises.[8]
+
+Atari later released a handheld version of "Touch Me".[3]
+
+Reception[edit]
+Reception
+Review score
+Publication	Score
+AllGame	2/5 stars[12]
+Skyler Miller of Allgame gave 2 out of 5 stars, stating that Brain Games would "challenge and hopefully entertain you".[12]

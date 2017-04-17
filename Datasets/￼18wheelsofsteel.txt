@@ -1,0 +1,275 @@
+￼
+￼￼￼￼￼￼￼￼￼￼￼￼￼Introduction
+￼Welcome to the help for 18 Wheels of Steel - American Long Haul
+￼18 Wheels of Steel - American Long Haul is the most realistic trucking simulation to date. In addition to haulin' your own cargoes between 44 different cities, you have complete control over your own trucking business - you can buy trucks and trailers to expand you fleet, hire and fire drivers, and decide which contracts to take and which to leave. You can monitor and control your business as closely as you want - find out where your vehicles and drivers are and what they are doing, transport your vehicles between cities, or just leave your drivers to do their job and read a log of their activities in the company journal.
+￼￼￼￼￼￼￼￼￼￼￼￼￼System Requirements
+￼
+Minimum System
+￼ 1.4 GHz Pentium 4 or compatible.
+￼ 512 MB RAM.
+￼ 64 MB graphics accelerator.
+￼ 400 MB Hard Drive Space.
+￼ DirectX 9 compatible sound card.
+￼ DirectX 9
+￼Recommended System
+￼ 2.0 GHz Pentium 4 or compatible.
+￼ 1 GB RAM.
+￼ 128 MB graphics accelerator.
+￼Note that for maximum enjoyment we suggest playing the game with a force- feedback wheel and pedals control system.
+￼￼￼￼Getting Started
+￼The following guide is meant to be followed in exact sequence. It is suggested that you print it to simplify its use.
+￼Part 1 - Launching 18 Wheels of Steel American Long Haul
+￼Use one of the following methods to launch the game. This method may vary depending on options selected during the installation of American Long Haul.
+￼1. Either - Choose Start menu -> All Programs -> 18 Wheels of Steel American
+￼Long Haul -> Play 18 Wheels of Steel American Long Haul
+￼2. or - Locate the 18 Wheels of Steel American Long Haul icon on the desktop,
+￼and double-click it.
+￼Part 2 - Starting a new Game
+￼
+1. Launch the game as detailed above, and wait for it to load.
+￼2. Click "NEW GAME".
+￼3. In the dialog which appears, enter your name.
+￼4. Select the "Campaign" mode - this is the true American Long Haul experience.
+￼5. Select the "Dallas" as the city in which your company headquarters will be
+￼located - this will also be the city from which you start.
+￼6. Click "PLAY" and wait until the game-world appears.
+￼Part 3 - The Basics
+￼You will now see the game world from the inside of a truck-cabin. Try the following:
+￼1. Use the mouse to look around your cabin.
+￼￼￼￼2. Press to blast the horn.
+H
+￼￼￼￼￼￼￼￼3. Press to start the engine.
+E
+￼￼￼￼￼￼￼￼4. Press to display the map.
+M
+￼￼￼￼￼5. Practice driving - use up and down arrow keys to accelerate and brake, and
+￼left and right arrow keys to turn, but stay within the parking lot for now.
+￼Part 4 - Finding a Job
+￼You should now be somewhat familiar with driving, so you can now go find some hauling work.
+￼1. Go south out of the parking lot, cross the road and turn left (don't forget to
+￼￼￼￼￼use the left blinker - press to toggle it on and off).
+[
+￼￼￼￼￼￼2. You want to head to the Dig Whitch construction parts yard, so head east and
+￼keep your eye on the map - the white arrow indicates both where you are,
+￼and the direction you are pointing.
+￼3. When you get near to the Dig Whitch yard slow down, and look for the
+￼entrance (it will be on your left).
+￼4. Drive into the yard entrance and park your truck over the floating arrow
+￼￼￼￼symbol.You may wish to engage the parking break - press to
+SPACEBAR
+￼￼￼￼￼toggle it.
+￼
+Part 4 - Accepting a Job
+￼You should now be parked over the rotating 3D icon (an arrow pointing downwards in a circle). If you parked correctly, you will see a message popup asking you to press Enter.
+￼￼￼￼1. Press to view job offers.
+Enter
+￼￼￼￼￼2. Click through the CARGO list as you wish. On the DESTINATION list, you can
+￼see the company and city to which the cargo needs to be delivered, as well as
+￼the payment you will receive on successful delivery. Payments are higher for
+￼longer journeys, and more precious goods.
+￼3. You want a short journey this time, so find the cheapest of the jobs - typically
+￼one from the 'WASTE' section - and select it.
+￼4. Click "Accept Job"
+￼Part 5 - Picking up the Cargo
+￼You should now - having accepted the job - be ready to pick up the cargo in its trailer.
+￼1. When you accepted the job, you should have seen a trailer appear in the
+￼￼￼￼yard. If you did not, use the External View (press ) and rotate the view
+2
+￼￼￼￼￼using the mouse until you locate it.
+￼￼￼￼￼2. Go back to the Cabin View (press ) if not using it already, and drive
+1
+￼￼￼￼￼￼carefully over to the trailer - remember to disengage your parking break if
+￼you engaged it! Note that each time you collide with the trailer, it will suffer
+￼damage which will reduce your payment, and your truck will also be
+￼damaged.
+￼3. You want to attach the trailer to your truck, so to do this you need to reverse
+￼the truck until you are aligned as best as possible with the trailer. Position the
+￼rear of the truck under the trailer, and stop moving.
+￼4. If you are lined up correctly, a message will appear, telling you to press T to
+￼attach the trailer. If this message does not appear, you either didn't position
+￼your truck correctly, or are still moving. You may wish to use the Overhead
+￼￼￼￼View to help you - press .
+4
+￼￼￼￼￼
+￼￼￼5. Press when the message appears and the trailer will attach.
+T
+￼￼￼￼￼Part 6 - Transporting the Cargo
+￼You should now be sitting in the yard with the trailer attached to your truck. Since you're now hauling a cargo, you're going to have to drive a little more carefully.
+￼1. First you need to know where you are going, so before you start driving,
+￼check the destination of the cargo - look in the top left corner of the screen.
+￼￼￼￼2. Press to open your notebook. Your notebook is the point of access to most
+N
+￼￼￼￼￼of your information and business needs.
+￼3. Click the "WORLD MAP" button - a map of North America will appear.
+￼4. Click the "ZOOM" "+" button to zoom in a little.
+￼5. Your destination is indicated as a small red circle - try to work out which route
+￼you need to take to get there. Don't worry - you can refer to this map any
+￼time during the journey, so you only need to work out which way to go next.
+￼6. Close the notebook.
+￼7. Now it's up to you! Find your way to the destination unloading point. Use both
+￼￼￼￼￼the notebook map, and the in-game map (press ) to navigate.
+M
+￼￼￼￼￼￼Part 7 - Delivering the Cargo
+￼This part assumes that you found your way to the destination unloading point.
+￼1. Drive into the yard area of the company to which you are delivering.
+￼2. Look for the glowing red box-shaped area, which indicates where to position
+￼the trailer.
+￼3. Now comes the hard part - you need to get the entire trailer to sit inside this
+￼box as neatly as possible. Usually you will have to reverse the trailer into
+￼position. Use a combination of the various camera viewpoints - which you
+￼have covered already - to help you get the trailer aligned.
+￼4. When you believe the trailer is correctly positioned, stop the truck moving,
+￼preferably by engaging the parking brake. If you are positioned correctly, a
+￼popup message will appear: "Cargo ready for unloading. Press the following
+￼key to detach trailer: Enter".
+￼
+￼￼￼5. Press the key. The trailer will unload, and you will receive payment
+Enter
+￼￼￼￼￼for a successful delivery! Congratulations! You may now repeat the process of
+￼finding and accepting a job.
+￼￼￼￼Driving
+Some Driving Tips
+￼￼ As in real life, you must respect other road users by using your blinkers, and
+￼by braking as gently as possible. Effective use of blinkers is essential for
+￼navigating road systems without unnecessary collisions.
+￼ Plan ahead for fuel - keep an eye on your fuel consumption and use the map
+￼to plan your route with gas stations in mind.
+￼ Remember to use your headlights at night.
+￼ Use the four-way flasher if you need some maneuvering space to get moving
+￼from a standing start.
+￼Driving Controls
+￼Note that you may redefine game controls via the OPTIONS menu.
+￼￼￼￼￼￼￼￼￼￼￼Action
+Control
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle engine on/off
+E
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Accelerate
+Up Arrow Key
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Brake
+Down Arrow Key
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Turn left
+Left Arrow Key
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Right Arrow
+￼￼￼Turn right
+￼￼￼￼￼￼Key
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Cycle lights - high beam/low beam
+L
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle left blinker
+[
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle right blinker
+]
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle hazzard blinkers
+F
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Horn
+H
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Attach/detach Trailer (when truck is correctly positioned under trailer)
+￼￼￼T
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼View Controls
+￼￼￼￼￼￼￼￼￼￼Action Control
+￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle Mirrors
+F2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle HUD
+F3
+￼￼￼￼￼￼￼￼￼￼￼￼￼Open map
+F4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Cabin View
+1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼External View 2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Bumper/fender View
+3
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Overhead View
+4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Drive-by View 5
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Look left (in Cabin View)
+/
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Look right (in Cabin View) *
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Miscellaneous Controls
+￼￼￼￼￼￼￼￼￼￼￼￼Action
+Control
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Operate CB Radio
+V
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Open Notebook
+N
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle Mini-map
+M
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Play music on radio
+R
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Take a screenshot
+F10
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼The HUD (Heads Up Display)
+￼The HUD provides you with visual information about the state of your truck such as speed, RPM, and blinker activity. It also provides you with other at-a-glance information, such as your bank account balance, legal status, cargo destination, and trailer damage levels.
+The HUD replicates all the features of the dashboard as seen in the Cabin View, in a screen-overlay which is visible in all the other views such as the Overhead View, or the Drive By View.
+￼When not Hauling
+￼If you are not hauling a trailer, the top of the HUD will look something like the following:
+￼￼￼Reading from left to right: Account balance ($20,000), legal status, truck damage, and in-game date and time.
+The legal status is represented as a red bar in the black space next to the 'star' icon. If you commit a traffic offense, such as running a red light, or crashing into another vehicle, then the red bar will grow. If you encounter the police with a red legal status, you may be fined for traffic offenses.
+The truck damage is represented as a red bar in the black space next to the truck icon. If you damage your truck in a collision, the red bar will grow. The performance of your truck is affected by its damage status. Be sure to service a damaged truck.
+When Hauling
+￼If you are hauling a trailer, the top-left of the HUD will also show the following:
+￼￼
+In this case, we are hauling a Fertilizer cargo to the Homegarden company in Indianapolis, and that the payment on delivery shall be $12,087. Next to the description, is the trailer damage bar. This indicates damage in the same way as the truck damage bar - a red bar growing as damage increases.
+￼Dashboard Elements
+￼The tachometer (measuring engine Revolutions Per Minute or RPM), and speedometer are shown here:
+￼￼￼The tachometer (the large dial on the left) also indicates the current gear as a figure in the gray circle at the bottom of the dial. On this example, we are in 1st gear ('1').
+The speedometer (the large dial on the right) also indicates distance traveled in miles.
+Between the tachometer and speedometer is the fuel tank indicator. When the fuel needle points towards the black spot, the tank is empty. The word FUEL also lights up in red.
+Reading the other indicators from left to right are: Full-beam lights, normal lights, left blinker, right blinker, hand brake, and motor brake.
+The braking system air pressure (in Pounds per Square Inch) and water temperature are shown here:
+￼￼￼If the air pressure in the breaking system falls too low, you have problems with your braking system and you will need to locate a truck service stop, and take your truck in for repair.
+If the engine temperature rises too high, your engine may be in trouble, and in need of service.
+￼￼￼￼￼￼￼￼￼￼￼￼Using the Notebook
+￼The Notebook is your point of access to your company, accounts, drivers, truck and trailer fleet, and also the world map and other useful information. You can access the notebook any time you are in your truck, by pressing ￼ ￼ ￼ .
+When the notebook opens, you are presented with a menu of buttons. These are explained below:
+￼￼￼N
+￼￼Manage Contracts
+￼18 Wheels of Steel - American Long Haul gives you the ability to manage your entire fleet of trucks, trailers, and drivers. When you have at least one extra truck, one extra trailer, and have hired at least one driver, you may begin to assign these to the various delivery contracts which are available.
+Only companies for which you have already delivered may wish to contract you or your drivers. The companies for which you have not delivered a single cargo recently have no reference and will not be willing to contract your employees - you must prove yourself to them first. Companies to which you delivered badly damaged goods
+￼
+may not wish to work with you in the future. Any company which does have work contracts for you shown in the Company List alongside a dollar symbol '$'.
+To get a contract, click on a company with the dollar symbol (see previous paragraph). On the right hand side of the screen, you will see a "Create Contract" button appear - click it. Use the three assign buttons which appear, to assign a driver, truck, and trailer to the contract.
+￼View Journal
+￼The company journal keeps track of your all your business transactions. Whether you purchase a truck or trailer, deliver a cargo, or hire an employee, it will be noted in the journal. A useful way to keep track of your business, jobs, and employees.
+￼View Bank Account
+￼Use the Bank Account screen not only to keep an eye on your balance, but also to take out and repay loans.
+Any loans which you already have and did not finish repaying are listed under the Loan List title.
+You can take out a loan by clicking the Take Loan button. The normal amount loaned is $10,000. If you wish to take more money, adjust amount using the up and down 'spinner' arrow buttons next to the loan amount, before clicking the Take Loan button.
+Loans are repaid automatically on a monthly basis over a 12 month period, however you can choose to repay the entire loan at any moment by using the Repay button. In a similar way to that of taking out a loan, you can adjust the repayment amount by using the up and down arrow buttons next to the repayment amount.
+￼Transport Vehicles
+￼It is possible to have any of your fleet's parked vehicles transported between headquarters, garages, and parking lots. In the Transport Vehicles screen, select the vehicle which you wish to have transported, then select the destination you require and click the "Move To" button.
+￼
+Manage Trucks
+￼Use the manage trailers screen to find out where your fleet of trucks are, who is driving them, and to whom they are contracted to. You can examine each truck in your fleet by clicking the various truck names in the "Your Truck Fleet" lists. If your truck is damaged you can see the scope of the damage in the "Truck Damage" section, and may fix it by using the "Service Vehicle" button. You may also sell your trucks via this screen.
+￼Manage Trailers
+￼Use the manage trailers screen to find out where your fleet of trailers are, and to whom they are contracted to. You may also sell your trailers via this screen.
+￼Manage Drivers
+￼You may hire other drivers to drive your fleets of trucks and trailers. Drivers may be found at any of the various hotels and motels you can visit. Use the View Map button of the notebook to find such places. Once hired, you may use the driver management screen to keep track of your drivers' activities, and to dismiss them from your employment.
+In the center of the screen is a list of your drivers. Click a driver name to view their statistics.
+The bar in the graph at the bottom of the screen is a log of the driver's activities in a single day. Initially, it shows activities which the driver performed in the current day, however you may cycle through previous days by clicking the small left and right arrow controls.
+￼Order Truck
+￼When you want to buy a new truck, this is the place to go. You may scroll through the list of available trucks, and choose one suitable for your needs. Each truck has its own set of parts available, such as engines and transmissions, all of which can also be purchased from this screen.
+￼
+Note that each new truck has a delivery time of at least one day - after buying the truck, you may wish to use the Advance Time button to move forward to the delivery date immediately.
+￼Order Trailer
+￼Having a fleet of trailers is key to operating a successful trucking business. Of course, to manage trailers, you're going to need to buy them first. Use the Order Trailer button to do this. On the left of this screen, there is a list of trailers available for purchase. Clicking on each trailer reveals a list of the cargo-types which the trailer is suitable for transporting. For instance - the "Open Top" trailer is suitable for transporting Beet, Potatoes, and Pumpkins.
+The cargo types available for a trailer limit the contract work it may perform.
+Note that each new trailer has a delivery time of at least one day - after buying the trailer, you may wish to use the Advance Time button to move forward to the delivery date immediately.
+￼View Map
+￼The map is very useful for navigation. You can zoom in and out of your position on the map by clicking the Zoom + and - buttons. You may also switch on and off various key features of the map, such as road and city names, by clicking the appropriate map-key buttons.
+Your position and heading are indicated by the white arrow, and your cargo destination - if you have one - is shown as a small red circle.
+￼Make Emergency Call
+￼Use the emergency call if you are stranded on or off the highway without fuel or traction. The service will cost approximately $1500 depending on circumstances. You will be placed back on the highway with an almost full tank of gas.
+￼￼
+￼￼￼Truck Upgrades Appendix
+￼Amongst the accessory parts available for your truck as upgrades at service stations, are the AVI, ABS, and BBW. These parts are explained below.
+￼￼ABS
+￼Anti-lock Braking System. These prevent wheel lockup in a hard braking
+situation, which reduces the chance of skidding.
+￼￼AVI
+￼Automatic Vehicle Identification - allows you to pass through weigh-stations
+￼without needing to stop. Note that you will still have to drive through the
+station.
+￼￼BBW
+Brake By Wire - improves the braking response of your truck.
+￼￼

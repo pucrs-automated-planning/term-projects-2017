@@ -1,0 +1,511 @@
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Manual
+￼￼EPILEPSY WARNING
+Please read before using this video game or allowing your children to use it. Some people are susceptible to epileptic seizures or loss of consciousness when exposed to certain flashing lights or light patterns in everyday life. Such
+people may have a seizure while watching images or playing certain video games. This may happen even if the person has no medical history of epilepsy or has never had any epileptic seizures. If you or anyone in your family has
+ever had symptoms related to epilepsy (seizures or loss of consciousness) when exposed to flashing lights or patterns, consult your doctor prior to playing. We advise that parents should monitor the use of video games by
+their children. If you or your child experience any of the following symptoms: dizziness, blurred vision, eye or muscle twitches, loss of consciousness, di- sorientation, any involuntary movement or convulsion, while playing a video game, IMMEDIATELY discontinue use and consult your doctor (particularly
+since experience of any of these symptoms could lead to injury from falling down or striking nearby objects). Parents should ask their children about the above symptoms – children and teenagers may be more likely than
+adults to experience these seizures.
+Precautions to Take During Use
+- Do not stand too close to the screen. Sit a good distance away from the monitor, as far away as the length of the cable allows.
+- Preferably play the video game on a small screen.
+- Avoid playing if you are tired or have not had much sleep.
+- Make sure that the room in which you are playing is well lit.
+- Rest for at least 10 to 15 minutes per hour while playing a video game.
+Warning: Avoid Damage to Your Television
+Do not use with certain television screens and monitors. Some televisi- ons, especially front- or rearprojection types and plasma screens, can
+be damaged if any video games are played on them. Static images or pictures presented during the normal course of playing a game (or from putting the game on hold or pausing) may cause permanent
+picture-tube damage, and may “burn in” to the screen, causing a permanent shadow of the static image to appear at all times, even when the games are not being played. Always consult your television
+screen or monitor manual or otherwise the manufacturer to check if video games can be played safely.
+￼￼2
+￼￼15 days © 2010 dtp entertainment AG. All rights reserved. Developed by House of Tales. Published by hell-tech. All company names, brand names, trademarks and logos are the property of their respective owners.All copyright and ancillary copyright reserved – No hiring! No unauthorised duplication, decompiling, renting, public performance, broadcasting!
+dtp entertainment AG, Goldbekplatz 3-5, 22303 Hamburg.
+No responsibility will be taken for any viral damage.
+Financed by dtp Game Portfolio 2007 Fondsgesellschaft mbH & Co. KG, Hamburg.
+WWW.15DAYS-GAME.COM WWW.DTP-ENTERTAINMENT.COM
+WWW.HELL-TECH.COM
+Contents
+Limitation of Liability 4 Foreword 5 Game Features 5 System Requirements 6 Installation 6 Settings 8 Playing the Game 8 Controls and Interaction 11 Computer and Cellphone 17 The game 19 Tips for your Game Strategy 21 Credits 23 Troubleshooting 28
+￼￼￼￼￼￼￼3
+￼￼Limitation of Liability
+dtp entertainment AG accepts no responsibility for the completeness and accu- rateness of the content of the software stored on the data carrier. Liability for any loss of profits, damages or loss of the saved data or for any other indirect
+or consequential damages is excluded, provided it does not result from gross negligence or malicious conduct on the part of dtp entertainment AG. Any claims for indemnity are limited to the amount of the licence fee paid, irrespec-
+tive of the grounds for such action.
+1. Licence
+The purchaser has the non-exclusive right to use the program on a single computer workstation. This right cannot be transferred, rented or loaned. Copying or archiving of the program for backup purposes is permitted. Ow-
+nership and copyrights and any trademark rights to the software will remain the property of dtp entertainment AG, respectively and its licence partners.
+2. Restrictions and prohibition to modify software
+The program, or any parts of the program, may not be circulated, licensed, rented, modified, translated, adapted or published either for a fee or free of charge. Nor may the software, in whole or in part, be disassembled, decom-
+piled, or generally in any other way reverse engineered in readable form.
+3. Duration of the agreement
+The licence is valid until its termination. The licence agreement can be terminated upon the destruction of the software, along with all its copies.
+The licence will expire immediately in the event of a violation of any condition in the licence agreement and with no prior notice on the part of dtp entertainment AG, respectively and its licence partners.
+4. Limitation of Liability
+dtp entertainment AG or hell-tech e.K. accepts no responsibility for the completeness and accurateness of the content of the software stored on the data carrier. Liability for any loss of profits, damages or loss
+of the saved data or for any other indirect or consequential damages
+is excluded, provided it does not result from gross negligence or malicious conduct on the part of dtp entertainment AG. Any claims for
+indemnity are limited to the amount of the licence fee paid, irrespec- tive of the grounds for such action.
+5. Final clauses
+This contract is governed by German law. Should any clauses in this licence agreement prove legally untenable or unenforceable, all the
+other conditions will remain valid. Any unenforceable conditions will be replaced by stipulations that resemble the original meaning of the agreement as closely as possible.
+￼￼4
+￼￼Foreword
+Welcome to the thrilling adventure of 15 Days!
+Congratulations on your purchase of this adventure game, which is sure to serve up some exciting entertainment over the next few weeks. There will be puzzling events to investigate and characters to interrogate. If you like, you can put the game in your computer and begin your journey straight away, but just so you can enjoy
+15 Days at its fullest potential, you ought to give yourself a few minutes to read through this manual. This manual will help you install the game and choose the best settings for your computer. In addition you will also learn everything you need to know about the controls and the basic game strategy.
+Wishing you lots of fun and excitement,
+The House of Tales Development Team
+Game Features
+In 15 Days you can expect to find some fascinating characters and some mysteri-
+ous locations. Here’s a list of the features:
+High resolution, fully animated 2D/3D graphics More than 20 speaking characters Lip-synched, movie quality dialogue
+more than 5 hours of speech
+rendered video sequences and tracking shots superb thriller sound track
+￼￼￼￼￼￼￼￼5
+￼￼￼System Requirements Minimum Requirements
+Pentium® IV GHz or comparable processor with SSE3 support 512 MB RAM (XP) / 1 GB RAM (Vista)
+Graphic Card with 128 MB RAM shader 2.0 Sound card supporting DirectX 9®
+4 GB free hard disk space
+DVD-ROM drive mouse, keyboard
+Recommended System Requirements
+Pentium® Core2 Duo® 2,0 GHz
+1 GB RAM (XP) / 1.5 GB RAM (Vista)
+Graphic Card with 256 MB RAM shader 2.0 Sound card supporting DirectX 9®
+4 GB free hard disk space
+Hardware
+￼￼DVD-ROM drive mouse, keyboard
+Automatic Start
+Installation
+￼To let the game install automatically, place the DVD into your DVD- ROM drive.
+The game launcher will start up by itself and will allow you to install
+the game or make changes to the configuration settings.
+Manual Start
+If the launcher does not start up then you can launch the game manually: Open Windows Explorer and select your DVD-ROM drive
+in order to view the content.
+￼￼6
+￼￼Now double-click on the file ‘launcher.exe’ in order to start the installer.
+￼￼Launcher Menu
+This screen makes several options available to you. Install 15 Days launches the installation assistant.
+If you have already installed the game, then instead of the Install option being available,you will see the option Start New Game.
+Resume Game launches the most recently saved game.
+Settings opens the Configuration menu for the settings.
+15 Days Internet Page takes you to the 15 Days home page.
+dtp entertainment Internet Page takes you to
+the dtp entertainment home page. House of Tales
+Discussion Forums takes you to the game developer‘s Internet forum.
+Product Catalogue (PDF) opens the current dtp entertainment product catalogue.
+Install 15 Days
+As soon as you select this option, the installation assistant will launch and it will suggest a standard path for the installation of the game. You can either accept this path or enter a new one yourself.
+￼￼￼￼￼￼￼￼￼￼￼7
+￼￼DirectX
+Even if you already have DirectX installed on your computer from other games, it is recommended you reinstall it just to make sure that you’re running the latest ver- sion. Later versions of DirectX will never be overwritten with older versions, the
+system will detect this. You will find DirectX on the 15 Days DVD in the folder ‘Data’ , ‘Redist’. To launch the installation, double-click on ‘DXSETUP.exe’.
+Settings
+In this menu you can establish the screen resolution and how demanding the reproduction quality is going to be for your computer’s processor. This can
+be very useful for running the game on lower specification systems.
+Video Settings
+This is where you can select your preferred resolution and performance settings. If you experience problems with the performance of 15 Days on your system, then turn off these options one by one until you are satisfied
+with how fast the game runs on your computer.
+￼Main Menu
+You can open the Main Menu in the game by
+either pressing
+the Esc key or via the ‘Function Hub’.
+Open the Function Hub by moving the mouse over
+the Map button
+at the bottom left.
+Playing the Game
+￼Two arrows will appear; one pointing up, the other right. Now move your mouse pointer upwards.
+Various function icons will appear. Click the Main Menu icon at the
+￼8
+￼￼top. In this menu you will find the following options:
+New Game
+Start a completely new game.
+Load Game
+Opens the menu to load a previously saved game. A picture from the point in time when the game was saved should help you to identify your saved games more easily. Use the arrow buttons to navigate through the list of saved games. You can also access the Load menu when you use the mouse to open the Function Hub at the bottom left of the screen, as explained above.
+Save Game
+Opens the menu to save the current game. The standard folder for saved games is the
+‘15 Days Savegames‘ folder in the ‘My Documents’ folder (Windows XP) or in the ‘Docu- ments’ folder (Windows Vista or Windows 7). You will be given a suggested name for the saved game, which you can change if you wish.
+You can exchange saved game files with other players without any problem. In order to load an external saved game, it has to be placed in the folder with all the other saved games and then opened using Load Game. You will also arrive at the Save Menu when you use the mouse to open the Function Hub at the bottom left of the screen, as explained above.
+Continue Playing
+This closes the Main Menu and reverts you back to the game.
+￼￼￼￼9
+￼￼Quit the Game
+Closes down the game and, following a confirmation prompt, takes you back to Windows.
+Settings
+The Settings menu allows you to adjust
+playback settings within the game. The
+following options are:
+￼Music Volume
+Adjusts the volume of the background music.
+Sound Effects Volume
+Adjusts the volume of the sound effects.
+Speech Volume
+Adjusts the volume of the dialogue.
+Picture Brightness
+Adjusts the brightness of the screen. Alternately you can adjust your monitor’s brightness and contrast settings.
+Sub-titles
+Switches subtitles on or off.
+￼￼￼￼￼￼￼￼￼￼10
+￼
+￼￼Controls and Interaction
+Controls
+The controls for 15 Days are intuitive. Almost the entire game is controlled using
+the mouse. Only a few functions require the additional use of the keyboard. It isn’t possible to control the game solely using the keyboard, or by the sole use of either a joystick or a joypad.
+Keyboard Commands
+Esc Opens the game’s Main Menu. Space Bar Shows on-screen help.
+Pressing the space bar will highlight the interactive areas of the screen, inclu- ding exits, objects that can be observed and picked up, and people that can be conversed with.
+Mouse Pointer (Cursor)
+In order to carry out actions within the game, move the mouse pointer onto a part of the screen and click on it with the left mouse button. If some kind of interaction is possible at a location on the screen, then this
+is what we call a hotspot - an interactive area within the game environment. The mouse pointer will change to indicate this.
+￼￼￼￼￼￼￼￼￼11
+￼￼Actions Menu
+When you click on a hotspot, an Actions Menu will open, giving you options as to how
+you can interact
+with it. Click on
+one of the availa- ble options with the mouse.
+The Action Menu for any given hotspot will change automati- cally according to the situation
+in your inventory. Additional actions may be made available to you when you have a certain
+object in your inventory.
+Standard Cursor
+By left-clicking any- where on the screen, the character will move
+to the selected point.
+Direction Cursor
+Left-clicking on this icon with the mouse will show a new
+camera angle in the current scene, possibly revealing new
+items or areas of interest.
+Exit
+into another scene.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Left-clicking on this icon with the mouse will move the character
+￼￼12
+￼￼￼￼￼Action Cursor
+Is shown as soon as the mouse pas- ses over an object
+that can be interacted with.
+Speech Bubble
+Is shown when con- versation is possible with a character.
+Magnifying Glass
+Is shown when a switch to a more detailed view is possible.
+Exiting
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼from the Detailed View Shows where you can exit a detailed view.
+￼￼13
+￼￼Function Hub
+The Function Hub is a round control element which is always shown in the bottom left of the screen. Via the Function Hub you can access the map, the inventory and the most important menu functions.
+Map
+are reachable via the map and these are shown and active. By clicking on a symbol, you can go directly to the corresponding place in the game world.
+Inventory Bar
+When you pick up an object in the game, it will be placed into your Inventory. This is where all of the objects you have picked up will go, ready to be used. To display the inventory, move the mouse pointer over the right hand edge
+of the Function Hub. To scroll through all the objects in your inventory, move the mouse over the right or left edge of the bar. Here you‘ll find arrows which allow you to see more items in your inventory.
+In the circle of the Function Hub is a map and a symbol – this symbol shows your present location in the game. When you click on the circle, the map will open. Symbols of places you have already visited
+￼￼￼￼14
+￼￼Menu Functions in the Function Hub
+When you move your mouse over the upper edge of the Function Hub, the following three options will appear on the left edge of the game screen: Main Menu, Save and Load. Each of these is activated by a mouse click.
+Using Objects
+To use an object from the inventory, left-click on it with the mouse. This will open an Action menu (see above) which will show possible actions inside the inventory.
+If an action is possible inside the scene,
+you will also be able to see this from the action menu at the corresponding hotspot
+in the scene. If you have the appropriate object with you, then the action menu will automatically show you the possible interaction with it.
+Combining Objects
+Certain objects can be used to- gether, for example; a new object can be made by combining two
+others, putting one object inside another, etc. You can make this happen by taking
+an object ’in your hand’ in the inventory and then clicking it on another object within the scene or the inventory.
+￼￼￼￼￼￼￼￼15
+￼￼￼Dialogue
+In the course of the game you will meet over twenty interac- tive characters. It is possible to
+converse with these people. You can recognise the ‘talkability’ of a character by seeing that when you
+move the mouse pointer over one of these characters, it changes into a speech bubble. When you
+click on the character, the conver- sation will begin.
+Symbols may appear at the bottom edge of the screen. Select a symbol from those available using the mouse. Your character will speak and the other character will reply. After this it’s possible
+that new symbols will appear for your character.
+New Situations – new conversations
+Depending on the game situation, the time of day, or the day itself, new options or completely new conversations can become available. It can be worthwhile to go back to ‘talkable’ characters, or to phone them up if you
+get the impression that things might have changed in the course of the game.
+Aborting Dialogue and Real-time movies
+In 15 Days each individual dialogue
+is treated technically
+as a short film which is played back in real-time. There is the
+opportunity to skip
+these sequences by
+pressing the Esc key. Upon pressing the Esc key, a warning message
+will appear in the middle of the screen. Press the key again to confirm the action and skip the whole sequence. Doing this is not
+￼￼￼￼￼16
+￼￼recommended however, as the game will be harder to solve if you skip information and clues from the characters.
+Computer and Cell-phone
+Ryzoom
+Ryzoom is an online data-bank in which you can do some research as the game progresses (in various places in the plot you will have to use it) when you need some background information. This research will take
+place at the computer.
+Click on any computer in the game and the desktop will be displayed. You will see icons for applications and the icon for the Ryzoom browser.
+Click on this icon and Ryzoom’s start page will load up. You can now enter your search terms into the box at the top of the screen. You can begin your search by pressing the Return key.
+Ryzoom will display a list of search results, some of them relevant, others less so. Click on any result to investigate it in more detail. Some Ryzoom pages are linked to one another: You can click on links at the end of the text to lead you further, just like the Internet.
+￼￼￼￼17
+￼￼￼￼￼Reading Emails
+You will see an icon on Jack Stern’s desktop which opens an email program. In the program, you will see a list of the emails which have been received. Click an email to read it. Attachments such as
+files can be opened and viewed by clicking on them. New emails are added to the list automatically. You can close the window again by clicking the ‘X’ icon, as in a typical Windows interface.
+Telephoning
+To make a phone call, go to the inventory and left-click the tele- phone. There you will see various characters who you can call.
+￼￼￼￼￼C C C l l li i i c c c k k k t t t h h h e e e c c c o o o r
+i c c c o o o n n n t t t o o o c c c a a a l l ll l l t t t h h h a a a t t t p p p e e e r r r s s s o o o n n n . . .
+r r
+r
+r r
+e
+e e
+s
+s s
+p
+p p
+o
+o o
+n
+n n
+d
+d
+d
+i
+i
+i
+i
+n
+n
+g
+n
+g g
+i
+￼￼￼￼￼￼￼￼￼￼￼18
+Important Advice: Take care with your spel- ling – Ryzoom doesn’t correct typos and er- rors will inevitably lead to your receiving a wrong result!
+￼The Game
+Story and Main Characters
+Cathryn Hope and her two partners-in-crime Mike Mensforth and Bernard Dewaele are three young art thieves who exploit the astronomical prices of the international art black market in order to pursue their own idealistic aims. Their idea is simple,
+if not a stroke of genius: In various cloak-and-dagger operations they break in unnoticed into art galleries and museums. There they exchange priceless originals for worthless copies, carefully created by their old friend the emeritus art professor Robert McBride. They then sell their stolen goods quietly to rather dubious and eccentric art collectors, and anonymously donate the enormous profits they make from this discrete trade to charitable organisations and worthy development pro- jects. At the start of the game the three art thieves are in something of an upbeat mood – their last job in Johannesburg, South Africa was a complete success and furthermore, it’s also Cathryn’s birthday. Mike and Bernard have
+come up with a special surprise for her...
+￼￼￼￼￼19
+￼
+￼￼￼Cathryn Hope
+Cathryn is the group’s leader. She is charismatic, adventurous and optimistic. With her cool nerve and amazing climbing ability, she leads the break-ins.
+Cathryn is a diehard optimist: she steals from the rich, not for personal gain; instead she distributes her wealth Robin Hood-style.
+Bernard Dewaele
+Bernard is the planner in the background. His official job is as an art expert for a London insurance company. He used to lead a double-life
+working as a lone art thief, but since he’s got to know Cathryn, he has left it to her to carry out the break-ins.
+Mike Mensforth
+Mike is the guy for anything technical: He is a computer geek who can crack any code and hack unnoticed into any network. He helps
+out his partners with their break-ins with his homemade tech devices. Along with all this he also carries out the computer research
+for the thefts. In day-to-day life Mike has something of a tendency to overestimate his capabilities – this makes him sometimes a
+little difficult to get on with.
+Special Agent Jack Stern
+Jack is a brilliant but unconventional US Investigator, who doesn’t seem to care about rules and regulations. His boss
+hates him for it, but his successes have proved this loner individualist to be right, over and over again. Jack is sent over
+to England by the International Police in order to investigate a puzzling death.
+￼￼￼20
+￼￼￼￼From this departure point an exciting, atmospheric parallel plot unfolds in which you constantly and quite abruptly have to keep switching between the two fronts: In the role of three criminals you have to plot some devious plans, while as a US investiga- tor, it‘s your job to shed light on a puzzling mess of art theft and political murder.
+Tips for your Game Strategy
+The Basics
+15 days is an adventure game. Important here are your powers of observation, attentiveness, imagination, empathy and combining abilities. Wherever you go: look at everything carefully. Give yourself time. Investigate the world in which you find yourself. Even seemingly insignificant details can be important.
+Speak to people
+Some characters won’t be all that free with their information; some will demand favours, or ask you for something. Speak to them though to find out what they want. It’s completely possible that some characters have answers ready for you – or that thanks to the changing game situation, new questions have become available for you to ask them.
+Don’t give up
+Don’t worry about trying anything, just give it a go. There is always a way out. There really are only just a few places where you can get yourself into a dange- rous situation.
+Save your games
+Save your game often. It’s particularly sensible to save when you get the feeling that a difficult situation is about to come up, or when you’ve just overcome a tough obstacle, or if you have just acquired a new object which was difficult to get hold of.
+￼￼21
+￼￼If you’re not getting anywhere...
+Think carefully about your situation. What is your present goal? Which objects do you have, which do you need? Where have you been already, where haven’t you been yet? Who might be able to help you? Are you really sure you haven’t
+overlooked something? How are your main characters doing? What are their main concerns? Think about the ‘Space Bar’ too, you can use this to bring up help at the most important places in a scene. But watch out: You‘ll ruin the fun
+of searching and puzzling things out if you all too quickly resort to using this help wherever you can. Adventure games are the most fun when you come across the solutions yourself.
+￼￼￼￼￼￼￼￼￼￼22
+￼But if you get really desperate: There is always someone who knows the solution. When nothing else works: swap your experiences with other players! Or describe your problem on our forums: http://forum.dtp-entertainment.com
+￼￼Credits
+dtp entertainment AG Presents
+A House of Tales Entertainment Production
+15 Days
+Published by
+Publishing Director:
+Christos Triantafyllou
+Development Director
+Tobias Schachte
+Creative Director
+Martin Ganteföhr
+Art Director
+Sebastian Wessel
+Senior 3D Artists
+Karim Rehimi Sebastian Wessel
+3D Artists
+Marion Kapferer Katerina Voutsinou
+Additional Artists
+Regina Reisinger Ulrike Gießmann
+User Interface Artists
+Martin Winkler Haakon Amundsson
+Writing & Design
+Martin Ganteföhr
+Additional Writing & Design
+Stephan Naujoks
+Engine and Tools Development
+Tobias Schachte
+Game Scripting
+Daniel Ali
+Martin Ganteföhr Stephan Naujoks
+Character Art and Animation
+Motion Capturing Rocketbox Studios GmbH
+Project Lead
+Markus Wojcik
+3D Artists
+Johannes Böhm Thorsten Brockmann Denis Dzienziol Adrian Kumorowski Johannes Ostrowitzki Jörg Reuß
+Alek Roman
+Artur Sabat
+John Schroeter
+Character Animators
+Johannes Ostrowitzki Maciej Wojtkiewicz
+Intro and Location Cutscenes
+The Light Works Tobias Richter Arne Langenbach Iring Freytag Oliver Nikelowski Jennifer Marx Oliver Stark Maximilian Laska
+In-Game Cutscenes
+Karim Rehimi Sebastian Wessel
+Music and Sound Effects
+www.dynamedion.com
+Original Soundtrack
+Tilman Sillescu Markus Schmidt
+Additional Music
+Daniel Barbosa Pierre Langer
+￼￼￼23
+￼￼Original Sound Design
+Michael Schwendler Carsten Rojahn
+David Philipp
+HoT WHQ Bremen Studio Manager
+Tobias Schachte
+Office Manager
+Karina Diehl
+Public Relations
+Silke Stein
+dtp entertainment AG
+Development Director
+Mathias Reichert
+Producer
+Paul Guillaumon
+Head of Marketing and PR
+Thorsten Hamdorf
+Jr. Art Director Online
+Christian Leibe
+Art Director Packaging and Manual
+Stefan Sturm
+Graphic Design Packaging and Manual
+Dennis Barcelona Kerstin Ebsen
+Localization
+Johannes Bickle Bernie Duffy Maren Nötzelmann Patricia Grube Matthias Eckardt
+QA Manager
+Pan Schröder
+QA Resource Manager
+Steffen Böhme
+Lead Tester
+Torben Schaub-Brzozowski
+Tester
+Christopher Butzloff
+Christin Drobil
+Antonio Freira
+Santiago Ufuk Fernandez Gültekin Anne Jäger
+Hannes Janecke Daniel König Sebastian Franke Hannes Hartwig Joachim Rendtorff Scott Huntington Sascha Leuenroth Mahmut Mir Stefan Müller Vassili Pomjalow Sabine Puigmarti Nicolas Reichelt Marc Schönbrunn
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼International Brand Manager
+Ray Livingston
+Senior Marketing Manager
+Mark Geise
+International Marketing Coordinator
+Annie Dumitrescu Mario Maglione
+Marketing Coordinator
+Benedikt Grasmann
+Senior PR Manager
+Claas Wolter
+Community & Content
+Manager
+Bettina Korb
+￼24
+￼￼Legal Advice
+Maren Fischer
+Kai Bodensiek, Brehm und v. Moers
+Special Thanks to
+Rebekka Adolph Berit Bonde Henning Bösken Marc Buro
+Nils Enkelmann
+Melanie Garding
+Achim Heidelauf
+Kay Jungmichel
+Christian Krüger
+Lukas Kugler
+Claudia Kühl
+Marc Morian
+Judith Roknic
+Denise Schaar
+Cécile Schneider
+Miriam Schubert
+Robert Seifert
+Ann P. Smith
+Ronny Stößer
+The team at Marchsreiter Communications
+German Voice Recordings Voice Director
+Martin Ganteföhr
+Additional Voice Directors
+Stephan Naujoks Martin Ruiz Torreblanca
+Recording Studio
+Translocacell - Localization Services
+CEO/ Project Management
+Martin Ruiz Torreblanca
+Managing Partner
+Bettina Golk
+Sound Engineer
+Martin Kühn
+Editing Team Leader
+Carsten Hebing
+Voice Talents
+Hans Bayer
+Gisa Bergmann Florian Boeder Petra Glunz-Grosch Fabian Goedecke Peter Harting Gregor Höppner
+Jo Kern
+Hans-Gerd Kilbinger Michael-Che Koch Katja Liebing Djuwita Mueller Philipp Schepmann Reinhard Schulat Fritz Stavenhagen Karl-Heinz Tafel Volker Wolf
+Andreas Wolfram
+hell -tech  ́s Credits :
+Eleni, Vana, Mom, Dad, Christina, Dimitri, Maria, Eleni, Konstantina, my friends, the rest of my family, Christian R., the guys at dtp, the replication factory,
+my distributors, the press
+and not to forget you, for
+buying this product.
+If I forgot anyone, mail me
+so Seite I know for the next time...
+￼￼￼￼￼￼￼25
+￼
+￼￼Technologies
+Uses Bink Video
+Copyright 1997-2009 by RAD Game Tools, Inc.
+Uses EMotionFX Character Animation System
+Copyright 2001-2009 Mystic Game Development
+Ogg Vorbis Decoder Copyright 2001 Xiphophorus
+Some models from De Espona Infográfica
+Copyright De Espona Infográfica
+Some models from Complete Characters
+Copyright Rocketbox Studios GmbH
+developed by
+House of Tales Entertainment GmbH
+Bremen, Germany
+Published by
+hell-tech
+15 days © 2010 dtp entertainment AG. All rights reserved. Developed by House of Tales. Published by hell-tech. All company names, brand names, trademarks and logos are the property of their respective owners. Financed by dtp Game Portfolio 2007 Fonds- gesellschaft mbH & Co. KG, Hamburg.
+￼￼￼￼26
+￼￼￼￼￼￼￼￼￼￼￼27
+￼￼Troubleshooting
+Up-to-date hints, information about patches or updates, and general news about the game can be found on www.15days-game.com.
+General
+Should you experience problems related to the display or the perfor- mance of the game, or if the game crashes, you can either change the game settings (see page 6 - 10) or your computer’s system set-
+tings.
+The game does not run at all.
+(This means you can’t see the game’s start menu where you can select “start game”, or the game crashes after you selected “start game”.)
+First you should check whether your pc meets the minimum re- quirements for 15 Days (see page 6: System Requirements). If it does not meet the minimum requirements, the game will proba-
+bly not run.
+Was the installation successful?
+Maybe your hard disc was full. In that case you will need to remove 15 Days, free some space on the hard disc, and install the game again.
+Do you have the latest version of DirectX installed?
+The game requires DirectX to run correctly. You can install this application from the game DVD if it was not installed au- tomatically during the normal installation process.
+Is other software running that might interfere with 15 Days? You should check your firewall and antivirus software and settings.
+￼￼28
+￼￼Are you using the latest drivers for your graphics card?
+Please make sure that you are using all the latest drivers for your hardware.
+NVIDIA (GeForce graphics cards): www.nvidia.com ATI (Radeon graphics cards): www.ati.com
+If the problems persist, make sure that you are using the standard settings, because functions such as “ATITruform”, “Full screen antia- liasing (FSAA)” or deactivated “VSYNC” can lead to display errors.
+The game runs very slowly.
+You can change the game settings (see page 8: Settings) and set the display values to their minimum.
+How to reach the email support: supportintl@dtp-ag.com
+￼￼29
+￼￼Notes
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼30
+￼￼Notes
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼31
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼www.15days-game.com

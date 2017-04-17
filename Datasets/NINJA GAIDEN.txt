@@ -1,0 +1,89 @@
+NINJA GAIDEN
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Game Screen
+3 Basic Movement
+4 Wall Jumping
+5 Continuing
+6 Items/Ninja Abilities
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move  Jump A Attack with the Dragon Sword B
+● Cutscenes
+The story for this game is told through cutscenes displayed at the end of certain acts.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Start/Pause/Resume game/Skip cutscenes
+￼￼￼START
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Game Screen
+￼￼￼￼1 2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Ninja ability Display
+Viewing the Display
+Score ￼ ￼ ￼ ￼ ￼ ￼ ￼ Your current score.
+￼1 2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Act and stage
+￼￼￼The current act and stage.
+￼￼￼￼￼￼Your remaining time. If this gauge reaches zero, you lose one life.
+￼￼￼Timer
+￼￼￼￼￼￼Your remaining lives. If you lose all of your lives, the game is over.
+￼￼￼P
+￼￼￼￼￼￼Your remaining spiritual strength. This will deplete as you use your
+ninja abilities.
+￼￼￼忍
+￼￼￼￼￼￼Physical strength remaining. You lose physical strength each time you are attacked. If this meter is
+depleted, you lose one life.
+￼￼￼Ninja
+￼￼￼￼Enemy
+￼￼￼The strength of the enemy boss. Attack the boss to drain this meter. This meter will always be displayed
+regardless of whether you are fighting a boss or not.
+￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Movement
+￼￼Press  to run in that direction,
+or press  to crouch. When
+next to a ladder, press  to
+climb or descend. You can also
+grab ladders mid-jump. When on a ladder, press  in the opposite direction and A to jump off.
+♦ You can't attack while you are on a ladder.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Wall Jumping
+￼￼As a ninja, you have the power
+to cling to walls and other
+surfaces. While hanging on a
+wall, press  in the opposite
+direction and A to jump off the wall. This lets you scale walls by jumping between them in a zigzag pattern. You can't attack while you are hanging on a wall. Hold A and alternately press , to perform the Wall-Spring Climbing Jump.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Continuing
+￼￼If you have no lives and fall into
+a pit, run out of time or lose all
+your physical strength, you will
+go to the game over screen.
+From this screen, press START to continue from the beginning of your most recent stage. However, if you lose a life to any of the final bosses at the end of the game (stages 6-4 and 6-5), you will go back to the start of the act (stage 6-1). You have an unlimited number of continues.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Items/Ninja Abilities
+￼￼Slash open certain objects to reveal the items hidden inside.
+￼￼￼Spiritual Strength
+Red ones add ten units of spiritual strength to your meter, while blue ones add five. You'll need these in order to use your ninja abilities.
+￼￼￼￼￼￼￼￼￼Time Freeze
+Freezes all enemies and projectiles in place for a short period of time.
+￼￼￼￼￼￼￼￼￼￼Bonus
+Adds points to your score. Red ones grant 1,000 points, while blue ones bestow 500.
+￼￼￼￼￼￼￼￼￼￼Energy Potion
+Restores six units of physical strength.
+￼￼￼￼￼￼￼￼￼￼1 Up
+Increases your remaining lives by one.
+￼￼￼￼￼￼￼￼￼￼Invincible Fire-Wheel
+Destroys any opponent or projectile it touches. This ability does not consume spiritual strength.
+￼￼￼￼￼￼￼￼￼￼Throwing Star
++B
+Flies forwards, damaging one enemy. (Spiritual strength consumed: 3 units)
+￼￼￼￼￼￼￼￼￼￼Windmill Throwing Star
++B
+Slices through enemies and returns like a boomerang. (Spiritual strength consumed: 5 units)
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼The Art of the Fire Wheel
++B
+Lets you summon flames that fly up and out, burning everything in their path. (Spiritual strength consumed: 5 units)
+￼￼￼￼￼￼￼￼￼Jump & Slash Technique
+B (while jumping)
+Enables you to spin and attack while
+jumping. (Spiritual strength consumed: 5 units)
+￼￼￼￼￼￼￼￼

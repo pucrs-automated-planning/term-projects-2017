@@ -1,0 +1,127 @@
+Castlevania II Simon's Quest
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Subscreen
+5 Items
+6 Passwords
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Jump A
+Display subscreen/Confirm START
+♦ Press  to ascend/descend stairs, and press  when in front of a door to enter it.
+♦ Press  + B to use throwing items, laurels and garlic when selected on the subscreen.
+￼￼￼￼￼￼￼Move (left/right)/Crouch (down)/ Select an item
+￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼Attack with whip/Speak with townspeople/Use items/Buy an item
+￼￼￼￼￼￼￼￼￼B
+￼￼￼￼￼￼￼￼￼￼￼￼￼Pause/Resume game/Select (on menu and game over screens)
+￼￼￼SELECT
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼Press START on the title screen
+to begin the game. Select
+GAME START to start a new
+game, or PASSWORD to
+continue your adventure. Make your selection with SELECT and press START to confirm. To obtain a password, select PASSWORD on the game over screen.
+You can also press START during the game to display the subscreen where you can choose which of your weapons and items to use. Press START again after making your selection to return to the game.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼In this action adventure game, take on the role of Simon Belmont on his quest to uncover Count Dracula's five missing body parts. Once you find these gruesome items, proceed to Dracula's castle, where you'll again duel to the death with the count. But heed the warnings of others and find the Cross before entering his domain.
+This quest won't be easy, for you must battle hideous fiends who stalk the land. Fortunately, the longer you survive, the greater your experience rating, and the stronger your vulnerable soul will become.
+Hints to help you on your adventure can be found as you wander around Transylvania. Stop and talk to the townspeople for helpful clues which will help you on your quest. You will also find merchants who'll sell you weapons and other mystical items. Your purchasing power depends on how many hearts you've collected during your confrontations with Count Dracula's minions.
+Another warning: some of the townspeople are pranksters, and will give Simon falsified information. Of course, you'll never know which of the townspeople are pranksters until you take a chance...
+● High Noon
+Visit towns during the day to
+visit merchants' stores and
+churches. Talk to the
+townspeople to hear
+important bits of information. Enemies can be
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼found on the outskirts of a town.
+● Night-Time
+Townspeople are
+conspicuously absent during
+the night, and stores and
+churches are closed.
+Enemies are also more powerful at night, and as a result you gain more experience points and hearts when you defeat them.
+● Game Over
+You will lose a life when your health meter
+depletes fully or when you fall into water. Lose all of your lives and it will be game over.
+￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Subscreen
+￼￼Press START to display the subscreen where you can view important character information. If you have throwing items such as Holy Water, you can select them with .
+￼￼2
+9
+10 11
+Health meter Time elapsed
+Experience rating Level
+Number of hearts
+Type of whip
+Current special items
+Throwing items
+￼￼￼￼1
+3
+5
+6
+4
+7
+8
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6 7 8 9
+10 Laurels
+Garlic
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼11
+Parts of Dracula's corpse/crystals you've collected
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Items
+￼￼￼￼￼￼Silk Bag
+If you have the silk bag, you can carry a larger supply of laurels.
+￼￼￼￼￼￼￼￼White Crystal
+The White Crystal offers a weakened source of magic power.
+￼￼￼￼￼￼￼￼￼￼Blue Crystal
+The Blue Crystal offers stronger magical powers than the White Crystal.
+￼￼￼￼￼￼￼￼￼￼Red Crystal
+You must have the Red Crystal before you enter Dracula's Castle.
+￼￼￼￼￼￼￼￼￼￼Holy Water
+Use this to attack enemies and to demolish certain floors and walls.
+￼￼￼￼￼￼￼￼￼￼The Dagger
+The dagger can be thrown to kill distant enemy creatures.
+￼￼￼￼￼￼￼￼￼￼The Silver Knife
+The silver knife can be thrown farther than the dagger.
+￼￼￼￼￼￼￼￼￼￼The Gold Knife
+This is your strongest knife, and it has a mysterious power.
+￼￼￼￼￼￼￼￼￼￼The Oak Stake
+You'll need the oak stake to collect Dracula's body parts from the mansions.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼Laurel
+A laurel helps make you invincible against enemy attacks for a limited time. You can purchase laurels from town merchants.
+￼￼￼￼￼￼￼￼￼Garlic
+Place garlic in front of enemies to weaken them significantly.
+￼￼￼￼￼￼￼￼￼￼The Diamond
+Throw it and see what happens.
+￼￼￼￼￼￼￼￼￼￼Hearts
+Hearts appear when you destroy an enemy creature. Collect them to increase your experience rating and give you extra purchasing power.
+￼￼￼￼￼￼￼￼￼￼The Cross
+You must have the cross to seal Dracula's fate.
+￼￼￼￼￼￼￼￼￼￼The Flame
+The flame weakens creatures' evil powers.
+￼￼￼￼￼￼￼￼￼￼Dracula's Rib Bone
+The rib bone will make ordinary heroes feel like spineless cowards.
+￼￼￼￼￼￼￼￼￼￼The Heart of Dracula
+Watch out! The heart attacks.
+￼￼￼￼￼￼￼￼￼￼Dracula's Eyeball
+When searching for body parts, keep an "eye" out for this one!
+￼￼￼￼￼￼￼￼￼￼Dracula's Nail
+The nail is the symbol of evil power.
+￼￼￼￼￼￼￼￼
+￼￼￼￼Dracula's Ring
+It's been in the count's family for hundreds of years. Then again, the count's also been in his family for hundreds of years.
+￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Passwords
+￼￼When the game is over, you can continue the game or get a password. Select an option from the menu with SELECT, and press START to confirm.
+￼￼￼￼￼￼￼￼￼￼￼Continue
+￼￼￼￼￼￼Password
+￼￼￼You can continue the game from the point where you lost your last life. You will lose your current experience rating and the hearts you have collected, but you will keep your level.
+￼￼￼You can get a password to continue your adventure later. Passwords will save your collected items, Dracula's missing body parts, and the in-game elapsed time. After receiving your password, press START to return to the game over screen.
+￼￼￼￼￼￼￼￼￼￼

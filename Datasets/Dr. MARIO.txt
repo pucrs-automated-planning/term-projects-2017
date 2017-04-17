@@ -1,0 +1,84 @@
+Dr. MARIO
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Clearing Viruses
+4 1 Player Game
+5 2 Player Game
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+￼￼￼￼￼￼￼Move/Drop capsules faster/Menu navigation
+￼￼￼
+￼￼￼￼￼￼Rotate capsule clockwise A Rotate capsule anticlockwise B
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Start/Pause/Resume game
+START
+￼￼￼￼￼￼Select number of players (on title screen)
+￼￼￼SELECT
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼Select either 1 PLAYER GAME
+or 2 PLAYER GAME on the title
+screen and then press START
+to display the menu screen.
+Choose your settings and then press START to start the game.
+Menu Screen
+♦ In 2 Player Game, each player can set their own virus level and speed. Player 2's settings will appear below Player 1's. You can use this to create a handicap for one of the players.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Virus level
+￼￼￼￼￼Music type
+￼￼￼￼￼￼Sets the number of viruses that are in the bottle when you start the game. The further right you move the cursor, the greater the number of viruses.
+￼￼￼￼￼￼Speed
+￼Sets the speed at which the capsules fall.
+Low: Slow
+Med: Normal Hi: Fast
+￼￼￼Choose the in-game music. Set to OFF if you do not want any music.
+￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Clearing Viruses
+￼￼Rotate the capsules as they fall. To clear the viruses from the bottle, match up a combination of four or more capsules and viruses of the same colour along a vertical or horizontal line.
+● Example 1
+
+Three capsules and one virus of the same colour are arranged along a vertical line, eliminating the virus from the bottle.
+● Example 2
+
+Four capsules of the same colour are placed along a horizontal line and therefore are eliminated. However, as the virus is a different colour to the capsules, it remains behind.
+Types of Capsule and Virus
+● Capsules
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Red-Red
+￼￼￼￼￼￼￼￼￼￼Blue-Blue
+￼￼￼￼￼￼￼￼￼￼Yellow-Yellow
+￼￼￼￼￼￼￼￼￼￼Red-Blue
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼Red-Yellow
+￼￼￼￼￼￼￼￼￼￼Blue-Yellow
+￼￼● Viruses
+￼￼￼￼￼￼￼￼Red
+￼￼￼￼￼￼￼￼￼￼Blue
+￼￼￼￼￼￼￼￼￼￼Yellow
+￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 1 Player Game
+￼￼Align the capsules thrown by Dr. Mario with the correct colour viruses in the bottle to clear them. Eliminate all the viruses to clear the stage. If the capsules fill past the bottom of the bottle neck, it's game over.
+￼￼￼￼￼￼￼￼￼￼￼￼3 4
+Capsule Next capsule
+High score Current score Dr. Mario
+12
+89
+5
+6 7
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
+3 4 5 6 7 8 9
+Virus level
+Speed
+Game field (bottle)
+Number of viruses remaining
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 2 Player Game
+￼￼Both players play simultaneously with the first to clear their bottle of viruses declared the winner. You will receive a crown each time you win a round, with the overall winner being the first to get three crowns. If you let the capsules fill past the bottom of the bottle neck you will lose and your opponent will be given a crown.
+12
+3 45
+6 Next capsule
+Virus level
+Speed
+Player 1
+Player 2
+Number of viruses remaining
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

@@ -1,0 +1,57 @@
+Balloon Fight
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼1 Controls
+Basic Controls
+Move left and right ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
+Rapid rise ￼ ￼ ￼ ￼ ￼ ￼ Hold B Confirm selection/Pause game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START
+Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
+￼￼￼￼￼￼￼￼Rise
+￼￼￼￼Tap A repeatedly
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼Press SELECT on the title screen to select your game mode, and confirm with START.
+￼￼￼￼￼￼￼￼￼￼￼A 1-PLAYER GAME
+￼￼￼￼￼￼￼￼C BALLOON TRIP
+￼￼￼This is a single player mode where you must work to defeat all on-screen enemies.
+￼￼￼￼￼￼B 2-PLAYER GAME
+￼This is a two player mode. You must work together to defeat all the on-screen enemies while also competing against each other for the highest score.
+￼￼￼This is a single player mode where you must guide your character right or left, bursting as many balloons as possible along the way.
+￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼Look to burst enemy balloons
+by attacking them from above.
+Once you have burst their
+balloons they will slowly fall to
+earth in a parachute. Defeat them by hitting them again before they have the chance to blow up a new balloon. Defeat all on-screen enemies to clear the stage.
+You accumulate points by bursting enemy balloons, defeating enemies and by popping giant bubbles.
+● Losing Lives and Game Over
+You will lose a life if both of your balloons are
+burst, you are hit by lightning, you fall in the water or you are eaten by a fish. Lose all of your lives and it will be game over.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼1
+￼￼￼￼￼￼￼2 3
+Top score Score Remaining lives Lightning
+4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Bonus Stage
+￼￼After completing three stages in
+a row of either '1-Player Game'
+or '2-Player Game', you will be
+taken to the bonus stage where
+you must burst as many balloons as possible within the time limit. In '2-Player Game' bonus stages, you will not lose a life, even if both of your balloons are burst.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Balloon Trip
+￼￼Guide your character from right to left through the scrolling course while trying to burst as many balloons as possible. However, keep an eye out for lightning as touching this will result in a game over.
+Rank
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼Burst 20 balloons in a row without missing one to receive extra bonus points. Your current rank out of 50 is displayed in the top right corner of the screen.
+￼￼￼￼￼￼￼￼￼
+￼￼￼7 Tips
+￼￼● Exploiting Enemy Weak Points Enemies cannot attack while
+they are blowing up their balloons. Use this time to
+steal an early knock out!
+● Something Smells Fishy
+Beware of the fish! Venturing too close to the
+surface of the water could see you becoming fish food! You have been warned!
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

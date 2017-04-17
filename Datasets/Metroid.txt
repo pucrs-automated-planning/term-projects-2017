@@ -1,0 +1,83 @@
+Metroid
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Game Screen
+5 Energy
+6 Items
+7 Passwords
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move/Morph Ball/Aim upwards ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Attack/Set bomb ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
+Pause/Confirm ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select missiles/Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼To begin a new game, select START and press START.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼As the hero, Samus, your job is
+to infiltrate the fortress planet
+Zebes and destroy Mother
+Brain. Use all of your special
+abilities to fight your way though each of the areas as you conduct your search. Look for items hidden throughout Zebes to power up. Some of these items will give you new abilities or attacks, allowing you to gain entry to areas of Zebes that were previously inaccessible.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼1 2
+3 4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼5
+￼￼￼Energy Tank Remaining energy Remaining missiles Gate
+Samus
+● Gate Colours
+♦ For some gates ten missiles are needed instead of five.
+￼1 2 3 4 5
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼These gates open with one blast from your beam.
+￼￼￼Blue
+￼￼￼￼￼￼These gates open if you hit them with five missiles.
+￼￼￼Red
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Energy
+￼￼Any time you are hit by an
+enemy, enemy attack or fail to
+avoid certain hazards, you will
+take damage and a portion of
+your energy will be consumed. When your energy reaches zero, one of your energy tanks will be consumed. If you lose all of your energy and have no energy tanks remaining, it will be game over.
+♦ You will find additional energy tanks as your mission progresses.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Items
+￼￼￼￼￼￼Energy Ball
+Restores a portion of your energy.
+￼￼￼￼￼￼￼￼Missiles (Ammo)
+Replenishes the amount of missiles in your stock by two.
+￼￼￼￼￼￼￼￼￼￼Morph Ball
+Press  to roll up into a ball. This item allows you to investigate tight spaces.
+￼￼￼￼￼￼￼￼￼￼Bombs
+This item allows you to set bombs with B when you are rolled up into a ball.
+￼￼￼￼￼￼￼￼￼￼Energy Tank
+This item replenishes your energy and gives you an additional energy tank.
+￼￼￼￼￼￼￼￼￼￼Missile
+With this item you can launch powerful missiles. Press SELECT to switch your
+weapon and B to fire off a missile. Increases your maximum number of missiles by five.
+￼￼￼￼￼￼￼￼￼￼High Jump
+With these boots you can jump higher than before.
+￼￼￼￼￼￼￼￼￼￼Varia
+This item raises your resistance, cutting
+damage from all enemy attacks by half. It also allows you to enter and cross
+the fire-based areas.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼Screw Attack
+While holding , press A to perform a screw attack. Enemies who come into contact with the attack will take damage.
+￼￼￼￼￼￼￼￼￼Long Beam
+This item extends the length of your beam weapon.
+￼￼￼￼￼￼￼￼￼￼Ice Beam
+Enemies hit with this beam are temporarily frozen solid and can't move.
+￼￼￼￼￼￼￼￼￼￼Wave Beam
+This powerful beam travels in a wave pattern.
+￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼7 Passwords
+￼￼This game uses passwords to
+allow you to keep going on
+your adventure. When your
+game is over, you will receive a
+password that allows you to continue your old game with your progress and abilities intact. Use  to move around the password-entry screen and A to enter a character. If you make a mistake, press B to move the cursor backwards. Once the password is ready, press START to enter it.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

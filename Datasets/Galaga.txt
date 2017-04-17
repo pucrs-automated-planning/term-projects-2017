@@ -1,0 +1,41 @@
+Galaga
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Game Screen
+5 Bosses
+6 Losing Lives and Game Over
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move left/right ￼ ￼ ￼ ￼ ￼ ￼ ￼  Fire A/B Pause/Confirm (player 1 only) ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼Select the number of players with SELECT, then press START to begin.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼Shoot down the Galagan aliens with your missiles while moving
+left and right to avoid their
+attacks. Earn enough points to
+get an extra life. Defeat all the enemies to clear a stage. There will also be challenging stages, where you can earn extra points.
+♦ Shoot down attacking enemies or a boss in formation to earn extra points.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼2
+3 4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4
+High score Player's score Remaining lives Current stage
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Bosses
+￼￼The enemy boss will release a tractor beam. If you get caught in it, your fighter will be captured. If you shoot down the boss that has captured your fighter, you will recover your fighter and obtain dual fighters. The boss must be hit twice in order to be shot down.
+￼￼￼￼￼￼￼￼￼￼Tractor Beam
+Captured Fighter
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Losing Lives and Game Over
+￼￼You lose a life if you are
+captured by a boss, shot by an
+enemy or crash into one. Your
+game ends if you lose a life or
+are captured by a boss when you have no lives left. If you are hit as a dual fighter, you will return to being just a plain fighter.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

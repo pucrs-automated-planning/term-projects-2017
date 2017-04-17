@@ -1,0 +1,657 @@
+￼
+￼￼WARNING: PHOTOSENSITIVITY/EPILEPSY/SEIZURES
+A very small percentage of individuals may experience epileptic seizures or blackouts when exposed to certain light patterns or flashing lights. Exposure to certain patterns or backgrounds on a television screen or when playing video games may trigger epileptic seizures or blackouts in these individuals. These conditions may trigger previously undetected epileptic symptoms or seizures in persons who have no history of prior seizures or epilepsy. If you, or anyone in your family, has an epileptic condition or has had seizures of any kind, consult your physician before playing. IMMEDIATELY DISCONTINUE use and consult your physician before resuming gameplay if you or your child experience any of the following health problems or symptoms:
+• dizziness
+• altered vision
+• eye or muscle twitches
+• loss of awareness
+• disorientation
+• seizures, or
+• any involuntary movement or convulsion.
+RESUME GAMEPLAY ONLY ON APPROVAL OF YOUR PHYSICIAN. _____________________________________________________________________________
+Use and handling of video games to reduce the likelihood of a seizure
+• Use in a well-lit area and keep as far away as possible from the television screen.
+• Avoid large screen televisions. Use the smallest television screen available.
+• Avoid prolonged use of the PLAYSTATION®3 system.
+Take a 15-minute break during each hour of play.
+• Avoid playing when you are tired or need sleep. _____________________________________________________________________________
+Stop using the system immediately if you experience any of the following symptoms: lightheadedness, nausea, or a sensation similar to motion sickness; discomfort or pain in the eyes, ears, hands, arms, or any other part of the body. If the condition persists, consult a doctor.
+WARNING TO OWNERS OF PROJECTION TELEVISIONS:
+Do not connect your PLAYSTATION®3 system to a projection TV without first consulting the user manual for your projection TV, unless it is of the LCD type. Otherwise, it may permanently damage your TV screen.
+HANDLING YOUR PLAYSTATION®3 FORMAT DISC:
+• Do not bend it, crush it or submerge it in liquids.
+• Do not leave it in direct sunlight or near a radiator or other source of heat.
+• Be sure to take an occasional rest break during extended play.
+• Keep this disc clean. Always hold the disc by the edges and keep it in its protective case
+when not in use. Clean the disc with a lint-free, soft, dry cloth, wiping in straight lines from center to outer edge. Never use solvents or abrasive cleaners.
+￼￼tABlE oF contEnts
+Getting Started ...... . . Game Menus . ...... . . City Map . ...... . .
+. ...... . ...... . ...... ...... . ...... . . ...... . ...... . ......
+. ....................... 2 ................. ....... 4 . ....................... 4 ................. ....... 4 ................. ....... 4 ................. ....... 4 ................. ....... 4 ................. ....... 4 ................. ....... 4 . ....................... 5 . ....................... 5 . ....................... 6 ................. ....... 8 . . . . . . . . . . . . . . . . . . . . . . . .17 . . . . . . . . . . . . . . . . . . . . . . . .18
+Pause Menu Screens
+Game Summary .. . .
+Extras . . .... . .. . . Upgrades .... . .. . .
+Options . .... . .. . . Movement and Camera Control .
+Swinging .... .
+Combat . . . . .... .
+General Information
+Credits . . . . . . . . . .
+Customer Support . .
+Software License Agreement . . . . . .
+... . ... . ... . ... . . . . .
+...... . ...... . . ...... . ...... . . . . . . .
+1
+￼￼￼￼GEttinG stArtEd
+PLAYSTATION®3 system front
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼CF SD/miniSD
+Slot cover
+CF*1 slot
+Eject button
+SD*2 Memory Card slot
+Memory StickTM slot
+*1 CompactFlash® *2 Secure Digital
+WLAN access indicator HDD access indicator USB connectors
+￼Insert the disc with the label side facing up.
+Disc slot Power button Vent
+Eject button
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Starting a game: Before use, carefully read the instructions supplied with the PLAYSTATION®3 computer entertainment system. The documentation contains information on setting up and using your system as well as important safety information.
+Check that the MAIN POWER switch (located on the system rear) is turned on. Insert the Spider-Man 3TM disc with the label facing up into the disc slot. Select the icon for the software title under [Game] in the PLAYSTATION®3 system’s home menu, and then press the S button. Refer to this manual for information on using the software.
+Quitting a game: During gameplay, press and hold down the PS button on the wireless controller for at least 2 seconds. Then select “Quit Game” from the screen that is displayed.
+Hint: To remove a disc, touch the eject button after quitting the game.
+2
+￼￼GEttinG stArtEd
+Using the SIXAXISTM wireless controller (for PLAYSTATION®3)
+￼Port indicators
+L2 button L1 button
+Directional buttons
+Left stick/ L3 button*
+SELECT button
+USB connector
+R2 button R1 button
+button button button button
+Right stick/ R3 button*
+START button PS button
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼* The L3 and R3 buttons function when the sticks are pressed.
+Note: To use the controller, you must first register or “pair” the controller with the PLAYSTATION®3 system and assign a number to the controller. For details, refer to the instructions supplied with the system.
+Saved data for PLAYSTATION®3 format software
+Saved data for PLAYSTATION®3 format software is saved on the system’s hard disk. The data is displayed under “Saved Game Utility” in the
+Game menu.
+3
+￼￼GAmE mEnus
+City Map
+Press ≥ at any time while in the city to access the City Map. The City Map is a useful tool to orient Spider-Man in Manhattan and find a path toward a specific point. The on-screen controls describe how to cycle through different points of interest, zoom in and out, and move the cursor around to different locations. Use the directional buttons to switch the markers on the map between Missions, Activities and Crime Fighting levels. Once you have selected a point of interest, press the ≈ button and a marker will appear on your screen to guide you to it.
+Pause Menu Screens
+Press ÷ to access the Pause Menu while playing Spider-Man 3.TM Press the å and ∂ buttons to cycle between screens in the Pause Menu.
+Game Summary
+This sub-menu shows your progress through the game. Here you can also view the crime level in the city, number of tokens collected and gameplay statistics and manually save the game.
+Extras
+You can access unlocked extra content in this menu, such as Endurance Arenas.
+Upgrades
+Here you can see how to perform any upgrades you have unlocked as well as select any extra playable characters you have earned.
+Options
+This menu allows you to adjust audio options, view your controls and adjust camera controls.
+Movement and Camera Control
+Use the left stick to move Spider-Man around while on the ground or swinging
+in the air. Press the ß button while running to sprint. Use the right stick to manually take control of the camera in Spider-Man 3.TM This can be useful to
+4
+￼￼look up, down or around Spider-Man, particularly while using Spider-Senses to locate a mission objective or an elusive enemy. Manual camera controls can be adjusted in the Pause Menu.
+Swinging
+Press the ƒ button to shoot a web and begin to swing. You can also jump before pressing the ƒ button to have some extra height when you start to swing. While swinging, use the left stick to steer Spider-Man in the direction that you want him to go. At any point during the swing, you can shoot out another web and start a new swing by pressing the ƒ button again.
+A good way to have greater control over Spider-Man’s movement is to jump out of a swing by pressing the ≈ button. After jumping out of the swing press the ƒ button to shoot out another web and start your next swing. Also, charging a jump by holding the ≈ button for a couple of seconds before releasing it will give you a bigger speed boost as you release your web.
+At any point, while swinging, you can also press the ß button to get an extra speed boost. Boosting has a greater effect at the bottom of
+a swing.
+Frequent use and practice of these techniques will get Spider-Man moving across Manhattan in record time!
+comBAt
+Spider-Man 3TM has an easy-to-use yet in-depth combo system that takes full advantage of Spider-Man’s inherent speed, strength and web abilities. Use a combination of the √, ç and Ω buttons to unleash a huge variety of combos on your enemies. You can also use the jump button to take combat to the air and perform devastating air assaults. Using the Ω button from a distance will also allow you to perform web moves on your opponents. Using the Ω button when close to enemies will allow you to grab them and perform grapple moves.
+Spider-Reflexes – When a yellow or red danger icon appears above an enemy’s head, activate Spider-Reflexes by pressing the å button to dodge the incoming attack. Spider-Reflexes slows down the world around you and
+5
+￼￼can be very helpful in combat and puzzle situations. Dodging the attacks of most enemies, even bosses, can leave them open to counter attacks, so be sure to use Spider-Reflexes during battle. The blue bar in your HUD measures how much reflex power you have remaining.
+Super Moves – The red combo meter in the upper left corner of the screen will fill up as you perform successful attacks on enemies. Once it is full, you can execute any of the super attacks you have unlocked by pressing the ∂ button and the appropriate attack button.
+Combat Upgrades – As you progress through the story in Spider-Man 3,TM you will unlock new combat maneuvers that will help Spider-Man conquer his foes. Pay attention to these upgrades as they can be useful tools against some of the more difficult encounters that Spider-Man will face.
+On the next page you’ll find a list of some of the basic combos you start the game with. Look in the upgrades tab of the Pause Menu to view the upgrades you earn during gameplay.
+GEnErAl inFormAtion
+Health, Spider-Reflexes and Combo Meter – The icon in the upper left corner of the screen displays Spider-Man’s Health and Spider-Reflexes reserve. As Spider-Man takes damage, the red bar will decrease. The blue bar represents Spider-Man’s reflexes. As he uses this superpower, the bar will decrease until he can no longer stay in his heightened Spider-Reflex state. The center of the icon is your Combo meter and will fill up with each successful attack on an enemy. Once your Combo meter is full, you can use a super attack. When controlling Black-Suited Spider-Man with your Combo meter full, you can enter Rage mode for a short period of time.
+Chase Meter – The Chase meter shows how far away Spider-Man is to the chase target. Don’t fall too far behind or you will fail the mission. Don’t follow targets too close if you are trying to be stealthy. The closer the spider is to the right side of the screen, the closer you are to your target.
+6
+￼￼￼￼￼Attack Name
+Control
+Ground Combos
+Right Uppercut
+Jump Hammer Smash 360° Side Tornado Kick Kick Launcher
+√,√,√ ç,ç,ç √,√,ç √,ç,√
+￼Air Combos (knock or pull opponent into the air first)
+Air Double Fist Power Punch Air Axe Kick Air Throwdown
+√, √, √ ç,ç,ç ç,ç,√ √,√,ç
+￼Grabs
+Sprint Uppercut Toss Up
+Aerial Assault Grab Aerial Throw Web Rodeo
+ß+√
+Ω,Ω
+Ω,ç
+Ω,≈
+Ω, (rotate left stick)
+Special Attacks, Ground Only
+Pinball
+∂+√,√
+￼￼￼Play As New Goblin
+In this version of Spider-Man 3,TM as you progress through the story of the game you will unlock the ability to play as New Goblin. Once unlocked, go into the Upgrades section of the Pause Menu to switch between New Goblin and Spider-Man. While playing as New Goblin, you can tilt your SIXAXISTM controllertochangethedirectionthatyoutravel.Explore Manhattan as New Goblin to uncover new challenges and activities that are tailored to his capabilities.
+7
+￼￼STARRING
+Tobey Maguire
+AS PETER PARKER/SPIDER-MAN
+James Franco
+AS HARRY OSBORN/ NEW GOBLIN
+Topher Grace
+AS EDDIE BROCK/VENOM
+Thomas Haden Church
+AS FLINT MARKO/SANDMAN
+J.K. Simmons
+AS J. JONAH JAMESON
+Bruce Campbell
+AS THE NARRATOR
+LIKENESSES AND INSPIRATION
+Kirsten Dunst
+AS MARY JANE WATSON
+Perla Haney Jardine
+AS PENNY MARKO
+Dylan Baker
+AS DR. CONNERS
+Bill Nun
+AS JOSEPH ROBBIE ROBINSON
+Elizabeth Banks
+AS BETTY BRANT
+Music and
+Orchestration
+TOBIAS ENHUS
+Written By
+AL SEPTIEN TURI MEYER
+Treyarch Creative Director
+MARK NAU
+Art Director
+DAVID DALZELL
+Technical Director
+MICHAEL VANCE
+Audio Director
+JERRY BERLONGIERI
+Senior Producer
+GREGORY JOHN
+Lead Producer
+ANNA BUNYIK
+Executive Producer
+CHRIS ARCHER
+LEADS
+Lead Programmer MARTIN DONLON
+Lead Programmer
+JASON BARE
+Lead Artist
+CHRIS ERDMAN
+Lead Artist
+CAMERON PETTY
+Lead Character Artist
+CHAD MOORE
+Lead Animator
+JAMES ZACHARY
+Lead Cinematics
+PAUL LEE
+Lead Audio
+KRIS GIAMPA
+Lead Technical Artist
+CARL PINDER
+Lead Combat Designer
+ANTHONY DOE
+Lead UI Artist
+DAVID CHARTIER
+Test Manager
+IGOR KRINITSKIY
+Programming
+CLANCY IMISLUND TOBY LAEL
+ALAN LUE STEPHEN MCCAUL BRYAN MCNETT MARK MURAKAMI EVAN OLSON
+BOB PARKINSON ALEX PERELMAN ANDREW PHONGSAMRAN ANDREI POKROVSKY EDUARDO POYART MATT RUSCH CHRIS STRICKLAND RICHARD YANDLE
+Design
+AKI AKAIKE ADRIAN BALANON VINI DY
+BRIAN JOYAL BRENT KOLLMANSBERGER PAUL LASKA
+GAVIN LOCKE
+crEdits
+8
+￼￼SEAN MADIGAN
+PRIMUS MAJDA SHANA MARKHAM STEVE MCNALLY CARLOS MONROY CHAD PROCTOR JAIRO SILVA DAVID SUM DAVID TSENG HANS WAKELIN
+Art
+AHMED AHAD MURAD AINUDDIN JEANNE ANDERSON ALVIN ANQUILLANO THOR BENITEZ JOEL BURGESS HEATH CECERE TONG CHEN EDWIN CHIU NARRY CINELLI ROBERT DE PALMA KENT DRAEGER ERIK DRAGESET DARWIN DUMLAO JON EVANS JOHN GIBSON JACK JEFF GOLDFARB DOUG GUANLAO CHRIS GUZMAN TERRY HESS MATT INTRIERI WILSON IP CHAD JONES STEV KALINOWSKI MASAAKI KAWAKUBO PETER LAM CHRIS LEDESMA DANIEL I-HSIAO LIN MIKE LOMIBAO JAMES MAYEDA
+JOHN MCGINLEY DALE MULCAHY ERIKA NARIMATSU GARRETT NGUYEN DAN PADILLA DAKSH SAHNI JAKE SANTA ANA DAN SANTAT CRAIG SCHILLER CHRIS SHELTON ERIK STONE ANDREW SWIHART PETER TUMMINELLO TRICIA VITUG
+Animation
+TODD ADAMSON YANNICK BERGERON LUIS "YOSH" BOLIVAR MICHEL CADIEUX BEN DEGUZMAN SEBASTIEN HARTON SUNG-HYUN KIM ALEX MANRESA STEVEN RIVERA TIM SMILOVITCH ALEX SMITH KRISTEN SYCH
+Audio
+ALICE BERNIER STEVE GOLDBERG SCOTT PURVIS KEVIN SHERWOOD GARY SPINRAD ELIOT ANDERS CHARLES MAYNES JULIA BIANCO JOHN SHUBERT
+Production
+PATRICK BOWMAN JOHN DEHART
+DANNY DONAHO LISA IKEDA DAVE PADILLA CHRIS PUENTE AARON ROSEMAN SHANE SASAKI KEVIN TOMATANI
+Additional Programming
+JOHN ALLENSWORTH MIKE ANTHONY SCOTT BEAN
+BLAIR BITONTI WADE BRAINERD WILLIAM CHEN CHRISTIAN DIEFENBACH JOSE DORAN
+PAUL ALLEN EDELSTEIN MARCUS GOODEY
+LEI HU
+MATT KIMBERLING JOHAN KOHLER
+DAN LESLIE
+PETER LIVINGSTONE RICHARD MITTON JOSEPH NUGENT VALERIA PELOVA JAMES SNIDER DIMITER "MALKIA" STANEV CHARLES TOLMAN KRASSIMIR TOUEVSKY MICHAEL UHLIK JIVKO VELEV TREVOR WALKER LEONARDO ZIDE
+Additional Art
+QUINN NGUYEN BRAD SHORTT DENIS TROFIMOV BARRY WHITNEY COLIN WHITNEY
+9
+￼￼Additional Animation
+WILLIAM LYKKE MARVIN ROJAS JON STOLL JIMMY ZIELINSKI
+Additional Facial Animation
+JAMIE EGERTON
+Additional Audio
+SHAWN JIMMERSON JAMES MCCAWLEY BRIAN TUEY
+Additional Production
+JASON BLUNDELL KEN SATO
+TESTING Lead Tester JAMES LODATO
+Lead TRG
+MARK JIHANIAN
+Testers
+ESTEVAN BECERRA SHAMENE CHILDRESS SEAN CHILDRESS DIMITRI DEL CASTILLO RODERICK ERWIN GLENN FAILING RICHARD GARCIA JEMUEL GARNETT DANIEL GERMANN JASON GUYAN IAN KOWALSKI RENE LARA ANDRE LAWTON ALEX MEJIA TRAVIS OTTEN NORMAN OVANDO KIMBERLY PARK JUAN RAMIREZ DAMOUN SHABESTARI
+STEVEN SLANCHIK MAT SOLIE BRENT TODA MAX VO
+ADMINISTRATIVE
+President
+DAVE STOHL
+Vice President
+MARK LAMIA
+Chief Technical Officer
+MARK GORDON
+Operations Director
+ROSE VILLASENOR
+IT Manager
+ROBERT SANCHEZ
+IT Engineer
+NICHOLAS WESTFIELD
+Office Manager
+AMY HURDELBRINK
+Recruiters
+ANNIE LOHR SUZANNE WHELPLEY
+Human Resources
+JU SHIM
+Contractors and Interns
+ALEXANDER CHANE AUSTIN COLLIN AYERS
+KEVIN BAIK STEPHEN CHANG JOEL CHANG WON-YOUNG CHOI BLAKE DY
+ROB GILLIGAN
+ERNIE GUANLAO MARK ISHAK
+VANCE KOVACS
+ED LEE MARK LIPSINIC CHRIS O'BESO JUSTIN PEREZ BRYANT PLACE LUCAS SEIBERT TESHANI SHAW ROSS TATE ESAU VARGAS CHUCK WADEY DICKSON WU MICHAEL YURKA
+SPECIAL THANKS TO
+JED ADAMS DAVE ANTHONY RICARDO ARIZA ANDREW BAINS CECILIA BARAJAS RICHARD BISSO JASON BRYANT JAMES CHAO BETH CUTLER RYAN DUFFIN
+BILL DUGAN
+PAT DWYER TRAVIS EASTEPP BRIAN ETHERIDGE BRIAN FREDRICKSON JAMIE FRISTROM JOEY HEADEN TOM HENDERSON DEN JOHNSON SAJI JOHNSON BOURBAKI JOSEPH ASEN KOVACHEV JONATHAN LAUF JEREMIAH MAZA YOSHITOMO MORIWAKI CARLOS RAMIREZ MATTHEW B. RHOADES
+10
+￼￼STUART ROCH REZA SADAFI MANNY SALAZAR JEFF SCHENKELBERG CHRISTIAN SENN SHAWN SHAIN GREG TAYLOR MARTIN TURTON VIRGIL WAGAMAN MIKE YOSH M-AUDIO
+SEIS GROUP, INC
+VERY SPECIAL THANKS TO MOM AND DAD ALLISON ERDMAN ANSEL BALDOVIN ANTHONY LAMIA
+VINCENT LAMIA NICK LAMIA AZURE WEI JU
+BRITTA, ANTHONY AND CHRISTOPHER BERLONGIERI
+CHRISTINA KALINOWSKI FAMILY ROSEMARY, JEFF, BLAKE,
+RICARDO, DAN, REED, KIEL CHRISTINA, JUSTIN AND
+BRANDON LEE DON HESS
+GAIL MANTE GILLIAN SMITH IWONA PROCTOR JAEHYUN SASAKI JAMES, LESLIE AND ROBERT YOUNG JASON CECIL
+JEFF EMERY JOANNA CHONG JOE, KATIE, ISABEL AND
+LUKE VALENZUELA JOHN H DOE
+JOHN HALL JUDITH, REBECCA AND
+KID #2 VANCE KATE MITCHELL
+KELLY AND SAMANTHA HESS KENNETH, ANNE MARIE AND
+CHRISTOPHER VANCE KIN, YINNA AND RICHARD SUM
+LAURA NARIMATSU- WASSERMAN
+LEAH AND ALEK SANTAT LINDA AND WILLIAM CHEN MARK BARISH
+MARY JANE DUMLAO MARYANNE AND STEVE PRINCE MENINA PENGUINA AND
+FAMILIA POYART MOM, DAD, AMY, MAXIE
+AND HEATH MOREIRA FAMILY
+RAM TROOP MENDOZA FAMILY
+MELANIE
+CHRIS AND KRISTEN MILLARD AND JANICE AND MOM
+PEI-YU DORA CHANG POLYA STANEVA PADILLAS, POSADAS AND KATIE PHILLIPS
+RON KIM
+SANDY PARKINSON SASAKI FAMILY AND FRIENDS SEAN CHANG SEIBERT FAMILY AND FRIENDS SHINTA STEEEEVEN, GABI, CHAYNA NANNY AND PAULY
+TAKASHI AND NORIKO NARIMATSU
+TAMI ZACHARY AND FAMILY TREY PARKER AND MATT STONE YUNNIES GLORIA KIM ZOE BATHIE
+ZOILA, VICTOR, BLAKE AND EDDIE
+Activision Producers WILLIAM SCHMITT JUAN VALDES
+Associate Producers
+JOHN C. BOONE II NEVEN DRAVINSKI DEREK C. SMITH JOHN SWEENEY WILL TOWNSEND
+Production Coordinators
+VINCENT FENNEL MATTHEW HUNT DEREK RACCA
+Executive Producer
+SCOTT WALKER
+QUALITY ASSURANCE/ CUSTOMER SUPPORT VP of Customer Support/ Quality Assurance
+RICH ROBINSON
+Director of Quality Assurance
+MARILENA RIXFORD
+DAY SHIFT
+Manager, Quality Assurance
+MATT MCCLURE JASON LEVINE
+11
+￼￼Sr. Lead, Quality Assurance
+JASON ‘FOX’ POTTER
+Lead, Quality Assurance
+ALEX ORTIZ
+Sr. Manager, Technical Requirements Group CHRISTOPHER WILSON
+Leads, Technical Requirements Group KYLE CAREY
+QA TEST TEAM
+JOSH CHANDLER (FLOOR LEAD) MICHAEL WADE (MAP TEAM LEAD)
+ROBERT TAI (MAP TEAM FLOOR LEAD)
+JASON HARRIS (TRG FLOOR LEAD)
+SCOTT SOLTERO (TRG LEAD)
+Testers
+JOSHUA ALVAREZ ANDRE NUTTER REXFORD AJAA ALBERT RODRIGUEZ HIDEKI OMEGA GEORGE WALKER OSBORN YU
+ADAM BRUMMETT COREY LEWIS CALVIN MENDOZA BRAEDON BERRY CLIFTON REYNOLDS II JENNIFER REED JEFF DIPIETRO ERIC CARPENTER CHRIS VELASQUEZ ALLEN GIMENEZ ROBERT HECK KEANE TANOUYE
+BRIAN BENSI COLIN KAWAKAMI JON SHELTMIRE KIRT SANCHEZ ROBERT RITER SCOTT BORAKOVE RYAN MCCULLOUGH KENNY TREANTAFILOS MARK RUZICKA KEITH KODAMA
+NIGHT SHIFT
+Manager, Quality Assurance
+ADAM HARTSFIELD
+Sr. Lead, Quality Assurance
+PAUL COLBERT
+Lead, Quality Assurance
+STEVE PEÑATE
+QA TEST TEAM
+ISRAEL BARCO (FLOOR LEAD) TOMO SHIKAMI (TRG FLOOR LEAD)
+Testers
+JEFF MITCHELL JASON TOM CHRISTIAN MURILLO JUAN NOYOLA ELOY PALACIOS EDOSA OMEDE LEVITICUS DAVIS LUCAS BERGMAN NUE THAO JASON HUANG
+Burn Room
+JOULE MIDDLETON (BURN ROOM COORDINATOR) POKEE CHAN
+KAI HSU
+DANNY FENG
+(BURN ROOM TECHNICIANS)
+Customer Support Managers
+GARY BOLDUC – PHONE SUPPORT MICHAEL HILL – E-MAIL SUPPORT
+Manager, Night Shift
+ADAM HARTSFIELD
+Manager, Resource Administration
+NADINE THEUZILLOT
+CS/QA Special Thanks
+JAMES GALLOWAY JOHN ROSSER EVAN BUTTON BRAD SAAVEDRA GLEN VISTANTE THOM DENICK HENRY VILLANUEVA ANTHONY KOROTKO FRANK SO
+PAUL WILLIAMS INDRA YEE TODD KOMESU VYENTE RUFFIN DAVE GARCIA-GOMEZ WILLIE BOLTON JENNIFER VITIELLO JEREMY SHORTELL DYLAN RIXFORD NIKKI GUILLOTE STEPHANIE RUSSELL ALEXANDER WATKINS IVOLINE LEE
+ACTIVISION MOTION CAPTURE STUDIO Director of Motion Capture MATT KARNES
+Producer
+NICK FALZON
+12
+￼￼Motion Capture Supervisor
+MIKE JANTZ
+Motion Capture Technician
+BEN WATSON
+Production Coordinator
+MIKE RESTIFO
+Actor and Actress Credits Personnel Supervisor
+ALAN NOEL VEGA
+Data Capture Personnel
+ORLANDO MCGUIRE RANDALL ARCHER TJ STORM KRISTEN RIDGWAY AMERICA YOUNG COLIN FOLLENWEIDER DAMION POITIER LINDA JEWELL ESTEBAN CUETO CHRISTOPHER GETMAN CASEY EASLICK
+LOCALIZATIONS
+Localization Tools and Support
+PROVIDED BY XLOC INC.
+Dir. of Production Services
+BARRY KEHOE
+UK Localization Manager
+FIONA EBBS
+UK Localization Coordinator
+GINA CLARKE
+US Localization Coordinators
+JONAS ANDERSON CHRIS OSBERG
+Localization Consultant
+STEPHANIE O'MALLEY DEMING
+Sr. Dir. of 1st Party Relations
+SUZAN RUDE
+VP, Studio Planning
+BRIAN WARD
+GLOBAL BRAND MANAGEMENT
+VP, Global Brand Management ROB KOSTICH
+Global Brand Manager
+AMY LONGHI
+Associate Brand Manager
+MICHAEL STEINER
+PR
+Sr. Director, Corporate Coms
+MICHELLE SCHRODER
+Sr. Manager, Corporate Coms
+RYH-MING POON
+Sr. Publicist, Corporate Coms
+AARON GRANT
+Jr. Publicist, Corporate Coms
+LINDSAY MORIO
+BUSINESS AND LEGAL AFFAIRS GREG DEUTSCH CHRISTOPHER COSBY KAP KANG DANIELLE KIM
+MARKETING COMMUNICATIONS Vice President Marketing Coms DENISE WALSH
+Director Marketing Coms
+SUSAN HALLOCK
+Manager Marketing Coms
+SHELBY YATES
+Assistant Manager Marketing Coms KAREN STARR
+OPERATIONS
+Sr. Manager, Mainline Operations
+JEN SULLIVAN
+Sr. Director, Supply Chain
+LAURA HOEGLER
+Project Manager, Mainline
+BRANDI BAKER
+TRADE MANAGEMENT
+Trade Promotions, Senior Manager MOLLY HINCHEY
+Trade Marketing Manager
+SEAN DEXHEIMER
+Associate Trade Marketing Manager TERESA LIN
+Director, Trade Marketing
+STEVE YOUNG
+BUSINESS DEVELOPMENT Sr. Director DAVE ANDERSON
+Sr. Manager
+JUSTIN BERENBAUM
+Manager
+TINA KWON
+13
+￼￼Producer
+FRANKIE KANG
+Associate Manager
+LETAM BIIRA
+MUSIC
+Worldwide Executive of Music
+TIM RILEY
+Music Supervisor
+BRANDON YOUNG
+CENTRAL DESIGN AND TECH
+Senior Art Director
+ALESSANDRO TENTO
+Central Game Design
+JEFF CHEN TOM WELLS CARL SCHNURR
+Dir. of Art Technology
+KEVIN CHU
+Art Production Manager
+AIMEE E. SMITH DILBER MANN
+Assoc. Prod. Manager
+NELSON WANG
+Technical Artist
+MIKE EHELER
+Dir. of Central Audio
+ADAM LEVENSON
+Sound Specialist
+DAN MORRIS
+Central Audio Programming
+BLAIR BITONTI
+Audio Coordinator
+Executive Producer, Worldwide Studios GRAHAM FUCHS
+SPECIAL THANKS
+MIKE GRIFFITH ROBIN KAMINSKY LAIRD M. MALAMED WILL KASSOY STEVE PEARCE JANE HUNT SASHA GROSS BRIAN MORRISON
+Marvel Entertainment
+Sr. Vice President & Executive Producer, Video Games AMES KIRSHEN
+President of Production, Marvel Studios KEVIN FEIGE
+Business & Legal Affairs
+SETH LEHMAN JOSHUA M. SILVERMAN ROBERT SHATZKIN MICHAEL WILLOWS YURY VEYNBLAT RYAN POTTER
+Special Thanks
+DAVID MAISEL AVI ARAD JANA HANEY
+Sony Pictures
+Consumer Products
+Vice President, Interactive
+MARK CAPLAN
+Director, Interactive
+KEITH HARGROVE
+Special Thanks
+SAM RAIMI KEVIN FEIGE AVI ARAD JOSH MATAS GEORGE LEON JULI BOYLAN LAETITIA MAY
+Womb Music Casting and Voice Direction
+MARGARET TANG
+Engineering, Editorial and Post RIK SCHAFFER
+Cast Charlie Robinson
+ROBBIE ROBERTSON
+Courtenay Taylor
+SHRIEK
+Kari Wahlgren
+MARY JANE WATSON
+Iona Morris
+DR. ANDREWS
+Keone Young
+MR. CHEN
+Nathan Carlson
+DR. CONNERS
+Neil Kaplan
+KRAVEN
+Neil Ross
+CARLYLE
+NOAH SARID
+14
+￼￼Rachel Kimsey
+BETTY BRANT
+Sean Donnellan
+MORBIUS
+Spencer Ganus
+PENNY MARKO
+Vanessa Marshall
+DETECTIVE DEWOLFE
+Additional Voices
+ANDRE SOGLIUZZO ANDREW KISHINO, ARCHIE KAO ARMANDO VALDES-KENNEDY AVERY KIDD WADDELL CANDI MILO
+CHARLIE SCHLATTER CHRIS EMERSON
+CHRIS WILLIAMS CHUCK MCCANN
+CLYDE KUSATSU CRYSTAL SCALES
+DANA SELTZER
+DANNY MANN
+DAWNN LEWIS
+DEBI MAE WEST
+ERIN FITZGERALD
+FRED TATASCIORE GABRIELL CARTERIS GRANT ALBRECHT
+GREG CIPES
+HANS SCHOEBER HYNDEN WALCH JAMES SIE
+JASON SINGER
+JOHN KASSIR
+JORDAN MARDER
+JORDI CABALLERO
+JOSH KEATON JUSTINE MICELI
+KIM MAI GUEST KIMBERLY BROOKS LAHMARD TATE LARAINE NEWMAN MARC GRAUE MARGARET TANG MASASA MOYO MELISSA GREENSPAN MICHAEL GOUGH MIKEY KELLEY
+MITZI MCCALL
+NIKA FUTTERMAN NOLAN NORTH
+IONA MORRIS PATRICK RENNA
+PAUL NAKAUCHI
+PHIL BUCKMAN
+PHIL LAMARR
+PHIL MORRIS
+PHILIP ANTHONY RODRIGUEZ QUINTON FLYNN ROBIN ATKIN DOWNES RON YUAN
+SHERYL BERNSTEIN SILVANA VIENNE STEPHEN STANTON TASIA VALENZA VYVAN PHAM
+Music
+Recorded in Malmö, Sweden
+MALMÖ SYMPHONY ORCHESTRA
+Orchestral Recording and Mix
+FREDRIK SARHAGEN
+Orchestration and Conducting
+STEPHEN COLEMAN
+Orchestration and Additional Music ROBERT BENNETT
+Music Editing and Additional Music SCOTT SALINAS
+Music Editing
+ADAM GERSHON
+Additional Music
+ERIC COLVIN
+TOD HABERMAN DAN MANOR FRANCOIS-PAUL AICHE
+Guest Artists “Scorpion”
+PAUL OAKENFOLD
+“Apocalypse”
+THE CRYSTAL METHOD
+“Order of the Dragon Tail”
+UBERZONE
+“Scorpion: Evil Corp”
+MONOLAKE
+“Arsenic Candy”
+ANDREW PHILLPOTT
+Lead Synth
+SCOTT KIRKLAND (THE CRYSTAL METHOD)
+“De Wolfe” Guitar
+RICHARD FORTUS
+“Order of the Dragon Tail" Vocals
+MARISSA STEINGOLD
+"Arsenic Candy" Choir
+YOUTH ACADEMY OF DRAMATIC ARTS
+15
+￼￼"Arsenic Candy" Fashion
+RED-EYE
+Agency for Tobias Enhus
+RICHARD BISHOP
+AT 3 ARTIST MANAGEMENT
+Additional Thanks to
+LENNART STENKVIST AT MSO KATIE SIPPEL AT 3AM
+Foley
+TODD AO - WEST
+Foley Mixer
+NERSES GEZALYAN
+Foley Artists
+JAMES MORIANA JEFFREY WILHOIT MPSE
+Packaging and Manual Design
+IGNITED MINDS LLC
+Additional Artwork by
+XPEC ENTERTAINMENT
+Project Manager
+JULIE CHUNG
+Art Supervisor
+SIM CHEN
+Artists
+ALAN LIN RON WANG KITUNEN CHANG CHIEN SU ANDY CHENG ANGUS LEE POLY TSAI SPAWN CHANG SU-WEI LO
+Technical Artist
+FREDDY HSIAO
+Coordinators
+STEVEN CHEN ANGELINE HSIEH
+Additional
+Programming
+BLUE SHIFT, INC.
+SPEEDTREE® | IDV, INC.
+FMOD / FIRELIGHT TECHNOLOGIES, PTY. LTD.
+LIPGENTM / INTERACTIVE MULTIMEDIA SOLUTIONS, INC.
+Fonts licensed from T26.com
+THANK YOU FOR PLAYING SPIDER-MAN 3.TM WE LOVE YOU.
+Spider-Man and all related characters: TM & © 2007 Marvel Characters, Inc. Spider-Man 3, the Movie: © 2007 Columbia Pictures Industries, Inc. All rights reserved. Game Elements: © 2007 Activision Publishing, Inc. Activision is a registered trademark of Activision Publishing Inc. All rights reserved. All other trademarks and trade names are the properties of their respective owners.
+16
+￼￼customEr suPPort
+Note: Please do not contact Customer Support for hints/codes/cheats; only technical issues.
+Internet: http://www.activision.com/support
+Our support section of the web has the most up-to-date information available. We update the
+support pages daily, so please check here first for solutions. If you cannot find an answer to your issue, you can submit a question/incident to us using the online support form. A response may take anywhere from 24–72 hours depending on the volume of messages we receive and the nature of your problem.
+Note: Internet support is handled in English only.
+Note: The multiplayer components of Activision games are handled only through Internet support.
+Phone: (310) 255-2050
+You can call our 24-hour voice-mail system for answers to our most frequently asked questions at
+the above number. Contact a Customer Support representative at the same number between the hours of 9:00 a.m. and 5:00 p.m. (Pacific Time), Monday through Friday, except holidays.
+Please do not send any game returns directly to Activision without first contacting Customer Support. It is our policy that game returns/refunds must be dealt with by the retailer or online site where you purchased the product. Please see the Limited Warranty contained within our Software License Agreement for warranty replacements.
+Register your product online at www.activision.com so we can enter you in our monthly drawing
+for a fabulous Activision prize.
+If you would like more information related to this product or its features, please visit www.sm3thegame.com.
+To view a full manual, including credits, visit www.activision.com/manuals/
+For hints and tips about this title, please visit:
+www.bradygames.com
+￼17
+￼SOFTWARE LICENSE AGREEMENT
+USE OF THIS PROGRAM IS SUBJECT TO THE SOFTWARE LICENSE TERMS SET FORTH BELOW. "PROGRAM" INCLUDES THE SOFTWARE INCLUDED WITH THIS AGREEMENT, THE ASSOCIATED MEDIA, ANY PRINTED MATERIALS, AND ANY ON-LINE OR ELECTRONIC DOCUMENTATION, AND ANY AND ALL COPIES AND DERIVATIVE WORKS OF SUCH SOFTWARE AND MATERIALS. BY OPENING THIS PACKAGE, AND/OR USING THE PROGRAM, YOU ACCEPT THE TERMS OF THIS LICENSE WITH ACTIVISION, INC. ("ACTIVISION").
+LIMITED USE LICENSE. Activision grants you the non-exclusive, non-transferable, limited right and license to use one copy of this Program solely and exclusively for your personal use. All rights not specifically granted under this Agreement are reserved by Activision. This Program is licensed, not sold. Your license confers no title or ownership in this Program and should not be construed as a sale of any rights in this Program.
+OWNERSHIP. All title, ownership rights and intellectual property rights in and to this Program and any and all copies thereof (including but not limited to any titles, computer code, themes, objects, characters, character names, stories, dialog, catch phrases, locations, concepts, artwork, animation, sounds, musical compositions, audio-visual effects, methods of operation, moral rights, and any related documentation, incorporated into this Program) are owned by Activision or its licensors. This Program is protected by the copyright laws of the United States, international copyright treaties and conventions and other laws. This Program contains certain licensed materials and Activision’s licensors may protect their rights in the event of any violation of this Agreement.
+YOU SHALL NOT:
+• Exploit this Program or any of its parts commercially, including but not limited to use at a cyber cafe, computer gaming center or any other location-based site. Activision may offer a separate Site License Agreement to permit you to make this Program available for commercial use; see the contact information below.
+• Sell, rent, lease, license, distribute or otherwise transfer this Program, or any copies of this Program, without the express prior written consent of Activision.
+• Reverse engineer, derive source code, modify, decompile, disassemble, or create derivative works of this Program, in whole or in part.
+• Remove, disable or circumvent any proprietary notices or labels contained on or within the Program.
+• Export or re-export this Program or any copy or adaptation in violation of any applicable laws or regulations.
+LIMITED WARRANTY. Activision warrants to the original consumer purchaser of this Program that the recording medium on which the Program is recorded will be free from defects in material and workmanship for 90 days from the date of purchase. If the recording medium is found defective within 90 days of original purchase, Activision agrees to replace, free of charge, any product discovered to be defective within such period upon its receipt of the Product, postage paid, with proof of the date of purchase, as long as the Program is still being manufactured by Activision. In the event that the Program is no longer available, Activision retains the right to substitute a similar program of equal or greater value. This warranty is limited to the recording medium containing the Program as originally provided by Activision and is not applicable to normal wear and tear. This warranty shall not be applicable and shall be void if the defect has arisen through abuse, mistreatment, or neglect. Any implied warranties prescribed by statute are expressly limited to the 90-day period described above.
+EXCEPT AS SET FORTH ABOVE, THIS WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, WHETHER ORAL OR WRITTEN, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, AND NO OTHER REPRESENTATIONS OR CLAIMS OF ANY KIND SHALL BE BINDING ON OR OBLIGATE ACTIVISION.
+When returning the Program for warranty replacement please send the original product disks only in protective packaging and include: (1) a photocopy of your dated sales receipt; (2) your name and return address typed or clearly printed; (3) a brief note describing the defect, the problem(s) you are encountered and the system on which you are running the Program; (4) if you are returning the Program after the 90-day warranty period, but within one year after the date of purchase, please include check or money order for $20 U.S. currency per disc replacement. Note: Certified mail recommended.
+In the U.S. send to: Warranty Replacements, Activision, Inc., P.O. Box 67713, Los Angeles, California 90067
+LIMITATION ON DAMAGES. IN NO EVENT WILL ACTIVISION BE LIABLE FOR SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULTING FROM POSSESSION, USE OR MALFUNCTION OF THE PROGRAM, INCLUDING DAMAGES TO PROPERTY, LOSS OF GOODWILL, COMPUTER FAILURE OR MALFUNCTION AND, TO THE EXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF ACTIVISION HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ACTIVISION’S LIABILITY SHALL NOT EXCEED THE ACTUAL PRICE PAID FOR THE LICENSE TO USE THIS PROGRAM. SOME STATES/COUNTRIES DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS AND/OR THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND/OR EXCLUSION OR LIMITATION OF LIABILITY MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.
+TERMINATION. Without prejudice to any other rights of Activision, this Agreement will terminate automatically if you fail to comply with its terms and conditions. In such event, you must destroy all copies of this Program and all of its component parts.
+U.S. GOVERNMENT RESTRICTED RIGHTS. The Program and documentation have been developed entirely at private expense and are provided as "Commercial Computer Software" or "restricted computer software." Use, duplication or disclosure by the U.S. Government or a U.S. Government subcontractor is subject to the restrictions set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clauses in DFARS 252.227-7013 or as set forth in subparagraph (c)(1) and (2) of the Commercial Computer Software Restricted Rights clauses at FAR 52.227-19, as applicable. The Contractor/ Manufacturer
+is Activision, Inc., 3100 Ocean Park Boulevard, Santa Monica, California 90405.
+INJUNCTION. Because Activision would be irreparably damaged if the terms of this Agreement were not specifically enforced, you agree that Activision shall be entitled, without bond, other security or proof of damages, to appropriate equitable remedies with respect to breaches of this Agreement, in addition to such other remedies as Activision may otherwise have under applicable laws.
+INDEMNITY. You agree to indemnify, defend and hold Activision, its partners, affiliates, contractors, officers, directors, employees and agents harmless from
+all damages, losses and expenses arising directly or indirectly from your acts and omissions to act in using the Product pursuant to the terms of this Agreement.
+MISCELLANEOUS. This Agreement represents the complete agreement concerning this license between the parties and supersedes all prior agreements and representations between them. It may be amended only by a writing executed by both parties. If any provision of this Agreement is held to be unenforceable
+for any reason, such provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this Agreement shall not
+be affected. This Agreement shall be construed under California law as such law is applied to agreements between California residents entered into and to be performed within California, except as governed by federal law and you consent to the exclusive jurisdiction of the state and federal courts in Los Angeles, California.
+18

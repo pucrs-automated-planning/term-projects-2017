@@ -1,0 +1,141 @@
+StarTropics
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Introduction
+4 Story
+5 Game Screen
+6 Basic Play
+7 Weapons
+8 Items
+9 Saving
+10 Instruction Manual Insert
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move / Navigate menu ￼ ￼ ￼ ￼ ￼ ￼ ￼  Confirm/Talk/Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Attack ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Start/Confirm/Pause
+START
+￼￼Select weapon / Change weapon / Check status
+￼￼￼￼￼￼￼￼
+￼￼Change weapon ￼ ￼ ￼ ￼ ￼ SELECT
+￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼At the title screen, press START to display three files.
+Select "Register Your Name" by pressing START and enter your name to create a new file. Choose letters with  and confirm them with A.
+Files
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Once you've entered your name, use SELECT to select "End", then press START to return to the previous screen. Press START to start a new game.
+● Playing a Previous Chapter and Erasing Data
+To replay a previous
+chapter, use "Review Mode".
+This mode does not affect
+previously saved data.
+Anything you gain in this
+mode will not be saved.
+Use "Elimination Mode" to delete a game file.
+♦ Erased data cannot be restored, so be careful.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Introduction
+￼￼Help Mike, a 15-year-old star pitcher from Seattle, navigate his way through the islands of the Coral Sea to find his abducted uncle, Dr. Jones.
+You'll need all of Mike's abilities to defeat enemies, save his uncle, and solve the mystery of the Lost Ruins. If you come into contact with an enemy or trap, your Life Hearts will decrease by a certain amount. If you lose all of your Life Hearts, fall victim to certain traps or fall in the water, you will lose a life. The adventure will end when you lose all of your lives.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Story
+￼￼Hi. My name is Michael Jones, but my friends call me Mike. I'm fifteen years old, and I live in Seattle, Washington.
+Have you heard of my Uncle Steve? Well, most people don't call him that; they call him Dr. Jones. He is a very famous archaeologist who is looking for some lost ruins in the Coral Sea. I've never actually met him, but last week I received a letter from him inviting me to stay with him at his laboratory on C-Island.
+I leave tomorrow on a helicopter! I bet I won't be able to sleep at all tonight. Well, good night.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Game Screen
+￼￼￼￼￼￼￼￼￼￼￼￼￼2
+1 345
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3
+4 5
+Life Hearts
+Items / Special weapons
+Medicine Bottles Stars
+Lives
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Basic Play
+￼￼StarTropics consists of two different phases: the travel stage and the battle stage.
+Travel Stage
+On land, walk around and talk
+to islanders to gather details
+about Dr. Jones's
+disappearance. Press A while
+facing a person to begin a
+conversation and press A again to scroll the text on the screen. Arrows indicate the islander has more to say.
+When Mike is inside the super submarine, Sub-C, press B to submerge and travel from one island to the next.
+♦ Mike can't use any weapons during the travel stage.
+Battle Stage
+When Mike enters a tunnel or a
+cave, the battle stage begins.
+Press START to pause the game
+and then use  to choose a
+weapon or a magic item. If
+selecting a weapon, press START to return to the battle. If selecting a magic item, press B to use it, and then press START to return to the battle. Alternatively, you can quickly cycle through your weapons while playing by pressing SELECT.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼7 Weapons
+￼￼￼￼Basic Weapons
+￼￼￼￼￼￼Island Star
+The legendary weapon passed down from C-Island ancestors. Yes, it's a yo-yo.
+￼￼￼￼￼￼￼￼￼Shooting Star
+The queen of Shecola's powerful weapon. You must have six red hearts to be able to use it.
+￼￼￼￼￼￼￼￼￼￼Super Nova
+This weapon is only rumoured to exist and it is said that you must have 11 red hearts to use it correctly.
+￼￼￼￼￼￼￼￼￼￼Special Weapons
+￼￼￼￼￼￼Fire
+Use this torch to burn the baddies.
+￼￼￼￼￼￼￼￼￼Baseball Bat
+When Mike's got his bat, he'll hit those enemies out of the park!
+￼￼￼￼￼￼￼￼￼￼Slingshot
+This weapon is strong, but its range is short.
+￼￼￼￼￼￼￼￼￼￼Bola (Twister)
+Let fly with this long-range snare.
+￼￼￼￼￼￼￼￼￼￼Wonder Horsehide (Baseball)
+Mike's lucky ball. When this ace pitcher gets his hands on this weapon, stand back!
+￼￼￼￼￼￼￼￼￼￼Super Laser Gun
+A white gun that shoots lasers. It holds up to 99 shots.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼Mega Laser Gun
+A red gun that shoots lasers. It's more powerful than the Super Laser Gun, but only holds 20 shots.
+￼￼￼￼￼￼￼￼￼Asterisk (Twin Cross-Blades)
+A throwing-star-type weapon that you can separate into two projectiles by pressing B after throwing it.
+￼￼￼￼￼￼￼￼￼￼Spikes
+Wow! Spiked shoes! With these on, you'll quickly attack all on-screen enemies!
+￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼8 Items
+￼￼￼￼￼Big Heart
+A heart that adds one unit to your Life Hearts and then restores them completely.
+￼￼￼￼￼￼￼￼￼Anklet
+Jewellery that lets you jump two spaces at a time.
+￼￼￼￼￼￼￼￼￼￼Lantern
+Lights up dark rooms for a few seconds.
+￼￼￼￼￼￼￼￼￼￼Medicine
+Restores five of your Life Hearts.
+￼￼￼￼￼￼￼￼￼￼Miracle Mirror
+A mirror that reflects magic back at enemies.
+￼￼￼￼￼￼￼￼￼￼Rod of Sight
+A magic wand that makes invisible enemies appear.
+￼￼￼￼￼￼￼￼￼￼Small Heart
+Restores one of your Life Hearts.
+￼￼￼￼￼￼￼￼￼￼Snowman Doll
+A doll used to freeze a certain enemy.
+￼￼￼￼￼￼￼￼￼￼Star
+Restores one of your Life Hearts for every five you pick up.
+￼￼￼￼￼￼￼￼￼￼Stop/Slow
+A timer that stops or slows enemies for a short period of time.
+￼￼￼￼￼￼￼￼￼￼Try-Your-Luck Sign
+A sign that may give lives or take them away. It's random!
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼Vitamin X
+Temporarily fills up your hearts to 22 units. After using it, your health will slowly drain to the number of Life Hearts you previously had.
+￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼9 Saving
+￼￼Your game's progress will be saved whenever you enter or exit a dungeon, finish a chapter, or when you lose your last life.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼10 Instruction Manual Insert
+￼￼The original instruction manual
+for StarTropics included a
+physical letter to Mike from Dr.
+Jones printed on parchment.
+When dipped in water, the letter
+revealed further instructions for Mike. See below for the immersed version of the letter.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

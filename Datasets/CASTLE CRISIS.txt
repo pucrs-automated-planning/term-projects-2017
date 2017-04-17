@@ -1,0 +1,50 @@
+CASTLE CRISIS 
+For Atari Home Computers 
+by Bryan Edewaard 
+
+Castle Crisis is a fast-paced game for up to four players. Using your shield, you must capture and
+launch fireballs against an enemy's castle, while protecting your own castle from enemy fireball hits.
+  
+Requirements: 
+Atari 400/800/XL/XE Computer with at least 16K RAM 
+One or two sets of Atari paddles 
+
+Insert the cartridge and turn on the computer. 
+
+The game will start-up in Attract mode. In this mode a single fireball bounces around the screen
+, and the game displays the current high scores and winning corner colors. There are 4 variations
+ of game play depending on how many players are present: 
+
+In a one-player game, you must destroy all 3 enemy castles to progress to the next level. Once your
+ castle is destroyed, the game is over. High scores are recorded for this mode. 
+
+In a two-player game, both enemy castles must be destroyed before both players' castles are destroyed.
+ As long as one player remains in the game, both players will receive new castles at each new level.
+ High scores are recorded for this mode. 
+
+In a three-player game, scoring is not enabled, and players must compete to win a match. Once a player
+ wins the selected number of matches, the game is over.* One castle will be played by the computer. 
+
+The four player game is played the same way as the three-player game, but there are no computer players. 
+
+To start a game, players press their paddle buttons (if START is pressed first, the attract mode will
+ stop while the game waits for players to press their buttons). Each paddle corresponds to a corner.
+ The counter will begin counting down to the beginning of the game. If a match is being played
+ (3 or 4 players), pressing SELECT will set the number of matches needed to win (1-5-10-15-20 note
+ that there is no number displayed when 1 is selected). 
+
+Once the dragon releases the first fireball, players must control their shield to protect their 
+castle from damage. If a player's fire button is pressed, the fireball will be captured when it
+ touches that player's shield. The player may then aim the fireball and release the button to
+ catapult the fireball at another player (doing maximum damage). If a fireball enters a hole
+ in the wall, that castle will be destroyed. The game is over when all players have been eliminated,
+ or when the selected number of matches have been won (for match play). 
+
+Press SPACE to pause a game in progress. The screen will turn black & white until SPACE is pressed
+ again and gameplay resumes. 
+
+If the Attract mode is allowed to run for 10 minutes, the screen will turn black until a key is pressed. 
+ 
+* In a three-player single match, the game is over when only one castle remains, which may be the
+ computer's castle. In a three-player extended match, a player must reach the selected number of
+ matches. A win by the computer is not counted. 

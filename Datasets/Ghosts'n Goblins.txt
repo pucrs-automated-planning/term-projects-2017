@@ -1,0 +1,66 @@
+Ghosts'n Goblins
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Game Screen
+5 Equipment
+6 Items
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Attack ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Start game/Pause ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select players ￼ ￼ ￼ ￼ ￼ SELECT
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼On the title screen, select
+1 PLAYER or 2 PLAYERS with SELECT, then press START to
+begin the game.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼You play the role of a knight who must fight against zombies, demons and other
+undead creatures to save the
+kidnapped princess. Defeat the boss at the end of each stage, then use the key that drops to open the gate and proceed to the next stage.
+● Armour
+If you are hit by an enemy or
+enemy projectile, you will
+lose your armour. You will
+lose a life if you take a
+second hit, fall into a pit or run out of time. If
+you lose a life, you will have to start over at the beginning of the stage or at the halfway point if
+you managed to reach it.
+● Game Over
+Lose all of your lives and it will be game over. If
+you lose all of your lives, you can always continue the game by selecting CONTINUE on the title screen.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼￼￼￼￼1 2
+2 3
+￼￼￼￼￼￼￼￼￼￼￼￼3 1
+￼￼￼￼￼￼￼Score
+Time remaining
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼Equipped weapon
+￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Equipment
+￼￼You can find new weapons inside jars carried by enemies. Armour can be found at hidden spots within the stage, but not inside jars carried by enemies. Keep in mind that you can also find other items inside jars.
+Lance ￼ ￼ ￼ ￼ ￼ ￼ ￼ Flies straight and true. Default weapon.
+♦ Other weapons can also be found in the game.
+￼￼￼￼￼￼￼Dagger
+￼￼￼￼￼￼￼￼￼￼￼Axe
+Flies in an arc and slices through weak opponents.
+￼￼￼￼Flies like a lance but faster. You can throw up to three in a row.
+￼￼￼￼Torch
+￼￼￼Flies in a short arc, then continues to burn upon landing.
+￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Items
+￼￼Other items than those shown below can be found in the game.
+￼￼￼Stone Soldier
+Awards 200 or 400 points.
+￼￼￼￼￼￼￼￼￼Money Bag
+Awards 500 points.
+￼￼￼￼￼￼￼￼￼￼King
+Awards 10,000 points.
+￼￼￼￼￼￼￼￼￼￼Armour
+Restores your armour.
+♦ This will not appear if you are already wearing armour.
+￼￼￼￼￼￼￼￼￼￼Key
+Defeat the boss at the end of each stage to get a key, clear the stage and earn 1,000 points.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

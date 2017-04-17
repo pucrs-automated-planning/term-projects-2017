@@ -1,0 +1,25 @@
+Canyon Bomber
+From Wikipedia, the free encyclopedia
+Canyon Bomber Cover.jpg
+Developer(s)	Atari, Inc
+Publisher(s)	Atari, Inc
+Designer(s)	Howard Delman
+Platform(s)	Arcade, Atari 2600
+Release	1978
+Genre(s)	Arcade
+Mode(s)	Up to 2 players, simultaneous
+Cabinet	Upright
+Canyon Bomber is a black-and-white 1978 arcade game, developed and published by Atari. The game was rewritten in color and with a different visual style for the Atari 2600 in 1979.
+
+Contents  [hide] 
+1	Gameplay
+2	Ports
+3	References
+4	External links
+Gameplay[edit]
+The player and an opponent fly a blimp or biplane over a canyon full of numbered, circular rocks, arranged in layers. The player does not control the flight of vehicles, but only presses a button to drop bombs which destroy rocks and give points. Each rock is labeled with the points given for destroying it. As the number of rocks is reduced, it becomes harder to hit them without missing. The third time a player drops a bomb without hitting a rock, the game is over.
+
+Ports[edit]
+A home console port was developed for the Atari 2600 by then-Atari employee David Crane. The Atari 2600 version uses solid bricks rather than round rocks. Instead of visible point values, each layer of bricks has a color corresponding to its worth.
+
+Canyon Bomber was made available on Microsoft's Game Room service for its Xbox 360 console and for Windows-based PCs in May 2010.

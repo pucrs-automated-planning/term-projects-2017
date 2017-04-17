@@ -1,0 +1,32 @@
+Casino (video game)
+From Wikipedia, the free encyclopedia
+Casino
+Casino Atari cover.jpg
+Game manual
+Developer(s)	Atari, Inc.
+Publisher(s)	Atari, Inc.
+Designer(s)	Bob Whitehead[1]
+Platform(s)	Atari 2600
+Release	1978
+Genre(s)	Gambling
+Mode(s)	1-4 players
+Casino is an Atari 2600 video game programmed by Bob Whitehead and published by Atari, Inc. in 1978.[1] Supporting up to four players, the game is controlled by the Atari Paddles.[2]
+
+Contents  [hide] 
+1	Gameplay
+2	Compilation re-releases
+3	References
+4	External links
+Gameplay[edit]
+
+A blackjack game in progress.
+Displayed from an overhead perspective,[2] there are three card games to choose from: blackjack, five-card stud poker, and poker solitaire. Except for poker solitaire, each game always has the computer as the dealer, and bets are made by rotating the wheel on the controller and then pressing the button.[3]
+
+There are two different blackjack games: Game 1 allows for up to two players and hand splitting, and Game 2 allows for up to four players yet there is no hand splitting. There are variations in the game depending on the setting of the difficulty switches. If the left switch is set to "A", the computer will shuffle after 34 hands, and if set to "B", the computer will shuffle after every hand. If the right switch is set to "A", the dealer will stay (not draw anymore cards) after drawing a 17, and if set to "B", the computer will stay after drawing an 18 or better. Furthermore, the player will win if he draws the maximum amount of cards; in Game 1, that is three or eight hits, and in Game 2, three hits.[3]
+
+Stud poker, which comprises Game 3, allows for up to four players. The computer, as the dealer, issues a card to each of the players and itself. Before the first card is dealt, and after each subsequent hand, until five cards have been dealt, each player must either make a bet or fold. If the left difficulty switch is set to "A", the dealer's first card is dealt face down; otherwise, it is dealt face up; likewise for the right difficulty switch for each player.[3]
+
+Poker solitaire is different in that no bets are made and there is no dealer; rather, the goal is to arrange cards to create the best twelve poker hands in 25 cards, with five rows, five columns, and the two diagonals. Points are scored depending on the hands created, with a pair yielding 10 points and a royal flush yielding 500 points. The highest possible score is 3340 points. The difficulty switches have no effect in this game.[3]
+
+Compilation re-releases[edit]
+The game was rereleased in 2003 as the Atari - 80 Classic Games in One! for Microsoft Windows. It was rereleased again in 2004 as part of the Atari Anthology for the Xbox and Playstation 2.

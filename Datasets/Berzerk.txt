@@ -1,0 +1,71 @@
+Berzerk (video game)
+From Wikipedia, the free encyclopedia
+  (Redirected from Berzerk (arcade game))
+This article is about the 1980 arcade and Atari 2600 game. For game based on the Berserk manga, see Berserk and the Band of the Hawk.
+Berzerk
+Berzerk.jpg
+North American cover of the Atari 2600 version of the game
+Developer(s)	Stern Electronics
+Publisher(s)	Stern Electronics
+Designer(s)	Alan McNeil
+Platform(s)	Arcade game, Atari 2600, Atari 5200, GCE Vectrex
+Release	November 12, 1980 (Arcade)[1]
+1982 (GCE Vectrex)
+August 1982 (Atari 2600)
+1983 (Atari 5200)
+Genre(s)	Multi-directional shooter/Run and gun
+Mode(s)	Up to 2 players, alternating turns
+Cabinet	Standard and cocktail
+CPU	Z80 2.50 MHz
+Sound	TSI S14001A ~20 kHz (Variable), M6840 PTM 5.0 MHz
+Display	Raster, standard resolution (Used: 256 × 224), 16 colors, 19 inch
+Berzerk is a multi-directional shooter video arcade game, released in 1980 by Stern Electronics of Chicago. It is one of the canonical examples of a maze game, in which the player has to navigate around a maze-like building while shooting enemies.
+
+Contents  [hide] 
+1	Gameplay
+2	History
+3	Technology
+3.1	Speech synthesis
+4	Reception
+5	Legacy
+5.1	High score competition
+6	In popular culture
+7	References
+8	External links
+Gameplay[edit]
+The player controls a green stick man. Using a joystick and a firing button that activates a laser-like weapon, the player navigates a simple maze filled with many robots, who fire lasers back at the player character. A player can be killed by being shot, by running into a robot or an exploding robot, get electrocuted by the electrified walls of the maze itself, or by being touched by the player's nemesis, Evil Otto.
+
+The function of Evil Otto, represented by a bouncing smiley face, is to quicken the pace of the game. Otto is unusual, with regard to games of the period, in that there is no way to kill him. Otto can go through walls with impunity and is attracted to the player character. If robots remain in the maze Otto moves slowly, about half as fast as the humanoid, but he speeds up to match the humanoid's speed once all the robots are killed. Evil Otto moves exactly the same speed as the player going left and right but he can move faster than the player going up and down; thus, no matter how close Otto is, the player can escape as long as they can avoid moving straight up or down.
+
+The player advances by escaping from the maze through an opening in the far wall. Each robot destroyed is worth 50 points. Ideally, all the robots in the current maze have been destroyed before the player escapes, thus gaining the player a per-maze bonus (ten points per robot). The game has 65,536 rooms (256×256 grid), but due to limitations of the random number generation there are fewer than 1,024 maze layouts (876 unique). It has only one controller, but two-player games can be accomplished by alternating at the joystick.
+
+The game is most difficult when the player enters a new maze, as there is only a short interval between entering the maze and all the robots in range firing at the player. For the beginner, this often means several deaths in rapid succession, as each death means starting a new maze layout.
+
+Another memorable feature is the action of the robots—unlike adversaries in most other contemporary games, Berzerk's robots are known for being noticeably stupid, killing themselves by running into walls or each other, shooting each other, or colliding with Evil Otto. Since they shoot from the right and from the top, it is advantageous to shoot them from around walls coming from the left or from the bottom. This creates a substantial disadvantage for the second player for beginning players, since the second player starts on the right side of the screen. This can be corrected by exiting top or bottom on the first screen and then exiting right on the second screen. From then on, the second player can go left to right like the first player starts out. Anybody who can get through the second screen without losing a life consistently and who understands the left-to-right advantage no longer has a disadvantage for starting second. Thus, in championship play, a two-player game can be used without problem.
+
+As a player's score increases, the colors of the enemy robots change, and the robots can have more bullets on the screen at the same time. Once they reach the limit of simultaneous onscreen bullets, they cannot fire again until one or more of their bullets detonates; the limit applies to the robots as a group, not as individuals.
+
+Two different versions of the game were released. In the original version, the sequence goes as follows:
+
+Dark yellow robots that do not fire
+Red robots that can fire 1 bullet (500 points)
+Dark cyan robots that can fire 2 bullets (1,500 points)
+In this version of the game, after 5,000 points to the end, Evil Otto doubles his speed, moving as fast as the player while robots remain in the maze, and twice as fast as the player after all the robots are destroyed, .
+
+The revised version, which had the much larger production run of the two, features a longer color sequence after the cyan robots:
+
+Green robots that fire 3 bullets (3k)
+Dark purple robots that fire 4 bullets (4.5k)
+Light yellow robots that fire 5 bullets (6k)
+White robots that fire 1 fast bullet (7.5k)
+Dark cyan robots that fire 2 fast bullets (10k)
+Light purple robots that fire 3 fast bullets (11k)
+Gray robots that fire 4 fast bullets (13k)
+Dark yellow robots that fire 5 fast bullets (15k)
+Red robots that fire 5 fast bullets (17k)
+Light cyan robots that fire 5 fast bullets (19k)
+The game allows up to six shots on the screen at one time. This include the player, and five total from any robots at any one time.
+
+To balance the greatly increased threat from the robots in the second version, Evil Otto's pursuit speed remains at its normal level—half or equal the player's speed—throughout.
+
+In both versions, a free man can be awarded at 5,000 or 10,000 points, set by internal DIP switches; no extra lives thereafter.

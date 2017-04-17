@@ -1,0 +1,294 @@
+FINAL FANTASY
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Map Screen
+5 Menu Screen
+6 Battle Screen
+7 Magic
+8 Saving
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move/Menu navigation ￼ ￼ ￼ ￼ ￼ ￼ ￼  Talk/Examine/Confirm ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Cancel ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
+￼￼￼￼￼￼￼￼￼￼￼￼￼Confirm/Display menu screen (on map screen)
+￼￼￼START
+￼￼￼￼￼￼Change party formation (on map screen)
+￼￼￼SELECT
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼When starting the game, the
+introductory story will appear.
+Press A or B to speed it up and
+continue to the main menu.
+Select NEW GAME, then decide
+on names and classes for the
+four central characters to begin a new game. Select CONTINUE to start the game from the last save point.
+Respond Rate
+Use  to set the speed at which messages are displayed during battle (respond rate). Select a speed from 1 (slow) to 8 (fast).
+● Character Name and Class
+Select the first character's class with  and
+confirm with A. Next, decide on a name of up to four letters or symbols (including numbers). Select each letter or symbol with , and press A to enter it. Press B to delete. When you have entered all four letters or symbols in a name, press A to move on to the next character. Once you have decided the names and classes of all four characters, press A to begin the game or B to make changes.
+Space
+♦ For names shorter than four letters/symbols, use the blank space below 'T' to fill the rest of the spaces.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1
+￼￼￼￼1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼● Classes
+There are six classes. Each has its own abilities
+and can use class-specific items, such as different types of weapon and armour.
+￼￼￼￼￼Fighter
+￼￼￼￼￼￼Red Mage
+￼￼￼Fighters are professional soldiers hardened after years of training. Extensive weapons training lets them equip almost anything.
+￼￼￼￼￼￼Thief
+￼￼￼￼￼The agile thief is an expert at both quick attacks and tactical retreats, but lacks resilience.
+￼￼￼￼￼￼Black Belt
+￼￼￼The master of martial arts is both mentally and physically tough, fighting effectively with both bare hands and martial arts weapons.
+￼￼￼￼White Mage
+￼￼￼￼￼These mages can heal wounds and cast protective spells. Their offensive spells are focused on obliterating the undead.
+￼￼￼￼Black Mage
+￼￼￼Black Mages have the ability to unleash powerful elemental spells
+which can attack, debilitate and disable entire legions.
+￼￼￼A jack of all trades, the Red Mage has limited training in white and black magic, along with some
+weapons training.
+￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼Control the four characters and journey around the world, restoring light to your four mystical orbs. In general, you'll rely on three screens: the map screen, the menu screen and the battle screen.
+● Map Screen
+This is the main game screen. It shows various types of terrain, including populated areas.
+Move your party around the map to visit towns and castles, trek through forests and swamps, and traverse many other areas. Talk to everyone you see and fight lots of monsters to get more experience!
+● Menu Screen
+Press START on the map
+screen to go to the menu
+screen, where you can
+change your equipment,
+check out your characters' stats and use your items or magic.
+● Battle Screen
+When you run into enemies
+while adventuring, the action plays out here.
+￼￼￼￼￼￼￼￼￼￼World Map
+Town
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Map Screen
+￼￼Move your party around the map screen with .
+● Talk and Search
+Talk to people and interact with objects by standing next to them and pressing A.
+Investigate everyone and everything – every piece of information is important.
+● Change Party Formation
+Press SELECT to check and change your party's formation. To change the formation, select a character you want to move with A.
+Then select another character and press A again to make the two characters swap places. The character at the top of the formation will be the one displayed on the map screen.
+♦ Slain, poisoned or petrified characters are automatically moved to the bottom of the formation at the end of a battle.
+● Using Town Facilities Various goods and services
+are available in towns and villages. Spend your gold wisely!
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼Weapon Shop
+Buy and sell weapons such as swords or staves.
+￼￼￼￼￼￼￼￼￼Armour Shop
+Buy and sell protective equipment such as armour or shields.
+￼￼￼￼￼￼￼￼￼￼Item Shop
+Buy potions and other items.
+￼￼￼￼￼￼￼￼￼￼White Magic Shop
+Learn white magic spells.
+￼￼￼￼￼￼￼￼￼￼Black Magic Shop
+Learn black magic spells.
+￼￼￼￼￼￼￼￼￼￼Inn
+Staying at an inn will restore the health your party members have lost and the
+magic they have used. You can save your game when you stay here.
+￼￼￼￼￼￼￼￼￼￼Clinic
+Characters who have been slain in battle can be revived with 1HP (hit point) for a fee.
+￼￼￼￼￼￼￼￼● Vehicles
+As your adventure
+progresses, you will come across vehicles you can use for transportation.
+Ship Ship ￼ ￼ ￼ ￼ ￼ ￼ ￼ Travel by sea and dock at ports.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Canoe
+￼￼￼Travel on rivers and lakes. You can also switch from the ship to the canoe at river mouths.
+￼
+￼￼￼￼Fly over seas and mountains. You can only land on open
+plains. Monsters will not attack you while you are flying in the airship.
+￼￼￼￼￼Airship
+￼
+￼￼￼￼￼￼￼￼￼￼￼5 Menu Screen
+￼￼Press START on the map screen to display the menu screen.
+￼￼￼￼￼￼￼￼1 2
+3
+Orbs
+4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1
+￼￼￼As your adventure progresses, the orbs will glow once again.
+Gold Menu
+Select one of the five options described below.
+Character Status
+You can see each character's name, current level, current HP, maximum HP, status ailments (if any) and the number of spells per level that magic users have remaining.
+● Item
+Check and use the items
+your party members are
+carrying. To use an item
+such as a potion, select the
+item then the character who will use it.
+● Magic
+Use magic spells that characters have learned.
+Select the character who will cast the spell, then select the spell and the target character.
+￼￼￼2 3
+￼￼￼￼￼￼￼￼￼￼￼￼4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼This shows each spell level, along with the remaining uses, maximum uses and the names of the spells learnt for that level.
+● Weapon
+Manage your party's
+weapons. You can discard any weapons you no longer need.
+● Armor
+Manage your party's armour
+and shields. You can discard any armour you no longer need.
+Spell list
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Equip ￼ ￼ ￼ ￼ ￼ ￼ ￼ Equip or remove weapons/armour.
+Drop ￼ ￼ ￼ ￼ ￼ Discard weapons/armour.
+● Status
+Check various stats for each character in your party.
+￼￼￼￼￼￼Trade
+￼￼￼Exchange weapons/armour between two characters.
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼Character name
+This is the name of the selected character.
+￼￼￼￼￼￼￼￼￼This is the class of the selected character.
+￼￼￼Class
+￼￼￼￼￼￼This is the current experience level of the selected character. Your level will increase as you accumulate experience points.
+￼￼￼Level (LEV)
+￼￼￼￼￼￼Strength (STR.)
+Strength affects your physical attack power.
+￼￼￼￼￼￼￼￼￼Characters with higher agility will be more likely to have their turn before other characters in battle.
+￼￼￼Agility (AGL.)
+￼￼￼￼￼￼Intelligence (INT.)
+Intelligence can affect the potency of magic spells.
+￼￼￼￼￼￼￼￼￼Vitality (VIT.)
+The higher your vitality, the more HP you will gain when you level up.
+￼￼￼￼￼￼￼￼￼Luck affects how easy it is to run away from a battle.
+￼￼￼Luck
+￼￼￼￼￼￼The higher this is, the more damage you will deal with physical attacks.
+￼￼￼Damage
+￼￼￼￼￼￼Hit accuracy (HIT %)
+￼￼￼This value affects your accuracy when attacking an enemy.
+￼￼￼￼￼￼Damage absorption (ABSORB)
+This value affects how much damage you take from physical attacks.
+￼￼￼￼￼￼￼￼￼Evasion (EVADE %)
+This value affects your chance of evading an enemy's attack.
+￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Battle Screen
+￼￼When moving on the world map or in a dungeon, there is a chance you will run into enemies. If this happens, the battle screen will be displayed.
+￼￼￼￼￼￼￼￼￼1
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3
+2
+3 Characters' Current HP
+Enemy List
+Battle Commands
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Fight
+￼￼￼￼￼￼Use magic spells a character has learned.
+￼￼￼Magic
+￼￼￼￼Use a character's equipped weapon or bare hands to deal a physical attack.
+￼Drink ￼ ￼ ￼ ￼ ￼ ￼ ￼ Use potions or antidotes.
+Item ￼ ￼ ￼ ￼ ￼ ￼ ￼ Use items from your inventory.
+Rules of Engagement
+Select battle commands and commence fighting. When you have defeated all members of an enemy party, you are victorious. You will be awarded experience points and/or gold after vanquishing enemies. The order of actions in battle is decided by each participant's agility attribute.
+￼￼￼￼￼￼￼￼￼￼Run
+Escape from the battle. Some battles cannot be escaped from.
+￼￼￼￼￼￼￼￼￼￼￼
+￼Status Ailments
+When a character is hit with
+certain special attacks, the
+character may be afflicted with
+a status ailment such as poison or dark. Use items or magic spells to recover.
+Game Over
+During battle, when all
+characters in your party are
+slain (or petrified by a magic
+spell), the game will end and you will go back to the main menu.
+￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼7 Magic
+￼￼White and black magic are used by White and Black Mages, respectively. Red Mages can also use these types of magic, although they have fewer spells available to them. Some other classes can learn to use magic, but they must first prove their courage to a certain dragon.
+● White Magic
+White magic spells can restore the HP of allies,
+heal status ailments and damage undead monsters.
+White Magic Level 1 (L1)
+White Magic Level 2 (L2)
+￼￼￼￼￼￼￼￼￼￼￼Restores a small amount of HP.
+￼￼￼￼Cure
+One ally
+￼￼￼￼￼￼￼￼￼￼￼￼Harm
+All enemies
+Damages undead enemies.
+￼￼￼￼￼￼￼￼￼Shields an ally in a thick fog, increasing their defence.
+￼￼￼Fog
+One ally
+￼￼￼￼￼￼￼￼￼Increases the evasion rate of the caster.
+￼￼￼￼Ruse
+Caster
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Lamp
+One ally
+Removes the dark status from an ally.
+￼￼￼￼￼￼￼￼￼￼￼￼Mute
+All enemies
+Silences enemies, making them unable to cast magic spells.
+￼￼￼￼￼￼￼￼￼Reduces damage from lightning spells.
+￼￼￼￼Alit
+All allies
+￼￼￼￼￼￼￼￼￼Makes an ally invisible, improving their evasion rate.
+￼￼￼￼Invs
+One ally
+￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼White Magic Level 3 (L3)
+￼￼￼￼￼￼￼￼￼￼￼￼Cur2
+￼￼Hrm2
+Restores more HP than cure.
+￼One ally
+￼￼￼￼￼￼￼Damages undead enemies. Does more damage than the harm spell.
+￼￼￼All enemies
+￼￼￼￼￼￼￼￼￼Reduces damage from fire spells.
+￼￼￼￼Afir
+All allies
+￼￼￼￼￼￼￼￼￼Restores a small amount of HP.
+￼￼￼￼Heal
+All allies
+￼￼￼● Black Magic
+Black magic is effective in dealing damage to enemies or weakening enemy attacks.
+Black Magic Level 1 (L1)
+Black Magic Level 2 (L2)
+￼￼￼￼￼￼￼￼￼￼￼One enemy
+Damages an enemy with a small fire attack.
+￼￼￼￼Fire
+￼￼￼￼￼￼￼￼￼￼￼￼Slep
+All enemies
+Puts enemies to sleep. Does not work on undead monsters.
+￼￼￼￼￼￼￼￼￼￼￼￼Lock
+One enemy
+Applies a magical target to an enemy, increasing its chance of being hit by attacks.
+￼￼￼￼￼￼￼￼￼One enemy
+Damages an enemy with a small lightning attack.
+￼￼￼￼Lit
+￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼One enemy
+Damages an enemy with an ice attack.
+￼￼￼￼Ice
+￼￼￼￼￼￼￼￼￼All enemies
+￼￼￼Dark
+Blinds enemies.
+￼￼￼￼￼￼Tmpr ￼ ￼ ￼ ￼ ￼ ￼ ￼ One ally Increases attack power.
+Black Magic Level 3 (L3)
+￼￼￼￼￼￼￼￼All enemies
+￼￼￼￼Slow
+Slows enemy actions.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼Damages all enemies with a strong fire attack. Does more damage than the fire spell.
+￼￼￼￼Fir2
+All enemies
+￼￼￼￼￼￼￼￼￼One enemy
+￼￼￼￼Hold
+Fixes an enemy in place.
+￼￼￼￼￼￼￼￼￼Damages all enemies with a strong lightning attack. Does more damage than the Lit spell.
+￼￼￼Lit2
+All enemies
+￼￼￼￼￼￼￼￼￼Targets all enemies and increases their chances of being hit by attacks.
+￼￼￼￼Lok2
+All enemies
+￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼8 Saving
+￼￼When you stay at an inn, or use items such as a cabin or tent in the field, you can save
+your progress. There is only
+one save file. When you save, the previously saved data is overwritten, so please be careful.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

@@ -1,0 +1,114 @@
+Kirby's Adventure
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Game Screen
+5 Copying Abilities
+6 Items
+7 Saving and Deleting
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move/Menu navigation ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump/Confirm ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Inhale/Use copied ability ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
+Start game/View game help screen ￼ ￼ ￼ ￼ ￼ START Discard copied ability ￼ ￼ ￼ ￼ ￼ SELECT
+Other
+Walk ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
+Crouch ￼ ￼ ￼ ￼ ￼ ￼ ￼ Press and hold  to crouch.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Run
+￼￼￼Double tap and then hold  to run. Let go to stop running. Press  in the opposite direction while running to skid to a halt.
+￼￼￼￼￼￼￼Press  to inflate, and then again to rise into the air.
+￼￼￼Inflate
+￼￼￼￼￼￼Press A to jump. Press it while running to jump even further.
+￼￼￼Jump
+￼￼￼￼￼￼Press B to inhale an enemy or object.
+￼￼￼Inhale
+￼￼￼￼￼￼Press  in front of a doorway to enter it.
+￼￼￼Enter doorway
+￼￼￼￼￼￼Press  when next to a ladder to ascend or descend it.
+￼￼￼Use ladder
+￼￼￼￼￼￼Press A or B while crouching to perform a slide attack.
+￼￼￼Slide attack
+￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼Further Controls
+￼￼￼￼￼￼￼￼Exhale
+￼￼￼￼￼￼Swallow
+￼￼￼Press B after inhaling an enemy, block or star to fire out a star. You can use this to destroy enemies or blocks.
+￼￼￼Press  to swallow an inhaled enemy and copy their ability. Different enemies have different abilities, or some have none at all.
+￼￼￼Mid-Air Controls
+Underwater Controls
+￼￼￼￼￼￼￼￼Float
+￼￼￼￼￼￼Mid-air attack
+￼￼￼Tap A repeatedly while in the air to float.
+￼￼￼Press B while in the air to fire out an air pellet. However, doing this will cause Kirby to deflate and he will come back down to the ground with a thud!
+￼￼￼￼￼￼￼￼￼￼￼Swim
+￼￼￼￼Press A +  while underwater to swim.
+￼￼￼Press B while underwater to squirt water and take down enemies.
+￼￼￼￼￼Water gun
+￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼Press START on the title screen
+to open the file selection
+screen. To start a new game
+select an empty file and press
+START to proceed to the level 1 map screen.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼● Map and Stage Information There are numerous doors
+on the map screen which will take you through to the
+individual stages of that
+level. After clearing a stage
+the map screen will grow
+larger and reveal new doors
+to enter through.
+Defeat the boss lying in wait
+on the final stage of each
+level and grab the Star Rod piece to proceed on to the next. You must defeat all eight bosses to clear the game!
+● Losing Lives
+Your health meter will
+deplete if you are hit by an
+enemy or enemy attack. If
+your health meter depletes
+completely or you fall off of
+the screen, you will lose a life. Lose all of your lives and it will be game over.
+On the game over screen select CONTINUE to restart the current stage, or select GAME END to return to the title screen.
+￼￼￼￼￼Map Screen
+￼￼￼￼￼￼Stage Screen
+￼￼￼￼￼￼Game Over Screen
+￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼￼￼￼￼￼￼￼￼￼1 3
+Health meter
+Current copied ability Score
+Remaining lives
+2
+4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Copying Abilities
+￼￼Press B to use an ability copied
+from a swallowed enemy. There
+are lots of different abilities to
+copy in the game so have a
+look and see what you can find!
+There are some enemies in the game which will not grant you any special ability.
+♦ You cannot inhale an enemy while you have an active copied ability.
+● Discarding Copied Abilities You will lose your copied
+ability if you are hit by an
+enemy or enemy attack, or
+you can manually discard it
+by pressing SELECT. However, you can regain the ability by inhaling and swallowing the star that appears after you have done this.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Items
+￼￼￼￼￼￼Maxim Tomato
+Fully restores your health meter.
+￼￼￼￼￼￼￼￼Candy
+Makes you invincible for a short time.
+￼￼￼￼￼￼￼￼￼￼1UP
+Grants you an extra life.
+￼￼￼￼￼￼￼￼￼￼Warp Star
+Transports you to a different location.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼7 Saving and Deleting
+￼￼Your game will save automatically whenever you exit a stage. You can load your progress on the file selection screen to resume play from the saved state, but please note that your remaining lives, health meter, copied ability and score will not be recorded.
+To delete a saved game, select DELETE SAVED GAME on the file selection screen and choose the file you wish to delete. Data cannot be recovered once deleted, so please be careful.
+￼￼￼￼￼￼￼￼￼

@@ -1,0 +1,135 @@
+BUBBLE BOBBLE
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Game Screen
+5 Scoring
+6 Items
+7 Password
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+￼￼￼￼￼￼￼Move left and right/Enter password
+￼￼￼
+￼￼￼￼￼￼Jump A Blow bubbles B
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Confirm/Pause/Resume game Menu navigation
+START SELECT
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼Select either 1P START or
+2P START with SELECT, then
+press START to begin the game.
+Select 1P START to begin a
+single-player game or select
+2P START to begin a two-player
+cooperative game. In two-player mode, player 1 starts on the left side of the screen and player 2 on the right.
+♦ Press START on the title screen to advance to the mode selection screen.
+￼￼￼￼￼Mode Selection Screen
+￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼Move Bub (player 1) and Bob
+(player 2) around the screen
+and encase enemy beasties in
+your bubbles. Once you've
+trapped an enemy inside a bubble, pop the bubble to finish off the foe. Defeat all on-screen enemies to proceed to the next round. You will lose a life if
+you are touched by an enemy or enemy attack. Lose all your lives and it will be game over.
+Teamwork is crucial to succeeding in two-player games, so be sure to work with your partner to take down all the enemies.
+● Continuing
+After your game ends, the game over screen will be displayed. Press START to return to the
+mode selection screen. Select 1P CONTINUE or 2P CONTINUE and confirm with START. You can continue your game from any round you previously reached by selecting it with A or B and confirming with START.
+● Adding a Second Player
+If a second player wants to join in the action
+during a single-player game, press START on the first player's controller to pause the game, then press SELECT. Player 1 will have to give up one life to bring Bob (player 2) into the game as a teammate.
+● Reviving Your Teammate
+If one of the two players runs out of lives and
+drops out of a two-player game before the other player, the remaining player can give up a remaining life to bring the fallen teammate back into the game using the method described
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼previously.
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼￼￼￼￼123
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼4 6
+8 9
+￼￼￼￼5
+7 10
+Appears in the spot an enemy lands after it is defeated.
+Player 1 (Bub)
+Player 2 (Bob)
+Enemy trapped in a bubble
+Platform
+You can pass upward through platforms, but you cannot fall down through one platform to the next.
+10 Letters collected (spell EXTEND)
+11 Lives remaining (player 1)
+12 Lives remaining (player 2)
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼11 12
+￼￼￼￼1
+2
+3
+4
+Player 1's score Current round Player 2's score Enemy
+Bonus item
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼5
+￼￼￼￼￼￼￼6
+7
+8
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼9
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Scoring
+￼￼The more bubbles you burst at
+once, the more points you
+receive. You can also boost
+your score by picking up bonus
+items and using certain power-ups to defeat enemies. You can score even more points in secret bonus rounds, so try to figure out how to get to these!
+Burst a bubble ￼ ￼ ￼ ￼ ￼ ￼ 10 points Jump on a bubble ￼ ￼ ￼ ￼ ￼ ￼ 10 points
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1,000 points
+￼￼￼Burst an enemy-filled bubble
+￼￼￼￼￼￼Burst two enemy-filled bubbles at once
+2,000 points
+￼￼￼￼￼￼￼￼￼Burst three enemy-filled bubbles at once
+Burst four enemy-filled bubbles at once
+4,000 points
+￼￼￼￼￼￼￼￼￼8,000 points
+￼￼￼￼￼￼￼￼￼Burst five enemy-filled bubbles at once
+16,000 points
+￼￼￼￼￼￼￼￼￼Burst six enemy-filled bubbles at once
+32,000 points
+￼￼￼￼￼￼￼￼￼Burst seven enemy-filled bubbles at once
+64,000 points
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Items
+￼￼￼￼￼Bonus items
+Appear after you defeat an enemy. Grab one to add extra points to your score. There are several different food items.
+￼￼￼￼￼￼￼￼￼Candy (blue)
+Appears after you pop a certain number of bubbles. Grab one of these to increase the speed of your bubbles and the distance they fly.
+￼￼￼￼￼￼￼￼￼￼Candy (green)
+Appears after you pop a certain number of bubbles. Grab one of these to increase the rate at which you can blow bubbles.
+￼￼￼￼￼￼￼￼￼￼Candy (red)
+This item combines the effects of the blue and green candies.
+￼￼￼￼￼￼￼￼￼￼Shoe
+Appears after you have jumped on a certain number of bubbles. This increases the speed at which you move.
+￼￼￼￼￼￼￼￼￼￼Parasol (blue)
+Appears after you pop a certain number of water bubbles. Grab this item to warp forward three rounds.
+￼￼￼￼￼￼￼￼￼￼Parasol (orange)
+Appears after you pop a certain number of water bubbles. Grab this item to warp forward five rounds.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼Bomb
+Appears after you pop a certain number of fire bubbles. Grab this item to cause a massive explosion that eliminates all on-screen enemies.
+￼￼￼￼￼￼￼￼￼Fire bubble
+A bubble filled with red-hot flames. When you burst one of these, a flame will fall to the ground and ignite into a fiery row, taking out any enemies it touches.
+￼￼￼￼￼￼￼￼￼￼Water bubble
+A bubble filled with water. Pop it to release a torrent of water that travels down and washes away your enemies.
+￼￼￼￼￼￼￼￼￼￼Lightning bubble
+A bubble containing lightning. When you burst this bubble, a thunderbolt will fly out behind you, taking out any enemies it touches.
+￼￼￼￼￼￼￼￼￼￼Cross of Power (fire)
+Allows you to shoot ten piercing blasts of fire.
+￼￼￼￼￼￼￼￼￼￼Cross of Power (water)
+Summons a mighty flood that destroys all on-screen enemies.
+￼￼￼￼￼￼￼￼￼￼Cross of Power (lightning)
+Makes an immense bolt of lightning rip through the screen, destroying all on- screen enemies.
+￼￼￼￼￼￼￼￼￼￼EXTEND bubble
+Collect bubbles with the letters E-X-T-E-N-D to earn an extra life.
+￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼7 Password
+￼￼Once you've lost all your lives and your game is over, you will receive a password. You should make a note of the password, as it will allow you to resume your game from where you left off. To resume your game with a password, select PASSWORD from the mode selection screen, and then enter the password you wrote down.
+To enter a password, use  to move the bubble, and  to enter a letter. Once the password is ready, press START to enter it. Then select either
+1P CONTINUE or 2P CONTINUE.
+￼￼￼￼￼￼￼￼￼

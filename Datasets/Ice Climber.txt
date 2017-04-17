@@ -1,0 +1,38 @@
+Ice Climber
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Game Screen
+5 Bonus Stage
+6 2 Player Game
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move character/Select stage ￼ ￼ ￼ ￼ ￼ ￼ ￼  Break overhead blocks/Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Swing hammer ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Start game/Pause game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select number of players ￼ ￼ ￼ ￼ ￼ SELECT
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼Select the number of players with SELECT, and the stage with . Start the game with START.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼The aim of the game is to use
+your hammer to destroy blocks
+and defeat enemies while
+climbing the eight floors of
+each of the 32 mountains until you reach their
+peak.
+However, do your best to stay on the screen and try to avoid being hit by enemies and falling ice shards, as failure to do so will result in you losing a life. If you run out of lives completely, it will be game over.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
+1 2
+Remaining lives Floor number
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Bonus Stage
+￼￼￼￼￼￼￼￼￼Time Limit
+After scaling the full eight floors of the mountain you will enter a bonus stage. Work your way to the top of the mountain, where you must then jump up, and grab onto the condor flying overhead. Don't forget to pick up the various vegetables lying scattered around to help increase your bonus score. Keep an eye out for the ears of corn as the first one you collect will grant you an extra life. However, be aware as this all must be done within the specified time limit. The bonus stage will end if you run out of time, fall off the bottom of the screen or if you successfully grab onto the condor. Your score will then be calculated, before proceeding on to the next stage.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 2 Player Game
+￼￼By selecting 2 PLAYER GAME, it is possible to play the game
+with two players. You can either work together to climb the
+mountain, or race each other to the peak as rivals. However, please note that as you progress through the floors the screen will shift up along with the player. Be careful not to disappear off the screen as doing so will result in a lost life.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

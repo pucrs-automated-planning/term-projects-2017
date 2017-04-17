@@ -1,0 +1,81 @@
+Castlevania
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+2 Getting Started
+3 Basic Play
+4 Game Screen
+5 Weapons
+6 Items
+7 Game Over
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼Basic Controls
+Move/Crouch/Climb stairs ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Whip/Use weapon (with ) ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
+Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
+￼￼￼￼￼￼￼￼￼￼Start/Confirm/Pause/Resume game
+￼￼￼￼￼￼￼START
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼❶ Press START on the title screen to start the game.
+❷ After a game over, select
+CONTINUE and press
+START to restart from the
+beginning of the level. To
+restart the game from the beginning, select END with SELECT and press START to confirm.
+￼￼￼￼￼Title Screen
+￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼Fight your way through 18
+stages divided into 6 levels,
+then defeat the evil Count
+Dracula awaiting you at the top
+of the castle. You will lose a life if your time or health runs out, or if you fall into a hole.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
+￼￼￼￼￼￼￼￼123
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼4 5
+Equipped weapon Heart count
+Each time you use a weapon, you will lose one or more hearts.
+Lives remaining Your health
+Boss's health
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼3 4 5
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼5 Weapons
+￼￼￼￼￼Dagger
+Its attack power is low, but it can be thrown over long distances. It will disappear when it hits an enemy.
+￼￼￼￼￼￼￼￼￼Axe
+Its attack power is high, but it's a little slow and it flies in an arc.
+￼￼￼￼￼￼￼￼￼￼Holy water
+This will explode on the ground when thrown and burn enemies as they walk through the flames.
+￼￼￼￼￼￼￼￼￼￼Boomerang
+This powerful weapon will return to you after it is thrown.
+￼￼￼￼￼￼￼￼￼￼Watch
+Use this to stop enemies in their tracks. It will cost you five hearts for each use.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼6 Items
+￼￼￼￼￼￼Small heart
+This will give you one heart.
+￼￼￼￼￼￼￼￼Large heart
+This will give you five hearts.
+￼￼￼￼￼￼￼￼￼￼Cross
+This will destroy all on-screen enemies when you pick it up.
+￼￼￼￼￼￼￼￼￼￼Invulnerability potion
+This will make you invulnerable for a few seconds.
+￼￼￼￼￼￼￼￼￼￼Morning star
+This will turn your whip into a chain. Pick up another one to increase its length.
+￼￼￼￼￼￼￼￼￼￼Money bag
+This will increase your score. Red bags are worth 100 points, blue bags 400 and white bags 700.
+￼￼￼￼￼￼￼￼￼￼Double and triple shot
+These items increase the number of consecutive attacks you can make with your weapon.
+￼￼￼￼￼￼￼￼￼￼Pork chop
+This will restore some of your health.
+￼￼￼￼￼￼￼￼￼￼Magic crystal
+This will fully restore your health.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼7 Game Over
+￼￼Lose all your lives and it will be
+game over. Select CONTINUE
+on the game over screen to
+resume your game from the
+beginning of the last level you reached, or select END to quit your game and return to the title screen.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

@@ -1,24 +1,5 @@
 Castlevania II Simon's Quest
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Subscreen
-5 Items
-6 Passwords
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Jump A
-Display subscreen/Confirm START
-♦ Press  to ascend/descend stairs, and press  when in front of a door to enter it.
-♦ Press  + B to use throwing items, laurels and garlic when selected on the subscreen.
-￼￼￼￼￼￼￼Move (left/right)/Crouch (down)/ Select an item
-￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼Attack with whip/Speak with townspeople/Use items/Buy an item
-￼￼￼￼￼￼￼￼￼B
-￼￼￼￼￼￼￼￼￼￼￼￼￼Pause/Resume game/Select (on menu and game over screens)
-￼￼￼SELECT
-￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
 ￼￼Press START on the title screen
 to begin the game. Select
@@ -50,29 +31,6 @@ Enemies are also more powerful at night, and as a result you gain more experienc
 You will lose a life when your health meter
 depletes fully or when you fall into water. Lose all of your lives and it will be game over.
 ￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Subscreen
-￼￼Press START to display the subscreen where you can view important character information. If you have throwing items such as Holy Water, you can select them with .
-￼￼2
-9
-10 11
-Health meter Time elapsed
-Experience rating Level
-Number of hearts
-Type of whip
-Current special items
-Throwing items
-￼￼￼￼1
-3
-5
-6
-4
-7
-8
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6 7 8 9
-10 Laurels
-Garlic
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼11
-Parts of Dracula's corpse/crystals you've collected
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Items
 ￼￼￼￼￼￼Silk Bag

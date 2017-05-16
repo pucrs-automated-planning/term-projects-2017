@@ -1,51 +1,5 @@
 Crazy Climber
-From Wikipedia, the free encyclopedia
-Crazy Climber
-Crazy-climber-flyer.jpg
-Promotional flyer, showcasing the arcade cabinets used for the title
-Developer(s)	Nichibutsu
-Publisher(s)	Nichibutsu
-(Nihon Bussan Co. Ltd.)
-HAMSTER Corporation
-Designer(s)	Shigeki Fujiwara
-Platform(s)	Arcade, Arcadia 2001, Atari 2600, Famicom, Sharp X68000, WonderSwan, Virtual Console, PlayStation 2, PlayStation 4
-Release	Arcade
-October 1980[1]
-Atari 2600
-NA: 1982[2]
-Famicom
-JP: December 26, 1986[3]
-Sharp X68000
-JP: August 27, 1993[4]
-PlayStation
-JP: February 23, 1996
-PlayStation 2
-JP: July 21, 2005
-Virtual Console
-JP: February 23, 2010
-PlayStation 4
-JP: May 15, 2014
-NA: May 26, 2015
-Genre(s)	Vertically scrolling video game
-Mode(s)	Up to 2 players, alternating turns
-Cabinet	Upright
-Arcade system	Crazy Climber[5]
-CPU	Z80 @ 3.072 MHz[1]
-Sound	AY8910 @ 1.536 MHz[1]
-Display	Raster,
-256×224 resolution,
-60 Hz refresh rate,
-96 colors[1]
-Crazy Climber (クレイジークライマー Kureijī Kuraimā?) is a coin-operated arcade game produced by Nichibutsu in 1980. It was also released in North America by Taito America Corporation by UA Ltd. in 1982 for the Emerson Arcadia 2001 and other video game consoles. It is one of Nichibutsu's most highly acclaimed video games in its library. A precursor to the platform game genre, Crazy Climber was the first video game revolving around climbing, specifically climbing buildings, before Nintendo's 1981 release Donkey Kong.[6][7]
 
-Contents  [hide] 
-1	Description
-2	Legacy
-3	References
-4	External links
-Description[edit]
-
-Crazy Climber (Famicom version) screen shot
 In Crazy Climber the player assumes the role of a stunt performer who is attempting to climb to the top of four skyscrapers. There are a number of obstacles and dangers to avoid including:
 
 Windows that open and close (the most common danger).
@@ -72,13 +26,3 @@ The game also featured an early use of voice emulation. If the climber is not mo
 Crazy Climber is one of the few video games to use two joysticks and no buttons, and it's possibly the only non-twin-stick shooter to do so.
 
 The Family Computer version had a special controller that could be used with it.
-
-Legacy[edit]
-In 1981, Bandai Electronics manufactured a hand-held VFD version of the game.
-The game was ported to the Atari 2600 and the Japanese Famicom.
-A Japanese-only sequel, Crazy Climber 2, was produced in 1988. The game was essentially identical to Crazy Climber in gameplay but featured more sophisticated graphics and a few new features.
-On February 3, 1996, Hyper Crazy Climber was released only in Japan for the PlayStation. It has similar gameplay to that of the original game but also a few differences. Players can choose between three cartooney characters, each with their own strength/speed attributes. Several buildings can be selected from a Bomberman-style map screen, including an underwater building, a medieval clock tower, a haunted skyscraper, and a beanstalk. Power-ups are also used.
-On March 2, 2000, Crazy Climber 2000 was released for the PlayStation. This is more of a remake of the original arcade game using 3D graphics for the first time. A notable feature is the ability to turn corners and access different sides of the buildings, which now have a variety of designs (including one with a cylindrical, tower-like shape). The game included the original port of the arcade Crazy Climber and a scan of the instruction panel. Like Hyper Crazy Climber which released for the same console 4 years earlier, Crazy Climber 2000 was released only in Japan.
-On July 21, 2005, Japanese publisher HAMSTER released the arcade version of Crazy Climber under their Oretachi Geasen Zoku Sono (オレたちゲーセン族) classic game line for the PlayStation 2.
-Another sequel or remake, Crazy Climber Wii was released for the Wii in Japan on December 20, 2007, but no North American or European release has happened.[8]
-The arcade game was later re-released on the Virtual Console in Japan on February 23, 2010.

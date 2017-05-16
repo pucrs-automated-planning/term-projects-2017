@@ -1,16 +1,9 @@
 3-D Tic-Tac-Toe
-Origem: Wikipédia, a enciclopédia livre.
-3-D Tic-Tac-Toe
-Desenvolvedora(s)	Atari
-Designer(s)	Carol Shaw[1]
-Plataforma(s)	Atari 2600 e Atari 8-bits
-Data(s) de lançamento	
-AN 1980
-Gênero(s)	Quebra-cabeça
+
 Modos de jogo	Um jogador, multijogadorProcurar imagens disponíveis
 3-D Tic-Tac-Toe é um jogo eletrônico desenvolvido pela empresa Atari para o console Atari 2600 e demais consoles de 8 bits da família Atari, lançado em 1980.
 
-Jogabilidade[editar | editar código-fonte]
+Jogabilidade
 O jogo é baseado no tradicional jogo da velha, basicamente uma versão computadorizada do jogo de tabuleiro Qubic, o qual é constituído por uma matriz 4x4x4 (quatro conjuntos de grades dispostas verticalmente, cada qual formada por quatro linhas e colunas de quadrados). Levou aproximadamente seis meses para ser desenvolvido.[1]
 
 Para vencer, o jogador deve colocar quatro de seus símbolos ('X' ou 'O') alinhados vertical, horizontal ou diagonalmente numa mesma grade, ou a intervalos regulares pelas quatro grades. Isto cria um total de 76 formas possíveis de se ganhar, em comparação com apenas oito maneiras possíveis em um padrão de 3×3 do jogo da velha convencional.

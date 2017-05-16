@@ -1,14 +1,6 @@
 Balloon Fight
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼1 Controls
-Basic Controls
-Move left and right ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
-Rapid rise ￼ ￼ ￼ ￼ ￼ ￼ Hold B Confirm selection/Pause game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START
-Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼Rise
-￼￼￼￼Tap A repeatedly
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+Getting Started
 ￼￼Press SELECT on the title screen to select your game mode, and confirm with START.
 ￼￼￼￼￼￼￼￼￼￼￼A 1-PLAYER GAME
 ￼￼￼￼￼￼￼￼C BALLOON TRIP
@@ -27,13 +19,6 @@ You accumulate points by bursting enemy balloons, defeating enemies and by poppi
 ● Losing Lives and Game Over
 You will lose a life if both of your balloons are
 burst, you are hit by lightning, you fall in the water or you are eaten by a fish. Lose all of your lives and it will be game over.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼1
-￼￼￼￼￼￼￼2 3
-Top score Score Remaining lives Lightning
-4
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Bonus Stage
 ￼￼After completing three stages in

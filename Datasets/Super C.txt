@@ -1,32 +1,6 @@
 Super C
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Side Scrolling Stage
-5 Overhead View Stage
-6 Power-Up Items
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move/Aim weapon ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Fire ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-Start/Pause/Resume game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-♦ Press  to lie down.
-♦ You cannot fire while lying down in water.
-♦ You cannot jump or lie down while on an overhead
-stage.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼Select 1 PLAYER or 2 PLAYERS with SELECT, then press START to begin the game.
-● Game Over Screen
-Select either CONTINUE or
-END with SELECT and
-confirm with START. Select
-CONTINUE and you will
-restart at the beginning of the area in which
-you were defeated. You can continue twice. Select END to return to the title screen.
-● Sound Selection Screen
-Hold A and B, then press START on the title
-screen to enter sound mode. Here you can listen to music and sound effects from the game. Use  to select a piece and press B to play it. Press A to stop it, and press START to return to the title screen.
+￼￼￼￼￼￼￼
+￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼You are tasked with eliminating
@@ -34,27 +8,7 @@ the merciless alien invaders.
 Your ultimate goal is to destroy
 the alien base. Make the most
 of power-up items you discover as you blast your way through each area, taking out the alien invaders and avoiding obstacles in your way. You will lose a life if you are hit by an enemy or an enemy attack, or fall off screen. Lose all your lives and it will be game over. It is possible to play with two players simultaneously. Team up and head into enemy territory.
-♦ In a two player game, the screen will not scroll any further unless both players advance.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Side Scrolling Stage
-￼￼￼￼￼￼￼￼￼￼￼￼￼12
-￼￼￼￼￼￼￼￼￼￼￼3
-45
-Lives remaining (player 1)
-Lives remaining (player 2) Player 1
-Enemy
-Player 2
-♦ Scores will be displayed after clearing an area and on the game over screen.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼5 Overhead View Stage
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5
-12 3
-45
-Lives remaining (player 1)
-Lives remaining (player 2) Enemy
-Player 2
-Player 1
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼6 Power-Up Items
 ￼￼Reveal power-ups by firing on power-up capsules or sensors.

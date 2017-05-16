@@ -1,22 +1,8 @@
 Castlevania
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Weapons
-6 Items
-7 Game Over
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move/Crouch/Climb stairs ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Whip/Use weapon (with ) ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼Start/Confirm/Pause/Resume game
-￼￼￼￼￼￼￼START
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼❶ Press START on the title screen to start the game.
-❷ After a game over, select
+￼ Getting Started
+￼￼Press START on the title screen to start the game.
+After a game over, select
 CONTINUE and press
 START to restart from the
 beginning of the level. To
@@ -31,14 +17,12 @@ Dracula awaiting you at the top
 of the castle. You will lose a life if your time or health runs out, or if you fall into a hole.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼￼￼123
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼4 5
+￼￼￼￼￼￼
 Equipped weapon Heart count
 Each time you use a weapon, you will lose one or more hearts.
 Lives remaining Your health
 Boss's health
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼3 4 5
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Weapons
 ￼￼￼￼￼Dagger

@@ -1,26 +1,4 @@
 Super Mario Bros.
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Items
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump/Swim ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Run/Throw a fireball ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-Pause game/Confirm selection ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-Other Controls
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Crouch
-￼￼￼￼￼￼Defeat enemies
-￼￼￼Hold  to crouch (Super Mario/Fire Mario only).
-￼￼￼￼￼￼Enter a pipe
-￼￼￼Press  when standing above a pipe, or press  to enter a horizontal pipe from the side.
-￼Ascend/ Descend beanstalks
-￼￼￼￼￼￼￼￼Press  to ascend/descend.
-￼￼￼You can defeat most enemies by jumping on them or, if they are walking on a block, hitting that block from below. You can also defeat them by kicking shells in their direction or by firing a fireball at them.
-￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼Use SELECT to select the number of players, and START to start your game.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼Clear the game by grabbing on
@@ -30,12 +8,7 @@ bosses lying in wait in the
 deepest reaches of each world's castle.
 Should you be hit by an enemy or enemy attack while playing as small Mario, fall down a hole or alternatively run out of time you will lose a life. Should you lose a life with no lives remaining then it will be game over.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼12
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼34
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4
-Number of coins Current world and area Player and score Remaining time
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Items
 ￼￼￼￼￼￼Coin
 Collect a total of 100 coins to gain an extra life.

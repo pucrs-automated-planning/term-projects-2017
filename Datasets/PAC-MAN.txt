@@ -1,28 +1,8 @@
 PAC-MAN
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Power Pellets
-6 Ghosts
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move ￼ ￼ ￼ ￼ ￼ ￼ ￼  Start/Pause/Confirm ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼Use SELECT to change the number of players and then press START to start.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼￼￼￼￼￼￼￼￼
 ￼￼Guide Pac-Man through the maze and eat all the Pac-Dots to clear the stage. If a ghost catches you, you lose a life, and when you run out of lives,
 your game ends. By eating Pac-Dots, Power Pellets, fruits and ghosts, you can build up your score, and in-turn your number of lives.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼2
-High score Warp Tunnels
-1 3
-4 5
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
+￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼Use Warp Tunnels to travel to the other side of the maze.
 Player 1's score Current stage Remaining lives
 ￼￼￼￼3 4 5
@@ -32,7 +12,7 @@ Player 1's score Current stage Remaining lives
 ♦ Ghosts that have not been eaten will return to normal once the Power Pellet wears off, so be careful.
 1 2
 Power Pellet Weak ghost
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼6 Ghosts
 ￼￼￼￼￼￼Shadow 'Blinky'

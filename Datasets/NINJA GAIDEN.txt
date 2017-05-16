@@ -1,25 +1,5 @@
 NINJA GAIDEN
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Game Screen
-3 Basic Movement
-4 Wall Jumping
-5 Continuing
-6 Items/Ninja Abilities
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move  Jump A Attack with the Dragon Sword B
-● Cutscenes
-The story for this game is told through cutscenes displayed at the end of certain acts.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Start/Pause/Resume game/Skip cutscenes
-￼￼￼START
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Game Screen
-￼￼￼￼1 2
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Ninja ability Display
-Viewing the Display
-Score ￼ ￼ ￼ ￼ ￼ ￼ ￼ Your current score.
-￼1 2
+￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Act and stage
 ￼￼￼The current act and stage.
 ￼￼￼￼￼￼Your remaining time. If this gauge reaches zero, you lose one life.

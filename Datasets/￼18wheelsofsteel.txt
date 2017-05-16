@@ -1,31 +1,13 @@
+￼Introduction
 ￼
-￼￼￼￼￼￼￼￼￼￼￼￼￼Introduction
-￼Welcome to the help for 18 Wheels of Steel - American Long Haul
+Welcome to the help for 18 Wheels of Steel - American Long Haul
 ￼18 Wheels of Steel - American Long Haul is the most realistic trucking simulation to date. In addition to haulin' your own cargoes between 44 different cities, you have complete control over your own trucking business - you can buy trucks and trailers to expand you fleet, hire and fire drivers, and decide which contracts to take and which to leave. You can monitor and control your business as closely as you want - find out where your vehicles and drivers are and what they are doing, transport your vehicles between cities, or just leave your drivers to do their job and read a log of their activities in the company journal.
-￼￼￼￼￼￼￼￼￼￼￼￼￼System Requirements
 ￼
-Minimum System
-￼ 1.4 GHz Pentium 4 or compatible.
-￼ 512 MB RAM.
-￼ 64 MB graphics accelerator.
-￼ 400 MB Hard Drive Space.
-￼ DirectX 9 compatible sound card.
-￼ DirectX 9
-￼Recommended System
-￼ 2.0 GHz Pentium 4 or compatible.
-￼ 1 GB RAM.
-￼ 128 MB graphics accelerator.
-￼Note that for maximum enjoyment we suggest playing the game with a force- feedback wheel and pedals control system.
 ￼￼￼￼Getting Started
 ￼The following guide is meant to be followed in exact sequence. It is suggested that you print it to simplify its use.
 ￼Part 1 - Launching 18 Wheels of Steel American Long Haul
 ￼Use one of the following methods to launch the game. This method may vary depending on options selected during the installation of American Long Haul.
-￼1. Either - Choose Start menu -> All Programs -> 18 Wheels of Steel American
-￼Long Haul -> Play 18 Wheels of Steel American Long Haul
-￼2. or - Locate the 18 Wheels of Steel American Long Haul icon on the desktop,
-￼and double-click it.
-￼Part 2 - Starting a new Game
-￼
+
 1. Launch the game as detailed above, and wait for it to load.
 ￼2. Click "NEW GAME".
 ￼3. In the dialog which appears, enter your name.
@@ -129,76 +111,16 @@ Enter
 ￼finding and accepting a job.
 ￼￼￼￼Driving
 Some Driving Tips
-￼￼ As in real life, you must respect other road users by using your blinkers, and
+￼As in real life, you must respect other road users by using your blinkers, and
 ￼by braking as gently as possible. Effective use of blinkers is essential for
 ￼navigating road systems without unnecessary collisions.
-￼ Plan ahead for fuel - keep an eye on your fuel consumption and use the map
+￼Plan ahead for fuel - keep an eye on your fuel consumption and use the map
 ￼to plan your route with gas stations in mind.
-￼ Remember to use your headlights at night.
-￼ Use the four-way flasher if you need some maneuvering space to get moving
+￼Remember to use your headlights at night.
+￼Use the four-way flasher if you need some maneuvering space to get moving
 ￼from a standing start.
-￼Driving Controls
-￼Note that you may redefine game controls via the OPTIONS menu.
-￼￼￼￼￼￼￼￼￼￼￼Action
-Control
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle engine on/off
-E
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Accelerate
-Up Arrow Key
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Brake
-Down Arrow Key
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Turn left
-Left Arrow Key
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Right Arrow
-￼￼￼Turn right
-￼￼￼￼￼￼Key
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Cycle lights - high beam/low beam
-L
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle left blinker
-[
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle right blinker
-]
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle hazzard blinkers
-F
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Horn
-H
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Attach/detach Trailer (when truck is correctly positioned under trailer)
-￼￼￼T
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼View Controls
-￼￼￼￼￼￼￼￼￼￼Action Control
-￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle Mirrors
-F2
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle HUD
-F3
-￼￼￼￼￼￼￼￼￼￼￼￼￼Open map
-F4
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Cabin View
-1
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼External View 2
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Bumper/fender View
-3
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Overhead View
-4
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Drive-by View 5
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Look left (in Cabin View)
-/
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Look right (in Cabin View) *
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Miscellaneous Controls
-￼￼￼￼￼￼￼￼￼￼￼￼Action
-Control
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Operate CB Radio
-V
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Open Notebook
-N
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Toggle Mini-map
-M
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Play music on radio
-R
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Take a screenshot
-F10
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼The HUD (Heads Up Display)
+￼The HUD (Heads Up Display)
 ￼The HUD provides you with visual information about the state of your truck such as speed, RPM, and blinker activity. It also provides you with other at-a-glance information, such as your bank account balance, legal status, cargo destination, and trailer damage levels.
 The HUD replicates all the features of the dashboard as seen in the Cabin View, in a screen-overlay which is visible in all the other views such as the Overhead View, or the Drive By View.
 ￼When not Hauling

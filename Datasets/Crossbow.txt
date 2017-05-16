@@ -1,30 +1,4 @@
-Crossbow (video game)
-From Wikipedia, the free encyclopedia
-Crossbow
-Crossbow flyer.png
-North American arcade flyer
-Developer(s)	Exidy
-Publisher(s)	Exidy, Atari, Mean Hamster Software, Absolute Entertainment, Atari
-Platform(s)	Arcade, iPhone, Atari 2600, Atari 7800, Atari XE Game System, Commodore 64
-Release	1983, 1987
-Genre(s)	Light-gun games
-Mode(s)	Up to 2 players, alternating turns
-Cabinet	Upright
-Arcade system	Exidy 440
-Display	Raster, 320 x 240 pixels (Horizontal), 256 colors
-Crossbow is a video arcade game released by Exidy in 1983.[1] It was later published by Absolute Entertainment for the Commodore 64, DOS and by Atari for the 2600, 7800 and XE Game System starting in 1987.[2]
-
-Contents  [hide] 
-1	Description
-2	Gameplay
-3	Credits
-4	References
-5	External links
-Description[edit]
-Crossbow was the first arcade game with fully digitized sound and speech (some earlier games such as Journey used a loop tape for music and speech effects). It also featured some of the most advanced graphics of the time. Crossbow featured an optical light gun. The game's light gun resembled a full-sized crossbow.
-
-Gameplay[edit]
-
+Crossbow 
 Arcade Gameplay Screenshot
 Gameplay requires the player to protect a band of adventurers (referred to as "friends" by the game) from afar by shooting objects that threaten them. The adventurers enter from the left-hand side of the screen and attempt to cross the screen unharmed. If the player helps them reach the opposite side of the screen safely, the adventurers survive to the next scenario, and new adventurers are occasionally granted between scenarios.
 
@@ -36,11 +10,3 @@ Scenarios are chosen by shooting a destination on a map screen, which include: t
 Arcade Gameplay Screenshot, showing where the red, green, and blue choices will take you
 This game can be played with the MAME video game emulator, using a mouse instead of the crossbow-shaped light gun.
 
-An iPhone version was released in 2010 by Mean Hamster Software.
-
-Credits[edit]
-Game designer and chief programmer: Nick Ilyin
-Programming: Vic Tolomei, Larry Hutcherson
-Hardware designer:Howell Ivy
-Sounds and vocal characterization: Ken Nicholson
-Lynn Pointer (art design)

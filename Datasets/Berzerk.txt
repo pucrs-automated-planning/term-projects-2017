@@ -1,38 +1,6 @@
 Berzerk (video game)
-From Wikipedia, the free encyclopedia
-  (Redirected from Berzerk (arcade game))
-This article is about the 1980 arcade and Atari 2600 game. For game based on the Berserk manga, see Berserk and the Band of the Hawk.
-Berzerk
-Berzerk.jpg
-North American cover of the Atari 2600 version of the game
-Developer(s)	Stern Electronics
-Publisher(s)	Stern Electronics
-Designer(s)	Alan McNeil
-Platform(s)	Arcade game, Atari 2600, Atari 5200, GCE Vectrex
-Release	November 12, 1980 (Arcade)[1]
-1982 (GCE Vectrex)
-August 1982 (Atari 2600)
-1983 (Atari 5200)
-Genre(s)	Multi-directional shooter/Run and gun
-Mode(s)	Up to 2 players, alternating turns
-Cabinet	Standard and cocktail
-CPU	Z80 2.50 MHz
-Sound	TSI S14001A ~20 kHz (Variable), M6840 PTM 5.0 MHz
-Display	Raster, standard resolution (Used: 256 × 224), 16 colors, 19 inch
-Berzerk is a multi-directional shooter video arcade game, released in 1980 by Stern Electronics of Chicago. It is one of the canonical examples of a maze game, in which the player has to navigate around a maze-like building while shooting enemies.
 
-Contents  [hide] 
-1	Gameplay
-2	History
-3	Technology
-3.1	Speech synthesis
-4	Reception
-5	Legacy
-5.1	High score competition
-6	In popular culture
-7	References
-8	External links
-Gameplay[edit]
+Gameplay
 The player controls a green stick man. Using a joystick and a firing button that activates a laser-like weapon, the player navigates a simple maze filled with many robots, who fire lasers back at the player character. A player can be killed by being shot, by running into a robot or an exploding robot, get electrocuted by the electrified walls of the maze itself, or by being touched by the player's nemesis, Evil Otto.
 
 The function of Evil Otto, represented by a bouncing smiley face, is to quicken the pace of the game. Otto is unusual, with regard to games of the period, in that there is no way to kill him. Otto can go through walls with impunity and is attracted to the player character. If robots remain in the maze Otto moves slowly, about half as fast as the humanoid, but he speeds up to match the humanoid's speed once all the robots are killed. Evil Otto moves exactly the same speed as the player going left and right but he can move faster than the player going up and down; thus, no matter how close Otto is, the player can escape as long as they can avoid moving straight up or down.

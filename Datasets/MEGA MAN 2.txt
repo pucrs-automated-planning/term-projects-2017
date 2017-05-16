@@ -1,35 +1,5 @@
 MEGA MAN 2
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screens
-5 Weapons and Special Items
-6 Items
-7 Password
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-￼￼￼￼￼￼￼Move/Select weapon/Select stage/ Menu navigation
-￼￼￼Jump/Place chip (password input screen)
-
-￼￼￼￼￼￼￼￼￼A
-￼￼￼￼￼￼Attack/Remove chip (password input screen)
-￼￼￼B
-￼￼￼￼￼￼Confirm/Start game/Display weapon selection screen
-￼￼￼START
-￼￼￼Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-♦ Press  when near a ladder to use it. Press A to let go.
-￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼￼￼￼￼￼￼￼￼￼￼Title Screen
-Menu Screen
-￼￼Press START to skip the opening cinematic and proceed straight to the title screen. Select the difficulty you wish to play, then press START to display the menu screen. Select either START or PASSWORD with  or SELECT, and then confirm
-your selection with START.
-￼￼￼￼Proceed to the stage selection screen and begin a new game.
-￼￼￼Start
-￼￼￼￼￼￼Input a password to continue a previous game.
-￼￼￼Password
-￼￼￼￼￼￼￼￼￼￼￼
+
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼Take on the role of Mega Man, the original humanoid battle robot. It is your task to prevent Dr. Wily's latest plans for world domination from coming to fruition, by battling with his eight newly deployed robot minions. Traverse through each stage, then overcome his fortress by taking out all those standing in your way, before entering into a final showdown with Dr. Wily himself.
 Use  on the stage selection
@@ -48,22 +18,7 @@ Game Over Menu
 ￼￼￼Stage Select
 ￼￼￼￼￼￼Display the password (chip placement) for your current progress.
 ￼￼￼Password
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screens
-￼￼￼￼￼￼￼￼￼1
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1
-2 3
-2 3
-Weapon energy gauge
-Life energy gauge Enemy energy gauge
-4 5
-Collected weapons Number of energy tanks
-6
-Remaining lives
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Weapon Selection Screen 1
-￼￼￼￼￼￼￼￼￼￼￼￼￼4 5
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Weapon Selection Screen 2
-￼￼￼￼￼￼￼￼￼6
+￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Weapons and Special Items
 ￼￼Acquire these special weapons by defeating each of the eight stage bosses. Defeating some of these bosses will let you acquire special items that will help you overcome many obstacles.
@@ -82,15 +37,3 @@ Small ones replenish two weapon energy points. Large ones replenish ten. You wil
 Use this to fully replenish your life energy gauge. You can carry a maximum of four at any one time.
 ￼￼￼￼￼￼￼￼￼￼1UP
 Increases your remaining lives by one.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼7 Password
-￼￼Upon clearing a robot master
-stage, or after a game over,
-select PASSWORD to display
-the code for your current
-progress. You can close the
-password screen by pressing A.
-To continue your progress next time you play the game, select PASSWORD from the menu screen and then place the chips in the correct position on the grid displayed. Move the cursor with  and place the chips with A. You can remove a chip by highlighting it and pressing B. If you enter the password correctly your game will reload with all acquired weapons and items in tow.
-♦ Please be aware that if you get a game over while in Dr. Wily's fortress, the password given may be used but you will start from the beginning of the fortress, regardless of your progress in it.
-￼￼￼￼￼Password Entry Screen
-￼￼￼￼￼￼￼￼￼￼

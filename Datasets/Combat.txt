@@ -1,61 +1,16 @@
-Combat (1977 video game)
-From Wikipedia, the free encyclopedia
-  (Redirected from Combat (video game))
-This article is about the Atari 2600 game. For the arcade game, see Combat (1985 video game).
-Combat
-Combat
-Cover art
-Developer(s)	Atari, Inc.
-Publisher(s)	Atari, Inc.
-Designer(s)	Steve Mayer
-Joe Decuir[1]
-Larry Kaplan
-Larry Wagner[1] (project manager)
-Platform(s)	Atari 2600
-Release	
-NA: 1977
-EU: 1978
-Genre(s)	Multi-directional shooter
-Mode(s)	Multiplayer
-Combat is an early video game by Atari, Inc. for the Atari 2600. It was released as one of the nine launch titles for the system in September 1977, and was included in the box with the system from its introduction until 1982. Combat was based on two earlier black-and-white coin-operated arcade games produced by Atari: Tank (published under the Kee Games name) in 1974[1] and Jet Fighter in 1975.
+Combat 
 
-Earlier in 1977, Coleco had released the similarly titled Telstar Combat!, an entry in its Telstar series of dedicated consoles. Unlike the Coleco game, Combat had color graphics and numerous gameplay variations. The 27 game modes featured a variety of different combat scenarios, including tanks, biplanes, and jet fighters. The tank games had interesting options such as bouncing munitions ("Tank-Pong") and invisibility. The biplane and jet games also allowed for variation, such as multiple planes per player and an inventive game with a squadron of planes versus one giant bomber. Atari also produced a version of Combat for Sears titled Tank Plus (alluding to the original arcade game Tank). Combat was programmed by Joe Decuir and Larry Wagner.
-
-Contents  [hide] 
-1	Gameplay
-1.1	Tank game
-1.2	Biplanes
-1.3	Jet
-2	Reception
-3	Legacy
-4	References
-5	External links
-Gameplay[edit]
-Combat boasted having 27 games in one, which were all variations on the tank, biplane, and jet gameplay.[2]
-
-Tank game[edit]
+Tank game
 
 The tank game of Combat
 The Tank game in Combat had the basis of two tanks controlled by players each moving around a playing field and shooting the other player until time ran out. The player with the higher score would win. There were various types of shots a player could have depending on which level they chose, including straight missiles, guided missiles, and Tank Pong in which the shots would bounce off the walls, with variations upon whether a direct hit could strike their opponent, or a strike required a billiard hit. There was also an Invisible Tank in which the players would be invisible except for a brief few seconds after firing, and Invisible Tank Pong option. Along with the play styles there were also mazes to choose from including an empty field, a simple maze and a complex maze.
 
 One notable (and perhaps unintentional) interaction that could be performed in the tank game consisted of bringing one tank up behind the opponent tank such that the cannon of the first was inserted into the rear cutout of the second. Once in this position, by rotating the first tank, a sprite collision could be triggered which would send the tanks into a wild "jump", during which they usually would pass through obstacles, or leave the edge of the screen to enter on the other side.
 
-Biplanes[edit]
+Biplanes
 
 Atari's Combat with biplanes in Clouds field
 Another set of level choices in Combat were the Biplanes. Unlike the Tank version, this was played with three types of firing shots (straight-missile, guided missile, and machine guns). However, there were several different gameplay modes. Players had the option of fighting one on one, having a pair of Biplanes each that moved and fired in tandem, or have one player control three tandem Biplanes against one large Bomber. The Bomber's shot was an oversized projectile that otherwise behaved as a straight-missile. Instead of having mazes to fly through, there were two clouds in the middle of the stage that either player could fly into temporarily hiding them from view of the other player.
 
-Jet[edit]
+Jet[
 Very similar to the Biplanes level, was the Jets option. In this mode, only straight missile and guided missiles were used. It still had the same map options and squadron options as the biplanes mode, with Jets flying singly, two-on-two, or three-on-three.
-
-Reception[edit]
-The cartridge and its individual games were reviewed in Video magazine as part of a general review of the Atari VCS. Collectively the Tank games (games 1-5) were praised for their sound effects and given a review score of 6 out of 10. The Tank/Pong games (games 6-9) were scored a 7.5 out of 10, the Invisible Tank games (games 10 and 11) were described as "hard to get used to but interesting" and were scored a 6.5 out of 10, and the Invisible Tank/Pong games (games 12-14) were scored a 7.5 out of 10. Both sets of Bi-Plane games (Normal - games 15-18, and Fast - games 19 and 20) were scored a 6 out of 10 each and were described as "not so different from the previous lot" (i.e. the Tank and Pong variations in games 1-14). The Jet-Fighter games (games 21-27) also received a collective score of 6 out of 10 and were described as "pretty much more of the same with different playing pieces".[3]:32-33
-
-Legacy[edit]
-
-Tanks battle in the forest in Combat 2
-Atari developed a sequel to the popular Combat, originally announced in 1982, scheduled for release in 1984, but the video game crash of 1983 caused the game to be delayed and finally cancelled. While the game never hit store shelves, 250 copies of the prototype were produced in cartridge format and sold at Classic Gaming Expo in 2001. Atari finally officially released it on the Atari Flashback 2 dedicated console, in 2005. It has seen two subsequent releases: a 2011 Nintendo DS compilation Atari's Greatest Hits Volume II and a 2012 iPhone and Android app Atari Greatest Hits. Combat 2 featured a more sophisticated version of the original's tank game, with tanks requiring multiple hits to destroy, and missile bases with an outer barrier which took many hits to chip through but the appropriate tank could hide within, and the ability to launch a large homing missile at very slow intervals. The game's single action button fired the tank's gun normally, but launched a missile if pressed while the tank was within the missile base. Destroying an opponent's missile base also eliminated all of their reserve tanks. The game took place in a forest environment divided by a river that could be crossed by either of two bridges. In some modes, the tanks could move under the trees and in others, the tanks were forced to go around or shoot their way through solid barriers. Some modes allowed each player to detail the placement of trees or barriers prior to the battle.
-
-Space Combat was the Sears version of the game Space War (already visually similar to Combat). Players controlled a star ship that moved by applying thrust, similar to the vessel from Asteroids, with the ability to fire straight-missiles and enter Hyperspace to avoid being hit. Players either competed to destroy each other, or to capture a moving Space Modules. Game variations included features such as wrap-around or rebounding playfield edges, the need to fight against the pull of gravity from a Space Sun which would destroy a Star Ship upon contact, a Starbase which could resupply a Star Ship's fuel and missiles, and each player trying to capture their own Space Module or competing to capture the same one. Space War was available on the Atari Flashback 2.
-
-Combat was made available on Microsoft's Game Room service for its Xbox 360 console and for Windows-based PCs on March 24, 2010.

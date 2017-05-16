@@ -1,16 +1,6 @@
 Ice Climber
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Bonus Stage
-6 2 Player Game
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move character/Select stage ￼ ￼ ￼ ￼ ￼ ￼ ￼  Break overhead blocks/Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Swing hammer ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Start game/Pause game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select number of players ￼ ￼ ￼ ￼ ￼ SELECT
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼￼ Getting Started
 ￼￼Select the number of players with SELECT, and the stage with . Start the game with START.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play

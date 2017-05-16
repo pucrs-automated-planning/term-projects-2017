@@ -1,22 +1,5 @@
 FINAL FANTASY
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Map Screen
-5 Menu Screen
-6 Battle Screen
-7 Magic
-8 Saving
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move/Menu navigation ￼ ￼ ￼ ￼ ￼ ￼ ￼  Talk/Examine/Confirm ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Cancel ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-￼￼￼￼￼￼￼￼￼￼￼￼￼Confirm/Display menu screen (on map screen)
-￼￼￼START
-￼￼￼￼￼￼Change party formation (on map screen)
-￼￼￼SELECT
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼￼￼￼￼￼
 ￼￼When starting the game, the
 introductory story will appear.
 Press A or B to speed it up and
@@ -26,15 +9,15 @@ on names and classes for the
 four central characters to begin a new game. Select CONTINUE to start the game from the last save point.
 Respond Rate
 Use  to set the speed at which messages are displayed during battle (respond rate). Select a speed from 1 (slow) to 8 (fast).
-● Character Name and Class
+ Character Name and Class
 Select the first character's class with  and
 confirm with A. Next, decide on a name of up to four letters or symbols (including numbers). Select each letter or symbol with , and press A to enter it. Press B to delete. When you have entered all four letters or symbols in a name, press A to move on to the next character. Once you have decided the names and classes of all four characters, press A to begin the game or B to make changes.
 Space
-♦ For names shorter than four letters/symbols, use the blank space below 'T' to fill the rest of the spaces.
+For names shorter than four letters/symbols, use the blank space below 'T' to fill the rest of the spaces.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1
-￼￼￼￼1
+￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼● Classes
+￼ Classes
 There are six classes. Each has its own abilities
 and can use class-specific items, such as different types of weapon and armour.
 ￼￼￼￼￼Fighter

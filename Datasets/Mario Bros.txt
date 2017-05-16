@@ -1,18 +1,8 @@
 Mario Bros.
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Items
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move left/right ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump/Punch ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Confirm selection/Pause game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START
-Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼ Getting Started
 ￼￼Choose the number of players and game difficulty with SELECT, and begin your game with START.
-♦ There are two difficulty levels in the game. A is normal difficulty, and B is hard difficulty.
+ There are two difficulty levels in the game. A is normal difficulty, and B is hard difficulty.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼Punch the ground beneath an
@@ -22,12 +12,7 @@ kick them while they are down
 to finish them off. Defeat a set number of enemies to progress on to the next phase.
 You will lose a life if you touch an enemy. Lose all of your lives and it will be game over.
 ♦ For every 20,000 points accumulated you will gain an extra life.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼1
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4
-2 3
-4
+￼￼￼￼￼￼￼
 Top score Score Remaining lives Current phase
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Items

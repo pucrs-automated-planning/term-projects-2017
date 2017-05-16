@@ -1,37 +1,5 @@
 Punch-Out!! Featuring Mr. Dream
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Punching and Stamina
-6 Pass Keys
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Dodge punches/Menu navigation ￼ ￼ ￼ ￼ ￼ ￼ ￼  Right punch/Enter pass key ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Left punch/Enter pass key ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Uppercut/Confirm/Start round ￼ ￼ ￼ ￼ ￼ START
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Press B to throw a left-handed punch at your opponent's torso.
-￼￼￼Left body blow
-￼￼￼￼￼￼Press A to throw a right- handed punch at your opponent's torso.
-￼￼￼Right body blow
-￼￼￼￼￼￼Push B while holding  to make a left-handed jab towards
-your opponent's face.
-￼￼￼Left jab
-￼￼￼￼￼￼Push A while holding  to make a right-handed jab towards your opponent's face.
-￼￼￼Right jab
-￼￼￼￼￼￼Press  in time to dodge your opponent's punches.
-￼￼￼Duck + Weave
-￼￼￼￼￼￼Hold  to block your opponent's punches.
-￼￼￼Block
-￼￼￼￼￼￼Tap  twice to duck your opponent's punch.
-￼￼￼Duck
-￼￼￼￼￼￼If you have at least one ☆, press START to launch an uppercut.
-￼￼￼Uppercut
-￼￼￼￼￼￼When you have been knocked to the ground, tap A and B repeatedly to get back on your feet.
-￼￼￼Getting back up
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼Press SELECT in between rounds to recover some stamina. This can only be used once per fight, so use it wisely.
-￼￼￼￼￼Recover
-￼
+￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
 ￼￼Press START during the demo
 to go to the title screen. Select
@@ -49,18 +17,9 @@ judges aren't too keen on Little Mac!
 ● If You Lose...
 If you lose a total of three matches it will be
 game over. Also, if you lose certain matches your ranking will also go down.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼12 3
-4
-5
-Opponent's stamina Remaining time Little Mac's stamina Number of ☆ Number of hearts Round
-Points
-6 7
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6 7
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Punching and Stamina
-￼￼● Punching
+￼￼Punching
 Little Mac has four types of
 punch at his disposal.
 However, each time one of
@@ -68,7 +27,7 @@ his punches misses its mark,
 or he is struck by his
 opponent, he will lose some
 hearts. When all the hearts are gone, he will be unable to attack for a short period of time, so be sure to dodge effectively and restore lost hearts.
-● Uppercuts
+ Uppercuts
 If you have at least one ☆,
 Little Mac will launch an
 uppercut when you press
@@ -77,7 +36,7 @@ of ☆ by hitting your
 opponent with certain
 attacks. However, you will lose a ☆ every time
 your opponent's blow connects, and if you are knocked down or the round ends, you will lose all your ☆.
-● Stamina
+Stamina
 Stamina will go down every
 time Little Mac is punched,
 and he will be knocked to
@@ -89,10 +48,4 @@ before the referee counts to ten, he will be knocked out. If knocked down, tap A
 ￼￼￼￼￼￼Pow! Uppercut!
 ￼￼￼￼￼￼Knock Your Opponent Down!
 ￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼6 Pass Keys
-￼￼If you win the Minor, Major or
-World Circuit, you will see a
-pass key. Take a note of these
-pass keys, and next time you
-play, select CONTINUE from the title screen and enter the pass key. You'll start with the lowest rank in the respective circuit.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

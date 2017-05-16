@@ -1,37 +1,9 @@
 Air-Sea Battle is a game developed by Atari, Inc. for the Atari 2600, and was one of the nine original launch titles for that system when it was released in September 1977. It was also released by Sears as Target Fun and was the pack-in game with the original Sears Tele-Games version of the Atari 2600.
 
-Contents  [hide] 
-1	Gameplay
-1.1	Anti-aircraft games
-1.2	Torpedo games
-1.3	Shooting gallery games
-1.4	Polaris games
-1.5	Bomber games
-1.6	Polaris vs. bomber games
-2	Reception
-3	Legacy
-4	See also
-5	References
-6	External links
-Gameplay[edit]
+Gameplay
 There are six basic types of game available in Air-Sea Battle, and for each type, there are one or two groups of three games, for a total of twenty-seven game variants. Within each group, variant one is the standard game, variant two features guided missiles which can be directed left or right after being fired, and variant three pits a single player (using the right gun) against a computer opponent, which simply fires continuously at the default angle or speed. In every game, players shoot targets (enemy planes or ships, shooting gallery targets, or each other, depending on the game chosen) competing to get a higher score. Each round lasts two minutes and sixteen seconds; the player with the higher score after time expires is the winner, unless one player wins (and ends the game) by reaching 99 points before the time is up.
 
 
 Air-Sea Battle level featuring airplanes.
-Anti-aircraft games[edit]
+Anti-aircraft games
 Variants 1–6 are anti-aircraft games, in which the player uses a stationary anti-aircraft gun that can be positioned at a 30, 60, or 90-degree angle to shoot down four different types of aircraft. The planes typically appear in groups of three to five, and once every plane in a formation has been destroyed, a new formation appears. There are two groups of anti-aircraft games: in variants 1–3, each target hit is worth 1 point, while in 4–6, the various types of aircraft have different point values. Additionally, zero-point blimps are added as obstacles in games 4–6.
-
-Torpedo games[edit]
-The torpedo games (7–12) are similar to the anti-aircraft games, except that each player mans a submarine that can move left and right and fires at a 90 degree angle. The targets are ships instead of planes. As with the anti-aircraft games, in games 7–9, all targets are worth one point, while games 10–12 have variable point values for targets and additional zero-point obstacles.
-
-Shooting gallery games[edit]
-The shooting gallery games (13–15) differ from the previous variants in that the player can both set the angle of the gun and move the gun left and right. Instead of planes or ships, clowns, ducks, and rabbits are the targets, with point values of 1, 2, and 3 respectively.
-
-Polaris games[edit]
-The polaris games (16–18) put the player in control of a boat which moves back and forth across the bottom of the screen automatically. Instead of controlling the gun angle, the player controls the speed at which the ship moves, attempting to shoot the same fleets of planes as in the anti-aircraft variants, with the point values of games 4–6.
-
-Bomber games[edit]
-In the bomber games (19–21), the player-controlled vehicle is a plane flying near the top of the screen dropping bombs on the ships from the torpedo games. As in the polaris games, the plane's speed is controlled by the player, and the point values are identical to those in games 10–12.
-
-Polaris vs. bomber games[edit]
-In the polaris vs. bomber games (22–27), one player controls the ship from the polaris games while the other controls the plane from the bomber games, with the goal being to destroy the other player's craft. Games 25–27 feature zero-point mines as obstacles.

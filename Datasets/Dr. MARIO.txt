@@ -1,14 +1,9 @@
 Dr. MARIO
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Clearing Viruses
-4 1 Player Game
-5 2 Player Game
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
+￼￼￼￼￼￼￼￼￼￼
+
 ￼￼￼￼Basic Controls
 ￼￼￼￼￼￼￼Move/Drop capsules faster/Menu navigation
-￼￼￼
+￼￼￼
 ￼￼￼￼￼￼Rotate capsule clockwise A Rotate capsule anticlockwise B
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Start/Pause/Resume game
 START
@@ -34,51 +29,18 @@ Med: Normal Hi: Fast
 ￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Clearing Viruses
 ￼￼Rotate the capsules as they fall. To clear the viruses from the bottle, match up a combination of four or more capsules and viruses of the same colour along a vertical or horizontal line.
-● Example 1
-
+ Example 1
 Three capsules and one virus of the same colour are arranged along a vertical line, eliminating the virus from the bottle.
-● Example 2
-
+ Example 2
+
 Four capsules of the same colour are placed along a horizontal line and therefore are eliminated. However, as the virus is a different colour to the capsules, it remains behind.
-Types of Capsule and Virus
-● Capsules
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Red-Red
-￼￼￼￼￼￼￼￼￼￼Blue-Blue
-￼￼￼￼￼￼￼￼￼￼Yellow-Yellow
-￼￼￼￼￼￼￼￼￼￼Red-Blue
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼Red-Yellow
-￼￼￼￼￼￼￼￼￼￼Blue-Yellow
-￼￼● Viruses
-￼￼￼￼￼￼￼￼Red
-￼￼￼￼￼￼￼￼￼￼Blue
-￼￼￼￼￼￼￼￼￼￼Yellow
 ￼￼
 ￼￼￼￼￼￼￼￼￼￼￼4 1 Player Game
 ￼￼Align the capsules thrown by Dr. Mario with the correct colour viruses in the bottle to clear them. Eliminate all the viruses to clear the stage. If the capsules fill past the bottom of the bottle neck, it's game over.
-￼￼￼￼￼￼￼￼￼￼￼￼3 4
-Capsule Next capsule
-High score Current score Dr. Mario
-12
-89
-5
-6 7
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
-3 4 5 6 7 8 9
-Virus level
-Speed
-Game field (bottle)
-Number of viruses remaining
+￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 2 Player Game
 ￼￼Both players play simultaneously with the first to clear their bottle of viruses declared the winner. You will receive a crown each time you win a round, with the overall winner being the first to get three crowns. If you let the capsules fill past the bottom of the bottle neck you will lose and your opponent will be given a crown.
-12
-3 45
-6 Next capsule
-Virus level
-Speed
-Player 1
-Player 2
-Number of viruses remaining
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6
+
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

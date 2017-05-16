@@ -1,51 +1,5 @@
 Super Mario Bros. 3
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Map Screen
-5 Level Screen
-6 Items
-7 2 Player Game
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Controls
-Move ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump/Swim ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Run/Grab shell/Kick shell ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-Start game/Pause ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select number of players ￼ ￼ ￼ ￼ ￼ SELECT
-Other Controls
-You can defeat enemies by jumping on them or by hitting them with a shell, your tail (as Raccoon and
-Tanooki Mario), with a fireball or with hammers.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Move
-￼￼￼￼￼￼Jump
-￼￼￼Use  to move, and B to run. Use  when in front of a vine to ascend or descend it, and  in front of a door to enter.
-￼￼￼￼￼￼Crouch
-￼￼￼Hold  to crouch. Also, press  on a slope to slide down (except as Frog Mario).
-￼￼￼￼￼￼Enter a pipe
-￼￼￼￼￼Press  when above a pipe, or  + A when below to enter.
-￼￼￼￼￼￼Swim
-￼Press A when underwater to swim, while using  to move in the required direction. If you press A without a direction,
-Mario will rise to the surface. When playing as Frog Mario you will swim faster by holding A.
-￼￼￼The longer you hold A, the higher you will jump. When in
-water, press  + A to jump out.
-￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼Super jump
-￼￼￼￼￼￼￼￼Transform
-￼￼￼Press A just as you stomp on top of an enemy to jump extra high.
-￼￼￼￼￼￼Grab/Kick
-￼After stomping on a Koopa, press and hold B to grab its shell. Release B to kick the shell forwards. To grab an ice block, stand on top of it or to the side and press and hold B.
-￼￼￼￼￼￼Fireball
-￼￼￼￼￼Press B when playing as Fire Mario to throw a fireball.
-￼￼￼￼￼￼Float down
-￼￼￼While playing as Tanooki or Raccoon Mario, tap A repeatedly while descending to float slowly back down to the ground.
-￼￼￼￼Tail attack
-￼￼￼￼￼While playing as Tanooki or Raccoon Mario, press B to perform a tail attack. You can use this to break blocks and attack enemies.
-￼￼￼￼￼￼Fly
-￼While playing as Tanooki or Raccoon Mario, running with B
-will cause the power meter (P) to increase. When the meter begins flashing, tap A repeatedly to take off and fly.
-￼￼￼While playing as Tanooki Mario, press  + B to turn into a statue, rendering you temporarily invincible.
-￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼Use SELECT to select between 1 PLAYER GAME and 2 PLAYER
-GAME, and START to proceed to the map screen.
+￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼Selecting a level panel will

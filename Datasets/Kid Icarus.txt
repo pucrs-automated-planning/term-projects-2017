@@ -1,22 +1,5 @@
 Kid Icarus
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Items
-6 Chambers
-7 Passwords
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-￼￼￼￼ Aim up/Ascend
- Move left and right
- Crouch/Drop through certain platforms/Descend
-￼￼￼￼￼￼￼
-￼￼Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Attack ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Confirm/Pause game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START
-Menu navigation/Switch weapon ￼ ￼ ￼ ￼ ￼ SELECT
-♦ In the Palace in the Sky stage, hold  to ascend and  to descend. Press B to attack Medusa or stop attacking to block Medusa's attacks with your shield.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
 ￼￼Press START on the title screen to access the main menu. To begin a new game, press START while Pit's arrow is next to the word START.
 If you want to enter a password, press SELECT to move Pit's arrow next to CONTINUE, then press START.
@@ -29,9 +12,6 @@ of Medusa. Once you recover
 all three treasures, you will go to the Palace in the Sky and duel with Medusa herself. Along the way, you'll travel through several exciting and dangerous worlds while fighting against fierce enemies. Each time an enemy hits you, you lose health. When your health is fully depleted, your game will end. You can also lose by falling off the screen, so jump carefully.
 To bring up the pause screen press START. When the screen appears, you can check your items, score and other information.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
-1 2
 Hearts collected Health remaining
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Items
@@ -82,7 +62,7 @@ Take a dip here to revive Pit's health.
 ￼￼￼￼￼￼Succeed in the training activities that await you here to score a power-up.
 ￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼7 Passwords
-￼￼● Receiving a Password
+￼￼ Receiving a Password
 When it is game over, you will
 receive a password that allows
 you to continue your old game.

@@ -1,19 +1,4 @@
 Metroid
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Energy
-6 Items
-7 Passwords
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move/Morph Ball/Aim upwards ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Attack/Set bomb ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-Pause/Confirm ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select missiles/Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼To begin a new game, select START and press START.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼As the hero, Samus, your job is
@@ -22,19 +7,7 @@ Zebes and destroy Mother
 Brain. Use all of your special
 abilities to fight your way though each of the areas as you conduct your search. Look for items hidden throughout Zebes to power up. Some of these items will give you new abilities or attacks, allowing you to gain entry to areas of Zebes that were previously inaccessible.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼1 2
-3 4
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼5
-￼￼￼Energy Tank Remaining energy Remaining missiles Gate
-Samus
-● Gate Colours
-♦ For some gates ten missiles are needed instead of five.
-￼1 2 3 4 5
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼These gates open with one blast from your beam.
-￼￼￼Blue
-￼￼￼￼￼￼These gates open if you hit them with five missiles.
-￼￼￼Red
+￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Energy
 ￼￼Any time you are hit by an
@@ -74,10 +47,4 @@ Enemies hit with this beam are temporarily frozen solid and can't move.
 ￼￼￼￼￼￼￼￼￼￼Wave Beam
 This powerful beam travels in a wave pattern.
 ￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼7 Passwords
-￼￼This game uses passwords to
-allow you to keep going on
-your adventure. When your
-game is over, you will receive a
-password that allows you to continue your old game with your progress and abilities intact. Use  to move around the password-entry screen and A to enter a character. If you make a mistake, press B to move the cursor backwards. Once the password is ready, press START to enter it.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼

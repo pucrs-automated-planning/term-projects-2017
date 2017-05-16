@@ -1,29 +1,5 @@
 The Legend of Zelda
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Subscreen
-6 Items
-7 Saving
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move ￼ ￼ ￼ ￼ ￼ ￼ ￼  Attack with sword ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Use equipped item ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-Pause/Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼Display subscreen/Confirm selections
-￼￼￼￼￼￼￼START
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼● Press START on the title screen to display the file selection screen.
-● Select REGISTER YOUR
-NAME using SELECT and
-press START to enter the
-name of your character. Use SELECT to select REGISTER END when you're done, and press START to create a new game file.
-● Select the file you just created to start a game.
-♦ You can erase a file by choosing ELIMINATION MODE. Files that have been deleted cannot be recovered, so be careful.
-♦ If you have chosen a game that you have saved previously, you will restart at the beginning of the game, regardless of where you were when you saved the game.
-￼￼￼￼￼File Selection Screen
+￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼You must collect the eight fragments of the Triforce of Wisdom to enter Death
@@ -32,16 +8,7 @@ Prince of Darkness. You must defeat him and rescue the Princess Zelda!
 The vast land of Hyrule is comprised of a large, open overworld, with underworld dungeons scattered throughout. You must explore this overworld to discover the entrances to the underworld dungeons.
 If you touch an enemy or are hit by an enemy attack, your heart meter will go down. If you run out of hearts, it's game over.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼1234
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Main Screen
-￼￼￼￼￼￼￼1 2 3 4 5
-5
-Current dungeon
-No. of Rupees/Keys/Bombs Equipped item/Sword Heart meter
-Radar (Link's location)
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼5 Subscreen
+￼￼￼￼￼￼￼
 ￼￼Press START while you are
 exploring to view the
 subscreen. Here, you can
@@ -65,8 +32,4 @@ See the location of the Triforce fragment on the radar.
 ￼￼￼￼￼￼￼￼￼￼Magical Key
 Open locked doors.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼7 Saving
-￼￼The screen on the right will be displayed when it is game over. Select SAVE to save your progress and return to the file selection screen.
-Select CONTINUE to continue from the area you were last in, or select RETRY to return to the file selection screen without saving.
-♦ While the subscreen is displayed, you can also save and quit the game by pressing A and  at the same time on a second controller.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼

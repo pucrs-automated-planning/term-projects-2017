@@ -1,16 +1,5 @@
 Ghosts'n Goblins
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Equipment
-6 Items
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Attack ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Start game/Pause ￼ ￼ ￼ ￼ ￼ ￼ ￼ START Select players ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼￼￼￼￼￼￼￼￼
 ￼￼On the title screen, select
 1 PLAYER or 2 PLAYERS with SELECT, then press START to
 begin the game.
@@ -30,15 +19,7 @@ you managed to reach it.
 ● Game Over
 Lose all of your lives and it will be game over. If
 you lose all of your lives, you can always continue the game by selecting CONTINUE on the title screen.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼￼￼1 2
-2 3
-￼￼￼￼￼￼￼￼￼￼￼￼3 1
-￼￼￼￼￼￼￼Score
-Time remaining
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼Equipped weapon
-￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Equipment
 ￼￼You can find new weapons inside jars carried by enemies. Armour can be found at hidden spots within the stage, but not inside jars carried by enemies. Keep in mind that you can also find other items inside jars.
 Lance ￼ ￼ ￼ ￼ ￼ ￼ ￼ Flies straight and true. Default weapon.

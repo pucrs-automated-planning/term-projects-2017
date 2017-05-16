@@ -1,21 +1,5 @@
 BUBBLE BOBBLE
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Scoring
-6 Items
-7 Password
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-￼￼￼￼￼￼￼Move left and right/Enter password
-￼￼￼
-￼￼￼￼￼￼Jump A Blow bubbles B
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Confirm/Pause/Resume game Menu navigation
-START SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼
 ￼￼Select either 1P START or
 2P START with SELECT, then
 press START to begin the game.
@@ -46,11 +30,7 @@ drops out of a two-player game before the other player, the remaining player can
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼previously.
 ￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼￼￼123
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼4 6
-8 9
-￼￼￼￼5
-7 10
+￼￼￼￼￼
 Appears in the spot an enemy lands after it is defeated.
 Player 1 (Bub)
 Player 2 (Bob)
@@ -60,19 +40,10 @@ You can pass upward through platforms, but you cannot fall down through one plat
 10 Letters collected (spell EXTEND)
 11 Lives remaining (player 1)
 12 Lives remaining (player 2)
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼11 12
-￼￼￼￼1
-2
-3
-4
+￼￼
 Player 1's score Current round Player 2's score Enemy
 Bonus item
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼5
-￼￼￼￼￼￼￼6
-7
-8
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼9
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Scoring
 ￼￼The more bubbles you burst at
 once, the more points you

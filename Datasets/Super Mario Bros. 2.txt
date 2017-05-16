@@ -1,111 +1,77 @@
 Super Mario Bros. 2
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
+
+
 3 Basic Play
-4 Game Screen
-5 Character Strengths and Weaknesses
-6 Items
-7 Bonus Stage
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
-Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A
-Start game/Pause game ￼ ￼ ￼ ￼ ￼ START Other Controls
-￼￼￼￼￼￼￼￼Uproot item/Pick up item/Throw item/Run
-￼￼￼￼￼￼￼B
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Moving around
-￼￼￼￼￼￼Throw item/ enemy
-￼￼￼• Walk with 
-• Run with B + 
-• Crouch with 
-• Ascend/Descend vines and
-chains with 
-• Enter doors with 
-￼￼￼￼￼￼Power squat jump
-￼￼￼￼￼Hold  until you begin to flash and then press A to do a high
-jump.
-￼￼￼￼￼￼Uproot item/ Pick up item
-￼Press B when standing over a tuft of grass to uproot it. You can also press B when standing on top of a mushroom block or enemy to pick them up.
-￼￼￼Press B to throw the item/ enemy you are currently carrying. Press B while holding down  to throw the item/ enemy even further.
-￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼Press START to go to the character select screen. Highlight your character with  and press A to confirm.
-￼￼￼￼￼￼￼￼￼￼Title Screen
-Character Select Screen
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
-￼￼Make your way through the 20 areas that make up each of the 7 worlds in this epic adventure.
-● Basic Gameplay
+Make your way through the 20 areas that make up each of the 7 worlds in this epic adventure.
+Basic Gameplay
 Defeat enemies by throwing
 items, vegetables and even
 other enemies at them. Your
 life meter will decrease by
 one mark if you are touched by an enemy or an enemy attack. If your life meter is reduced to one mark you will revert to a smaller form.
-● Losing Lives and Game Over
+Losing Lives and Game Over
 If your life meter becomes fully depleted, or you
 fall into a pit you will lose a life. Lose all of
 your lives and it will be game over. You will then
 be taken to the game over screen with the following options:
-Retry ￼ ￼ ￼ ￼ ￼ Return to the title screen.
-● Progressing to the Next Area
+Retry      Return to the title screen.
+Progressing to the Next Area
 You will need to obtain the Crystal Ball from
 Birdo or any other boss to open the gate to the next area.
-￼￼￼￼￼￼￼￼￼￼￼Continue
-￼￼￼Restart from the first area of the current world. You only have two continues so be careful.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼1 2
+Continue
+Restart from the first area of the current world. You only have two continues so be careful.
+
+4 Game Screen
+1 2
 3 Enemy
 Press B while standing on top of an enemy to pick them up.
 Life Meter Player
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1
-￼￼￼￼￼￼￼2 3
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼5 Character Strengths and Weaknesses
-￼￼Each of the four characters have their own particular strengths and weaknesses.
-● Jumping Power
-● Running/Uprooting Items/Picking Up Items All characters have the same running speed,
+1
+2 3
+
+5 Character Strengths and Weaknesses
+Each of the four characters have their own particular strengths and weaknesses.
+Jumping Power
+Running/Uprooting Items/Picking Up Items All characters have the same running speed,
 however when carrying an item their speed will decrease accordingly. The list below shows, in order, who is the fastest when carrying an item as well as who can uproot items or pick up mushroom blocks the quickest.
-￼￼￼Mario
+Mario
 Average overall jumping power. However, the height he can jump and the speed he can run decreases a little
 when he is carrying an item.
-￼￼￼￼￼￼￼￼￼Luigi
+Luigi
 He can jump the highest and farthest out of the four characters, but he falls back down much slower than anyone else. When carrying an item his jumping power is decreased dramatically.
-￼￼￼￼￼￼￼￼￼￼Toad
+Toad
 He has the least jumping power out of everybody. However, due to his high lifting power, the height he can jump and the speed he can run will not decrease when carrying an item.
-￼￼￼￼￼￼￼￼￼￼Princess Peach
+Princess Peach
 Princess Peach can float in the air for a short time if you press and hold A, but her jumping power decreases quite a bit when carrying an item.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼1 ￼ ￼ ￼ ￼ ￼ ￼ ￼ Toad
-2 ￼ ￼ ￼ ￼ ￼ ￼ ￼ Mario
-3 ￼ ￼ ￼ ￼ ￼ ￼ ￼ Luigi
-4 ￼ ￼ ￼ ￼ ￼ Princess Peach
-￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼6 Items
-￼￼￼￼￼￼Coin
+
+1        Toad
+2        Mario
+3        Luigi
+4      Princess Peach
+
+6 Items
+Coin
 Collect and use these to win extra lives in the end-of-area bonus stage.
-￼￼￼￼￼￼￼￼Vegetable
+Vegetable
 Uproot enough of these and something special might happen!
-￼￼￼￼￼￼￼￼￼￼Mushroom Block
+Mushroom Block
 These can be used for steps or attacking enemies.
-￼￼￼￼￼￼￼￼￼￼Mushroom
+Mushroom
 Will completely restore your life meter and increase it by one mark (up to a maximum of four marks).
-￼￼￼￼￼￼￼￼￼￼1-UP
+1-UP
 Grants you an extra life.
-￼￼￼￼￼￼￼￼￼￼Small Heart
+Small Heart
 These appear after you defeat eight enemies and will replenish your life meter by one mark.
-￼￼￼￼￼￼￼￼￼￼Key
+Key
 Unlocks locked doors.
-￼￼￼￼￼￼￼￼￼￼Magic Potion
+Magic Potion
 Throwing this will reveal a door to the sub-space world.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼7 Bonus Stage
-￼￼Clear an area and use the coins
+
+7 Bonus Stage
+Clear an area and use the coins
 you have collected to try and
 win extra lives.
 Stop the slots one reel at a
 time with A and try to line up the symbols.
-Land ￼ on the left slot for one extra life, another on the middle slot also for two extra lives and if
-you can line up all three ￼ , five extra lives. If you can line up three of any of the other symbols you will win one extra life.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+Land  on the left slot for one extra life, another on the middle slot also for two extra lives and if
+you can line up all three  , five extra lives. If you can line up three of any of the other symbols you will win one extra life.

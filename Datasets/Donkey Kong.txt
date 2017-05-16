@@ -1,20 +1,9 @@
 Donkey Kong
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Items
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move/Use ladders ￼ ￼ ￼ ￼ ￼ ￼ ￼  Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Confirm selection/Pause game ￼ ￼ ￼ ￼ ￼ ￼ ￼ START
-Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
+￼￼￼￼￼￼￼
 ￼￼Select the number of players and game difficulty with SELECT, and begin your game with START.
-♦ There are two game difficulties available. A is normal difficulty and B is hard difficulty.
+There are two game difficulties available. A is normal difficulty and B is hard difficulty.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
+￼￼￼￼￼￼￼￼￼ Basic Play
 ￼￼Make your way through the
 three stages while avoiding the
 various enemies and barrels
@@ -22,20 +11,8 @@ heading your way.
 Clear stages one and two by working your way up to Pauline on the top floor, and stage three by walking over the top of all the bolts located throughout the stage.
 You will lose a life if you touch an enemy/barrel, the bonus time reaches zero or you fall from too high a ledge. Lose all of your lives and it will be game over.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼1 2
-3 4
-Top score
-Score
-Remaining lives
-Bonus timer
-The longer you take to complete a stage, the more it will decrease.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1
-￼￼￼￼￼￼￼2
-3
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼4
 ￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼5 Items
+￼￼￼￼￼￼￼￼￼￼￼Items
 ￼￼￼￼￼￼Invincible Hammer
 Allows you to destroy barrels and enemies for a short time.
 ￼￼￼￼￼￼￼￼Parasol

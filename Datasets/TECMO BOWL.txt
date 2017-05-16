@@ -1,22 +1,5 @@
 TECMO BOWL
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Game Screens
-4 Gameplay
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Hike / Kick / Choose a Receiver ￼ ￼ ￼ ￼ ￼ ￼ ￼ A
-Pass / Kick / Tackle ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Select Play Mode ￼ ￼ ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼Move / Select Formations / Make Selections
-￼￼￼
-￼￼￼￼￼￼￼￼￼Start
-￼￼￼￼START/ SELECT
-￼￼￼￼￼￼￼Break a Tackle (on Offence)
-￼￼￼￼￼￼Press A repeatedly
-￼￼￼Shed a Block (on Defence)
-￼￼￼￼￼Press A repeatedly
-￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
 ￼￼Tecmo Bowl is an American
 Football game in which players
@@ -33,36 +16,17 @@ and then press A. (Passwords will appear on the screen after a game is won.)
 ￼￼￼The kicking team will use Controller 2, and the receiving team uses Controller 1. Select your teams the same way you would when playing a
 1Player game.
 ￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼3 Game Screens
-￼￼● Gameplay Screen
-1
-2
-Time / Score
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼3
-Press  + A to select this formation Press  + A to select this formation Press  + A to select this formation Press  + A to select this formation
-￼￼￼￼￼￼￼￼￼1 2 3
-● Formation Selection Screen 4
-56 78 9
-￼￼￼￼￼￼Player Number and Statistics
-First-down Line
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Down / Yards to go until a First-down /
-￼4
-Quarter
-￼￼￼￼￼￼￼5 6 7 8
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Field Position and Indicator of Ball
-￼9
-Possession and Direction
-￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼4 Gameplay
 ￼￼￼￼Offence
-♦ When on offence, begin play by pressing A to snap the ball from the Center to the Quarterback.
-♦ You can avoid being tackled by the defence by repeatedly pressing A to break the opponent's tackle!
-♦ You can choose to pass on the Formation Selection Screen. You can only pass when using a Pass formation. After the snap, you can cycle through eligible Receivers by pressing A. The Receiver with the cursor over his head will be the player to receive the pass attempt.
-♦ The Kick Meter at the top of the screen indicates your kicking strength. The higher your strength, the farther the ball
+When on offence, begin play by pressing A to snap the ball from the Center to the Quarterback.
+You can avoid being tackled by the defence by repeatedly pressing A to break the opponent's tackle!
+You can choose to pass on the Formation Selection Screen. You can only pass when using a Pass formation. After the snap, you can cycle through eligible Receivers by pressing A. The Receiver with the cursor over his head will be the player to receive the pass attempt.
+The Kick Meter at the top of the screen indicates your kicking strength. The higher your strength, the farther the ball
 will fly.
 Defence
-♦ Use A to select the player you want to control.
-♦ Make a diving tackle by pressing B. A diving tackle will stop any player, no matter how big he is!
-♦ As you close in on the ball-carrier to make the tackle, there may be an opposing player there to block you. Press
-A repeatedly to shed the blocker if you are being blocked.
+Use A to select the player you want to control.
+Make a diving tackle by pressing B. A diving tackle will stop any player, no matter how big he is!
+As you close in on the ball-carrier to make the tackle, there may be an opposing player there to block you. Press
+repeatedly to shed the blocker if you are being blocked.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼

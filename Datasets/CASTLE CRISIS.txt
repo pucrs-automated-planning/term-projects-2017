@@ -1,14 +1,8 @@
 CASTLE CRISIS 
-For Atari Home Computers 
-by Bryan Edewaard 
 
 Castle Crisis is a fast-paced game for up to four players. Using your shield, you must capture and
 launch fireballs against an enemy's castle, while protecting your own castle from enemy fireball hits.
   
-Requirements: 
-Atari 400/800/XL/XE Computer with at least 16K RAM 
-One or two sets of Atari paddles 
-
 Insert the cartridge and turn on the computer. 
 
 The game will start-up in Attract mode. In this mode a single fireball bounces around the screen

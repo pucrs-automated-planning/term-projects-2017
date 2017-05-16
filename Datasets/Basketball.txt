@@ -1,27 +1,4 @@
-Basketball (1978 video game)
-From Wikipedia, the free encyclopedia
-
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2015) (Learn how and when to remove this template message)
-Basketball
-1978 Atari Basketball video game Box Art.jpg
-Developer(s)	Atari
-Publisher(s)	Atari
-Designer(s)	Chris Downend
-Alan Miller
-Platform(s)	Atari 2600 (original)
-Atari 8-bit family
-Release	1978
-Genre(s)	Basketball
-Mode(s)	Single-player, Two-player
-Basketball is an Atari 2600 game loosely based on the sport of the same name. The game features a simple game of one-on-one basketball playable by one or two players, one of the few early Atari 2600 to have a true single player feature with an AI-controlled opponent. Basketball was released for the Atari 8-bit family in 1979 with improved graphics.
-
-Contents  [hide] 
-1	Summary
-2	Reception
-3	In popular culture
-4	References
-5	External links
-Summary[edit]
+Basketball 
 
 Screenshot of Basketball
 At the start of the game, both players are at the center of the court. A jump ball is thrown between them to begin play. The player in the offensive position (i.e. in possession of the ball) always faces a basket representing the assigned shooting target, and defensive players always faces the opponent. Each player can move in eight directions with the joystick; the player with the ball constantly dribbles it. The defensive player may steal the ball when it leaves the opponent's hands (either in mid-dribble or mid-shot).

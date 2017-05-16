@@ -1,24 +1,5 @@
 StarTropics
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Introduction
-4 Story
-5 Game Screen
-6 Basic Play
-7 Weapons
-8 Items
-9 Saving
-10 Instruction Manual Insert
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move / Navigate menu ￼ ￼ ￼ ￼ ￼ ￼ ￼  Confirm/Talk/Jump ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Attack ￼ ￼ ￼ ￼ ￼ ￼ ￼ B
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Start/Confirm/Pause
-START
-￼￼Select weapon / Change weapon / Check status
-￼￼￼￼￼￼￼￼
-￼￼Change weapon ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
 ￼￼At the title screen, press START to display three files.
 Select "Register Your Name" by pressing START and enter your name to create a new file. Choose letters with  and confirm them with A.
@@ -43,15 +24,7 @@ You'll need all of Mike's abilities to defeat enemies, save his uncle, and solve
 Have you heard of my Uncle Steve? Well, most people don't call him that; they call him Dr. Jones. He is a very famous archaeologist who is looking for some lost ruins in the Coral Sea. I've never actually met him, but last week I received a letter from him inviting me to stay with him at his laboratory on C-Island.
 I leave tomorrow on a helicopter! I bet I won't be able to sleep at all tonight. Well, good night.
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼5 Game Screen
-￼￼￼￼￼￼￼￼￼￼￼￼￼2
-1 345
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3
-4 5
-Life Hearts
-Items / Special weapons
-Medicine Bottles Stars
-Lives
+￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼6 Basic Play
 ￼￼StarTropics consists of two different phases: the travel stage and the battle stage.
@@ -128,14 +101,5 @@ A sign that may give lives or take them away. It's random!
 ￼￼￼￼Vitamin X
 Temporarily fills up your hearts to 22 units. After using it, your health will slowly drain to the number of Life Hearts you previously had.
 ￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼9 Saving
-￼￼Your game's progress will be saved whenever you enter or exit a dungeon, finish a chapter, or when you lose your last life.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼10 Instruction Manual Insert
-￼￼The original instruction manual
-for StarTropics included a
-physical letter to Mike from Dr.
-Jones printed on parchment.
-When dipped in water, the letter
-revealed further instructions for Mike. See below for the immersed version of the letter.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼

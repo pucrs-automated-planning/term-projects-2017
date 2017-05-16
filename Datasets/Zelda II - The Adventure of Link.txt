@@ -1,38 +1,9 @@
 Zelda II - The Adventure of Link
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screens
-5 Items
-6 Magic
-7 Saving
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move/Menu navigation ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
-Jump/Use hammer ￼ ￼ ￼ ￼ ￼ ￼ ￼ A
-Use magic ￼ ￼ ￼ ￼ ￼ SELECT Special Controls for the Action Screen
-Link can use the jump thrust and downward thrust moves after a swordsman teaches them to him.
-￼￼￼￼￼￼￼￼￼￼￼Swing sword/Pick up item/Play flute/Talk/Interact
-￼￼￼Display subscreen/Pause/Resume game
-B
-￼￼￼￼￼￼￼￼￼START
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Jump thrust
-Press  while jumping to perform a jump thrust.
-￼￼￼￼￼￼￼￼￼Downward thrust/ Lower shield
-￼￼￼Press  while jumping to perform a downward thrust. Press  while standing to lower your shield.
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼Press START on the title screen to access the file selection screen, then register your name if you are starting a new game. Press SELECT to select REGISTER YOUR NAME, and START to confirm. Use  to select a character, and press A to input it. When you're finished, use SELECT to select END, then press START to go back to the file selection screen. Select your file and press START to start the game.
-● Erasing Save Data
-Use elimination mode to erase save data. Files
-that have been erased cannot be recovered, so be careful.
-￼￼￼￼￼￼￼￼￼￼File Selection Screen
-Name Registration Screen
+￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
 ￼￼Guide Link through Hyrule, defeat the guardians of the six palaces and set crystals in the statues you find there. Once your mission is complete, journey to the Valley of Death, defeat the final guardian and recover the Triforce of Courage.
-● Basic Rules
+Basic Rules
 Link will take damage and
 lose life points when hit by
 enemies or enemy attacks. If
@@ -60,25 +31,7 @@ Magic level/Magic points remaining Life level/Life points remaining
 Attack level
 Experience points needed for the next level
 Experience points earned
-￼￼￼￼￼￼￼Field Screen
-￼￼￼￼￼￼￼￼￼￼￼￼￼1 2
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼34
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Action Screen
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼3 4 5 6
-7
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼8
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Subscreen
-￼￼￼9
-10 12
-11
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Memorised magic/Magic points needed Lives remaining
-Keys
-11 Items
-Crystals remaining
-￼8
-9 10
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼12
+￼￼￼￼
 ￼￼￼
 ￼￼￼￼￼￼￼￼￼￼￼5 Items
 ￼￼￼￼￼￼Heart Container
@@ -102,13 +55,4 @@ Plays legendary Hylian music that rouses ancient powers.
 enabling him to reach places he normally could not.
 ￼￼￼Jump
 ￼￼￼￼￼￼Magic that restores a portion of Link's life points.
-￼￼￼Life
-￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼7 Saving
-￼￼When your game is over,
-choose SAVE to save your
-game and be taken back to the
-title screen. Once you save, all
-the special items and the current level of each ability will be saved. However, the experience points will be set back to zero.
-♦ While on the subscreen, you can press A and  on a second controller to go to the save screen and save your progress.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼

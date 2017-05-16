@@ -1,46 +1,16 @@
-GRADIUS
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-2 Getting Started
-3 Basic Play
-4 Game Screen
-5 Power Boosts
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼1 Controls
-￼￼￼￼Basic Controls
-Move Warp Rattler ￼ ￼ ￼ ￼ ￼ ￼ ￼  Shoot ￼ ￼ ￼ ￼ ￼ ￼ ￼ A Power boost ￼ ￼ ￼ ￼ ￼ ￼ ￼ B Pause/Confirm menu selection ￼ ￼ ￼ ￼ ￼ ￼ ￼ START
-Menu navigation ￼ ￼ ￼ ￼ ￼ SELECT
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼2 Getting Started
-￼￼Use SELECT to set the number of players, and press START to start.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼3 Basic Play
-￼￼Pilot the Warp Rattler across
+IGRADIUS
+
+Use SELECT to set the number of players, and press START to start.
+
+
+Pilot the Warp Rattler across
 stages and defeat the bosses
 to clear them. If you run into an
 enemy or obstacle, or get shot
 by an enemy while not in
 possession of the ? power boost, you'll lose a ship. If you lose all your ships, it will be game over.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼4 Game Screen
-￼￼￼￼￼￼￼￼￼1
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼234
-￼￼￼￼￼￼￼1 2 3 4
-Power boost available Remaining ships Current score
-High score
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼5 Power Boosts
-￼￼Red power capsules will appear when you defeat special enemies or formations. When you capture a capsule, a power boost will light up at the bottom of the screen. When the power boost you want to use lights up, press B. When you grab a blue power capsule, all weak enemies on the screen will be destroyed.
-1
-￼￼￼￼￼￼￼￼￼￼￼￼2
-￼￼￼￼￼￼￼￼Red power capsule Blue power capsule
-Power Boosts
-￼1 2
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Speed Up ￼ ￼ ￼ ￼ ￼ ￼ ￼ Increase your speed.
-Missile ￼ ￼ ￼ ￼ ￼ ￼ ￼ Shoot enemies on the ground. Double ￼ ￼ ￼ ￼ ￼ ￼ ￼ Fire twin shots.
-Laser ￼ ￼ ￼ ￼ ￼ ￼ ￼ Shoot a laser beam.
-♦ Double and Laser cannot be used together.
-￼￼￼￼￼￼￼￼￼￼￼Summon a Sidewinder ally that will help you in the attack.
-￼￼￼Option
-￼? (Force Field Barrier)
-￼￼￼￼￼￼Shield a set number of enemy attacks.
-￼￼￼￼￼￼￼￼￼￼￼￼￼
+
+
+
+5 Power Boosts
+Red power capsules will appear when you defeat special enemies or formations. When you capture a capsule, a power boost will light up at the bottom of the screen. When the power boost you want to use lights up, press B. When you grab a blue power capsule, all weak enemies on the screen will be destroyed.

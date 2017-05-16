@@ -1,15 +1,5 @@
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼SIMULATION
-￼THE PACIFIC AIR WAR
-GAME PLAYER’S GUIDE
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1942 THE PACIFIC AIR WAR
-GAME PLAYER’S GUIDE MicroProse
-All rights reserved. Copyright © 1994 MicroProse
-This book may not be reproduced in whole or in part, by mimeograph or photocopy or other means without permission, with the exception of quoting brief passages for the purpose of reviews.
-Ira Wolfert quotes from his book Battle for the Solomons, copyright 1943, North American Newspaper Alliance.
-Windows is a registered Trademark of Microsoft, Inc.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼“I could see our men and their men thrust their almost naked selves right into that terrible fire. They were bent over as if before a high wind and all the faces were wrinkled and grey as cloth, but they stood to it and kept at it. Air fighting is not like land fighting or sea fighting, where a man can take cover sometimes. There are no trenches or foxholes or gun shields on a plane, just a thin skin of metal and glass, mostly glass.”
-Ira Wolfert, reporter Somewhere Over Guadalcanal October, 1942
-2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1942 THE PACIFIC AIR WAR
+
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼INTRODUCTION
 From December of 1941 through the end of the World War, the combined forces of Japan fought the armed forces of the United States of America over a broad stretch of ocean peppered with islands. This was the Pacific campaign, one of the bloodiest, toughest-fought campaigns in all of recorded history. Though all of the forces involved were essential parts of the eventual outcome, naval aviation played a special part. The carrier forces of both sides proved their worth time and again.
 There was nothing pretty and very little funny about the South Pacific campaign, despite what you may have learned from “McHale’s Navy”. Carrier forces didn’t have it any tougher than most, but they didn’t have it any easier, either. The naval aviators, especially, played a risky and daring game with their counterparts on the other side. The miniature wars that they fought out in the skies were a milieu in which they were not just faceless, identical soldiers – individual skill made a difference. Your success or failure were in your own hands.
@@ -18,16 +8,7 @@ Success, of course, is fleeting; failure was usually final. A flyboy’s “inst
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼The idea behind 1942 THE PACIFIC AIR WAR is to re-create some of the adventure of that time and place and give you a chance to take part in it. To succeed, you have to avoid that oil- and blood-soaked, fire-on-water grave long enough to be of service to your country or your Emperor. As a commanding admiral of the navy, a crack fighter pilot, or just an anonymous Joe tail gunner, you are going to fight for recognition and just plain survival. The Japanese are moving south and east like a steamroller, trying to take control of the Pacific. The Americans are fighting back, desperately hoping to drain the strength from the Japanese juggernaut.
 You decide for which nation you will fight. You decide how you will fight and in what capacity. After that, all you can do is give your all and hope that it’s enough.
 This book, the Game Player’s Guide, contains complete instructions on installing, running, configuring, and playing 1942 THE PACIFIC AIR WAR. The Keycard is a one- stop reference to all of the keyboard, mouse, joystick, and other controls. The Technical Reference includes the hardware requirements for running the game and all of the software compatibility issues discovered before release. Any changes to the game that were made after this manual was written are also described in the Technical Reference. As always, the Readme file was written last, so any notations in that file supersede all other information.
-4
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼STARTUP
-Now that you’ve bought 1942 THE PACIFIC AIR WAR, you’ll need to install it on your hard disk before you can play it. Those of you who have purchased and installed recent MicroProse games are already familiar with the installation process and can probably just skim this section. The rest of you will want to read carefully. You can avoid a lot of unnecessary complications (and Customer Service calls) that way.
-The first step, as always, is to make sure you have enough space on your hard disk to install the game. Consult the Technical Supplement to find out approximately how much room 1942 THE PACIFIC AIR WAR will fill. If you do not have space, you will have to clear some files (or find a larger hard disk).
-Disk #1 of 1942 THE PACIFIC AIR WAR includes the standard MicroProse installation program. To begin the installation process, insert this disk in your drive. Type in the letter of that drive (usually A or B), followed by a colon and the word install, then press e. For example, the command:
-b:install e
-would run the installation program from a disk in drive B.
-NOTE: Do not attempt to run the installation program from within Microsoft Windows or when Windows is running. Install was not designed to interact with the Windows environment.
-INSTALLING
-5
+
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼STARTING THE GAME
 When the install program starts up, it asks you to verify from which drive you are installing and to which drive and directory. By default, the game files are copied from the disk drive on which install is running (A: or B:) and to a directory on your C: disk called \MPS\1942. You can change either, but if you choose to install from a different drive, you’ll have to put disk #1 in that drive. As the installation progresses, you will be prompted to insert the rest of the game disks. You can specify a new “from” drive for each disk, which is useful if you have more than one floppy drive.
 After the game files have all been installed on your hard drive, install checks your system hardware and suggests a setup based on what it finds. This setup is normally sufficient, but you can modify it if it doesn’t meet your specific requirements. Remember, however, that messing with your setup is probably the most common cause of unnecessary frustration and Customer Service calls.
@@ -1093,39 +1074,3 @@ Windmilling Propeller - A propeller that is in motion due to the effects of wind
 Wing - The primary airfoil for generating lift.
 Yaw - Movement of the aircraft about its vertical axis.
 Zoom - Change in the focus of a camera. Zooming in causes the camera to focus on objects that are smaller or farther away, thus limiting the horizontal scope of the focus; zooming out causes the camera to focus on closer or larger objects, thus expanding the horizontal scope and bringing more of the scene into the view.
-89
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼CREDITS
-￼ART
-Max Remington - 3D Art
-Susan Ullrich - 3D Art
-Todd Brizzi - Lead Artist & 2D Art Andy Laken - Opening Sequence,
-Animations & 2D Art Erroll Roberts - 2D Art Barbara Jeznach - 2D Art
-QUALITY ASSURANCE
-Andy Mazurek - Lead Frank Brown
-Walter Carter
-Jeff Dinger
-Jennifer MacLean Matt Showalter Destin Strader Tammy Talbott Jim Tricario
-Brian Wilson
-PRODUCER
-Ed Fletcher
-SPECIAL THANKS
-Tom Basham (Thunk)
-John Bruning, Sr.
-Lt. Steve Johnson, USAF Vice-Adm. William P. Mack (Ret.) Michael Reis
-Lt. Col. George Wargo (Ret.)
-￼GAME DESIGN
-Ed Fletcher John Paquin Mike Rea
-PROGRAMMING
-Ed Fletcher - Simulation & AI
-John Paquin - 3D Graphics
-Scott Spanburg - 3D Object Driver Mike Springer - Carrier Battles Rick Wittstruck - Miscellaneous
-SOUND
-Ken Legace Jim McConkey Mark Reis
-MANUALS
-John Possidente - Writing
-Joe Morel - Design & Layout Cesar Novoa - Design & Layout Nick Rusko-Berger - Art
-Andy Laken - Art
-Mark Behlart - History Lawrence Russell - History
-PACKAGING
-John Emory Moshe Milich
-90

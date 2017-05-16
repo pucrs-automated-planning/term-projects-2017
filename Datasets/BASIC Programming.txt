@@ -1,21 +1,5 @@
 BASIC Programming
-From Wikipedia, the free encyclopedia
-This article is about the Atari 2600 cartridge. For programming in other BASICs, see BASIC. For other uses, see Basic programming (disambiguation).
-Basic Programming
-Basicprogramming.png
-Developer(s)	Warren Robinett[1]
-Publisher(s)	Atari
-Designer(s)	Warren Robinett
-Platform(s)	Atari 2600
-Release	1979
-BASIC Programming (Model# CX2620) attempted to teach simple computer programming on the Atari 2600. It was released in 1979, and it was one of only a few non-gaming cartridges ever designed for the 2600. The programming language was superficially similar to dialects of BASIC, but differed in many important aspects. The extremely small RAM size of the Atari 2600, 128 bytes, severely restricted the possibilities of this cartridge for writing programs.
 
-Contents  [hide] 
-1	Details
-2	See also
-3	References
-4	External links
-Details[edit]
 The BASIC Programming display was divided into six regions:
 
 Program where instructions are written (maximum of nine (or eleven) lines of code).
